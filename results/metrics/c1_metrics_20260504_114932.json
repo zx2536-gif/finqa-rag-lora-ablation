@@ -1,0 +1,21 @@
+{
+  "config": "C1_zero_shot_baseline",
+  "model": "google/flan-t5-base",
+  "data_path": "data/processed/finqa_500.json",
+  "n_samples": 5,
+  "timestamp": "20260504_114932",
+  "metrics": {
+    "overall": {
+      "n_samples": 5,
+      "f1": 0.0,
+      "rouge_l": 0.0
+    },
+    "by_stratum": {
+      "percentage_simple": {
+        "n_samples": 5,
+        "f1": 0.0,
+        "rouge_l": 0.0
+      }
+    }
+  }
+}
