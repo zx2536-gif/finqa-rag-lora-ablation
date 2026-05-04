@@ -1,0 +1,26 @@
+# Core ML
+torch>=2.0
+transformers>=4.40
+peft>=0.10              # LoRA / QLoRA
+bitsandbytes>=0.43      # 4-bit quantization for QLoRA
+accelerate>=0.30
+datasets>=2.18
+
+# RAG
+sentence-transformers>=2.7
+faiss-cpu>=1.8          
+rank-bm25>=0.2.2
+
+# Evaluation
+rouge-score>=0.1.2
+nltk>=3.8
+
+# Demo & Logging
+gradio>=4.0
+wandb>=0.16
+
+# Utilities
+pyyaml>=6.0
+tqdm>=4.66
+pandas>=2.0
+numpy>=1.24
