@@ -216,3 +216,19 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# === FinQA project specific ===
+# Raw data downloaded from GitHub (regenerate with: python data/preprocess.py)
+data/raw/
+data/processed/
+
+# Model checkpoints (saved to Google Drive instead)
+checkpoints/
+*.bin
+*.safetensors
+
+# Wandb logs
+wandb/
+
+# Jupyter cache
+.ipynb_checkpoints/

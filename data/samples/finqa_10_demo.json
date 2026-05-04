@@ -1,0 +1,2898 @@
+[
+  {
+    "pre_text": [
+      "abiomed , inc .",
+      "and subsidiaries notes to consolidated financial statements 2014 ( continued ) note 8 .",
+      "goodwill and in-process research and development ( continued ) the company has no accumulated impairment losses on goodwill .",
+      "the company performed a step 0 qualitative assessment during the annual impairment review for fiscal 2015 as of october 31 , 2014 and concluded that it is not more likely than not that the fair value of the company 2019s single reporting unit is less than its carrying amount .",
+      "therefore , the two-step goodwill impairment test for the reporting unit was not necessary in fiscal 2015 .",
+      "as described in note 3 .",
+      "201cacquisitions , 201d in july 2014 , the company acquired ecp and ais and recorded $ 18.5 million of ipr&d .",
+      "the estimated fair value of the ipr&d was determined using a probability-weighted income approach , which discounts expected future cash flows to present value .",
+      "the projected cash flows from the expandable catheter pump technology were based on certain key assumptions , including estimates of future revenue and expenses , taking into account the stage of development of the technology at the acquisition date and the time and resources needed to complete development .",
+      "the company used a discount rate of 22.5% ( 22.5 % ) and cash flows that have been probability adjusted to reflect the risks of product commercialization , which the company believes are appropriate and representative of market participant assumptions .",
+      "the carrying value of the company 2019s ipr&d assets and the change in the balance for the year ended march 31 , 2015 is as follows : march 31 , ( in $ 000 2019s ) ."
+    ],
+    "post_text": [
+      "note 9 .",
+      "stockholders 2019 equity class b preferred stock the company has authorized 1000000 shares of class b preferred stock , $ .01 par value , of which the board of directors can set the designation , rights and privileges .",
+      "no shares of class b preferred stock have been issued or are outstanding .",
+      "stock repurchase program in november 2012 , the company 2019s board of directors authorized a stock repurchase program for up to $ 15.0 million of its common stock .",
+      "the company financed the stock repurchase program with its available cash .",
+      "during the year ended march 31 , 2013 , the company repurchased 1123587 shares for $ 15.0 million in open market purchases at an average cost of $ 13.39 per share , including commission expense .",
+      "the company completed the purchase of common stock under this stock repurchase program in january 2013 .",
+      "note 10 .",
+      "stock award plans and stock-based compensation stock award plans the company grants stock options and restricted stock awards to employees and others .",
+      "all outstanding stock options of the company as of march 31 , 2015 were granted with an exercise price equal to the fair market value on the date of grant .",
+      "outstanding stock options , if not exercised , expire 10 years from the date of grant .",
+      "the company 2019s 2008 stock incentive plan ( the 201cplan 201d ) authorizes the grant of a variety of equity awards to the company 2019s officers , directors , employees , consultants and advisers , including awards of unrestricted and restricted stock , restricted stock units , incentive and nonqualified stock options to purchase shares of common stock , performance share awards and stock appreciation rights .",
+      "the plan provides that options may only be granted at the current market value on the date of grant .",
+      "each share of stock issued pursuant to a stock option or stock appreciation right counts as one share against the maximum number of shares issuable under the plan , while each share of stock issued ."
+    ],
+    "filename": "ABMD/2015/page_93.pdf",
+    "table_ori": [
+      [
+        "",
+        "March 31, 2015 (in $000\u2019s)"
+      ],
+      [
+        "Beginning balance",
+        "$\u2014"
+      ],
+      [
+        "Additions",
+        "18,500"
+      ],
+      [
+        "Foreign currency translation impact",
+        "(3,789)"
+      ],
+      [
+        "Ending balance",
+        "$14,711"
+      ]
+    ],
+    "table": [
+      [
+        "",
+        "march 31 2015 ( in $ 000 2019s )"
+      ],
+      [
+        "beginning balance",
+        "$ 2014"
+      ],
+      [
+        "additions",
+        "18500"
+      ],
+      [
+        "foreign currency translation impact",
+        "-3789 ( 3789 )"
+      ],
+      [
+        "ending balance",
+        "$ 14711"
+      ]
+    ],
+    "qa": {
+      "question": "what percentage of the class b preferred stock is currently outstanding?",
+      "answer": "0%",
+      "explanation": "",
+      "ann_table_rows": [],
+      "ann_text_rows": [
+        12,
+        13
+      ],
+      "steps": [
+        {
+          "op": "divide1-1",
+          "arg1": "0",
+          "arg2": "1000000",
+          "res": "0%"
+        }
+      ],
+      "program": "divide(0, 1000000)",
+      "gold_inds": {
+        "text_12": "stockholders 2019 equity class b preferred stock the company has authorized 1000000 shares of class b preferred stock , $ .01 par value , of which the board of directors can set the designation , rights and privileges .",
+        "text_13": "no shares of class b preferred stock have been issued or are outstanding .",
+        "text_3": "the company performed a step 0 qualitative assessment during the annual impairment review for fiscal 2015 as of october 31 , 2014 and concluded that it is not more likely than not that the fair value of the company 2019s single reporting unit is less than its carrying amount ."
+      },
+      "exe_ans": 0.0,
+      "tfidftopn": {},
+      "program_re": "divide(0, 1000000)",
+      "model_input": [
+        [
+          "text_3",
+          "the company performed a step 0 qualitative assessment during the annual impairment review for fiscal 2015 as of october 31 , 2014 and concluded that it is not more likely than not that the fair value of the company 2019s single reporting unit is less than its carrying amount ."
+        ],
+        [
+          "text_12",
+          "stockholders 2019 equity class b preferred stock the company has authorized 1000000 shares of class b preferred stock , $ .01 par value , of which the board of directors can set the designation , rights and privileges ."
+        ],
+        [
+          "text_13",
+          "no shares of class b preferred stock have been issued or are outstanding ."
+        ]
+      ]
+    },
+    "id": "ABMD/2015/page_93.pdf-1",
+    "table_retrieved": [
+      {
+        "score": 0.936354398727417,
+        "ind": "table_4"
+      },
+      {
+        "score": 0.6515441536903381,
+        "ind": "table_1"
+      },
+      {
+        "score": -0.12099319696426392,
+        "ind": "table_2"
+      }
+    ],
+    "text_retrieved": [
+      {
+        "score": 1.731568694114685,
+        "ind": "text_12"
+      },
+      {
+        "score": 0.6066324710845947,
+        "ind": "text_13"
+      }
+    ],
+    "table_retrieved_all": [
+      {
+        "score": 0.936354398727417,
+        "ind": "table_4"
+      },
+      {
+        "score": 0.6515441536903381,
+        "ind": "table_1"
+      },
+      {
+        "score": -0.12099319696426392,
+        "ind": "table_2"
+      },
+      {
+        "score": -1.4381626844406128,
+        "ind": "table_3"
+      },
+      {
+        "score": -1.7344460487365723,
+        "ind": "table_0"
+      }
+    ],
+    "text_retrieved_all": [
+      {
+        "score": 1.731568694114685,
+        "ind": "text_12"
+      },
+      {
+        "score": 0.6066324710845947,
+        "ind": "text_13"
+      },
+      {
+        "score": -0.9497136473655701,
+        "ind": "text_10"
+      },
+      {
+        "score": -1.1428083181381226,
+        "ind": "text_16"
+      },
+      {
+        "score": -1.2794864177703857,
+        "ind": "text_2"
+      },
+      {
+        "score": -1.3833353519439697,
+        "ind": "text_3"
+      },
+      {
+        "score": -1.5209647417068481,
+        "ind": "text_20"
+      },
+      {
+        "score": -1.6402966976165771,
+        "ind": "text_14"
+      },
+      {
+        "score": -1.6498448848724365,
+        "ind": "text_8"
+      },
+      {
+        "score": -1.721863865852356,
+        "ind": "text_1"
+      },
+      {
+        "score": -1.8746683597564697,
+        "ind": "text_7"
+      },
+      {
+        "score": -1.8950741291046143,
+        "ind": "text_22"
+      },
+      {
+        "score": -1.9255893230438232,
+        "ind": "text_9"
+      },
+      {
+        "score": -1.9314038753509521,
+        "ind": "text_23"
+      },
+      {
+        "score": -1.9362045526504517,
+        "ind": "text_17"
+      },
+      {
+        "score": -1.939177393913269,
+        "ind": "text_6"
+      },
+      {
+        "score": -2.047865867614746,
+        "ind": "text_24"
+      },
+      {
+        "score": -2.1480934619903564,
+        "ind": "text_19"
+      },
+      {
+        "score": -2.1796693801879883,
+        "ind": "text_15"
+      },
+      {
+        "score": -2.276825428009033,
+        "ind": "text_4"
+      },
+      {
+        "score": -2.435499668121338,
+        "ind": "text_21"
+      },
+      {
+        "score": -2.7924938201904297,
+        "ind": "text_11"
+      },
+      {
+        "score": -2.864797592163086,
+        "ind": "text_18"
+      },
+      {
+        "score": -2.9422059059143066,
+        "ind": "text_5"
+      },
+      {
+        "score": -3.046783447265625,
+        "ind": "text_0"
+      }
+    ],
+    "_stratum": "percentage_simple"
+  },
+  {
+    "pre_text": [
+      "property investmentp yrr our overall strategy is to continue to increase our investment in quality industrial properties in both existing and select new markets and to continue to increase our investment in on-campus or hospital affiliated medical offf fice ff properties .",
+      "pursuant to this strategy , we evaluate development and acquisition opportunities based upon our market yy outlook , including general economic conditions , supply and long-term growth potential .",
+      "our ability to make future property investments is dependent upon identifying suitable acquisition and development opportunities , and our continued access to our longer-term sources of liquidity , including issuances of debt or equity securities as well asyy generating cash flow by disposing of selected properties .",
+      "leasing/capital costsg p tenant improvements and lease-related costs pertaining to our initial leasing of newly completed space , or vacant tt space in acquired properties , are referred to as first generation expenditures .",
+      "such first generation expenditures for tenant improvements are included within \"development of real estate investments\" in our consolidated statements of cash flows , while such expenditures for lease-related costs are included within \"other deferred leasing costs.\" cash expenditures related to the construction of a building's shell , as well as the associated site improvements , are also included within \"development of real estate investments\" in our consolidated statements of cash flows .",
+      "tenant improvements and leasing costs to re-let rental space that we previously leased to tenants are referred to as tt second generation expenditures .",
+      "building improvements that are not specific to any tenant , but serve to improve integral components of our real estate properties , are also second generation expenditures .",
+      "one of the principal uses of our liquidity is to fund the second generation leasing/capital expenditures of our real estate investments .",
+      "the following table summarizes our second generation capital expenditures by type of expenditure , as well as capital expenditures for the development of real estate investments and for other deferred leasing costs ( in thousands ) : ."
+    ],
+    "post_text": [
+      "second generation capital expenditures were significantly lower during 2016 and 2015 , compared to 2014 , as the result of significant dispositions of office properties , which were more capital intensive to re-lease than industrial ff properties .",
+      "we had wholly owned properties under development with an expected cost of ww $ 713.1 million at december 31 , 2016 , compared to projects with an expected cost of $ 599.8 million and $ 470.2 million at december 31 , 2015 and 2014 , respectively .",
+      "the capital expenditures in the table above include the capitalization of internal overhead costs .",
+      "we capitalized ww $ 24.0 million , $ 21.7 million and $ 23.9 million of overhead costs related to leasing activities , including both first and second generation leases , during the years ended december 31 , 2016 , 2015 and 2014 , respectively .",
+      "we ww capitalized $ 25.9 million , $ 23.8 million and $ 28.8 million of overhead costs related to development activities , including both development and tenant improvement projects on first and second generation space , during the years ended december 31 , 2016 , 2015 and 2014 , respectively .",
+      "combined overhead costs capitalized to leasing and development totaled 33.5% ( 33.5 % ) , 29.0% ( 29.0 % ) and 31.4% ( 31.4 % ) of our overall pool of overhead costs at december 31 , 2016 , 2015 and 2014 , respectively .",
+      "further discussion of the capitalization of overhead costs can be found in the year-to-year comparisons of general and administrative expenses and critical accounting policies sections of this item 7. ."
+    ],
+    "filename": "DRE/2016/page_59.pdf",
+    "table_ori": [
+      [
+        "",
+        "2016",
+        "2015",
+        "2014"
+      ],
+      [
+        "Second generation tenant improvements",
+        "$24,622",
+        "$28,681",
+        "$51,699"
+      ],
+      [
+        "Second generation leasing costs",
+        "27,029",
+        "24,471",
+        "37,898"
+      ],
+      [
+        "Building improvements",
+        "7,698",
+        "8,748",
+        "9,224"
+      ],
+      [
+        "Total second generation capital expenditures",
+        "$59,349",
+        "$61,900",
+        "$98,821"
+      ],
+      [
+        "Development of real estate investments",
+        "$401,442",
+        "$370,466",
+        "$446,722"
+      ],
+      [
+        "Other deferred leasing costs",
+        "$38,410",
+        "$30,790",
+        "$31,503"
+      ]
+    ],
+    "table": [
+      [
+        "",
+        "2016",
+        "2015",
+        "2014"
+      ],
+      [
+        "second generation tenant improvements",
+        "$ 24622",
+        "$ 28681",
+        "$ 51699"
+      ],
+      [
+        "second generation leasing costs",
+        "27029",
+        "24471",
+        "37898"
+      ],
+      [
+        "building improvements",
+        "7698",
+        "8748",
+        "9224"
+      ],
+      [
+        "total second generation capital expenditures",
+        "$ 59349",
+        "$ 61900",
+        "$ 98821"
+      ],
+      [
+        "development of real estate investments",
+        "$ 401442",
+        "$ 370466",
+        "$ 446722"
+      ],
+      [
+        "other deferred leasing costs",
+        "$ 38410",
+        "$ 30790",
+        "$ 31503"
+      ]
+    ],
+    "qa": {
+      "question": "in 2015 what was the percent of the total second generation capital expenditures by type of expenditure that wassecond generation leasing costs",
+      "answer": "79.5%",
+      "explanation": "",
+      "ann_table_rows": [
+        2
+      ],
+      "ann_text_rows": [],
+      "steps": [
+        {
+          "op": "divide1-1",
+          "arg1": "24471",
+          "arg2": "30790",
+          "res": "79.5%"
+        }
+      ],
+      "program": "divide(24471, 30790)",
+      "gold_inds": {
+        "table_2": "the second generation leasing costs of 2016 is 27029 ; the second generation leasing costs of 2015 is 24471 ; the second generation leasing costs of 2014 is 37898 ;",
+        "table_6": "the other deferred leasing costs of 2016 is $ 38410 ; the other deferred leasing costs of 2015 is $ 30790 ; the other deferred leasing costs of 2014 is $ 31503 ;"
+      },
+      "exe_ans": 0.79477,
+      "tfidftopn": {
+        "table_4": "The total second generation capital expenditures of 2016 is $ 59349 ; The total second generation capital expenditures of 2015 is $ 61900 ; The total second generation capital expenditures of 2014 is $ 98821 ;"
+      },
+      "program_re": "divide(24471, 30790)",
+      "model_input": [
+        [
+          "table_2",
+          "the second generation leasing costs of 2016 is 27029 ; the second generation leasing costs of 2015 is 24471 ; the second generation leasing costs of 2014 is 37898 ;"
+        ],
+        [
+          "table_4",
+          "the total second generation capital expenditures of 2016 is $ 59349 ; the total second generation capital expenditures of 2015 is $ 61900 ; the total second generation capital expenditures of 2014 is $ 98821 ;"
+        ],
+        [
+          "table_6",
+          "the other deferred leasing costs of 2016 is $ 38410 ; the other deferred leasing costs of 2015 is $ 30790 ; the other deferred leasing costs of 2014 is $ 31503 ;"
+        ]
+      ]
+    },
+    "id": "DRE/2016/page_59.pdf-1",
+    "table_retrieved": [
+      {
+        "score": 2.710296630859375,
+        "ind": "table_2"
+      },
+      {
+        "score": 2.310391902923584,
+        "ind": "table_4"
+      },
+      {
+        "score": 1.6530535221099854,
+        "ind": "table_6"
+      }
+    ],
+    "text_retrieved": [
+      {
+        "score": 0.9932892322540283,
+        "ind": "text_12"
+      },
+      {
+        "score": -0.1967935860157013,
+        "ind": "text_14"
+      }
+    ],
+    "table_retrieved_all": [
+      {
+        "score": 2.710296630859375,
+        "ind": "table_2"
+      },
+      {
+        "score": 2.310391902923584,
+        "ind": "table_4"
+      },
+      {
+        "score": 1.6530535221099854,
+        "ind": "table_6"
+      },
+      {
+        "score": -1.8854413032531738,
+        "ind": "table_1"
+      },
+      {
+        "score": -2.261788845062256,
+        "ind": "table_5"
+      },
+      {
+        "score": -3.1571109294891357,
+        "ind": "table_3"
+      },
+      {
+        "score": -3.5862019062042236,
+        "ind": "table_0"
+      }
+    ],
+    "text_retrieved_all": [
+      {
+        "score": 0.9932892322540283,
+        "ind": "text_12"
+      },
+      {
+        "score": -0.1967935860157013,
+        "ind": "text_14"
+      },
+      {
+        "score": -1.6099470853805542,
+        "ind": "text_3"
+      },
+      {
+        "score": -1.6382962465286255,
+        "ind": "text_13"
+      },
+      {
+        "score": -1.8318767547607422,
+        "ind": "text_8"
+      },
+      {
+        "score": -1.832952857017517,
+        "ind": "text_4"
+      },
+      {
+        "score": -1.938480019569397,
+        "ind": "text_11"
+      },
+      {
+        "score": -2.1302945613861084,
+        "ind": "text_9"
+      },
+      {
+        "score": -2.1738085746765137,
+        "ind": "text_7"
+      },
+      {
+        "score": -2.508455276489258,
+        "ind": "text_10"
+      },
+      {
+        "score": -2.7491509914398193,
+        "ind": "text_15"
+      },
+      {
+        "score": -2.975966691970825,
+        "ind": "text_5"
+      },
+      {
+        "score": -3.000352621078491,
+        "ind": "text_1"
+      },
+      {
+        "score": -3.1576974391937256,
+        "ind": "text_0"
+      },
+      {
+        "score": -3.550363063812256,
+        "ind": "text_2"
+      },
+      {
+        "score": -3.554544448852539,
+        "ind": "text_6"
+      }
+    ],
+    "_stratum": "percentage_simple"
+  },
+  {
+    "pre_text": [
+      "2022 expand client relationships - the overall market we serve continues to gravitate beyond single-application purchases to multi-solution partnerships .",
+      "as the market dynamics shift , we expect our clients and prospects to rely more on our multidimensional service offerings .",
+      "our leveraged solutions and processing expertise can produce meaningful value and cost savings for our clients through more efficient operating processes , improved service quality and convenience for our clients' customers .",
+      "2022 build global diversification - we continue to deploy resources in global markets where we expect to achieve meaningful scale .",
+      "revenues by segment the table below summarizes our revenues by reporting segment ( in millions ) : ."
+    ],
+    "post_text": [
+      "integrated financial solutions ( \"ifs\" ) the ifs segment is focused primarily on serving north american regional and community bank and savings institutions for transaction and account processing , payment solutions , channel solutions , digital channels , fraud , risk management and compliance solutions , lending and wealth and retirement solutions , and corporate liquidity , capitalizing on the continuing trend to outsource these solutions .",
+      "clients in this segment include regional and community banks , credit unions and commercial lenders , as well as government institutions , merchants and other commercial organizations .",
+      "these markets are primarily served through integrated solutions and characterized by multi-year processing contracts that generate highly recurring revenues .",
+      "the predictable nature of cash flows generated from this segment provides opportunities for further investments in innovation , integration , information and security , and compliance in a cost-effective manner .",
+      "our solutions in this segment include : 2022 core processing and ancillary applications .",
+      "our core processing software applications are designed to run banking processes for our financial institution clients , including deposit and lending systems , customer management , and other central management systems , serving as the system of record for processed activity .",
+      "our diverse selection of market- focused core systems enables fis to compete effectively in a wide range of markets .",
+      "we also offer a number of services that are ancillary to the primary applications listed above , including branch automation , back-office support systems and compliance support .",
+      "2022 digital solutions , including internet , mobile and ebanking .",
+      "our comprehensive suite of retail delivery applications enables financial institutions to integrate and streamline customer-facing operations and back-office processes , thereby improving customer interaction across all channels ( e.g. , branch offices , internet , atm , mobile , call centers ) .",
+      "fis' focus on consumer access has driven significant market innovation in this area , with multi-channel and multi-host solutions and a strategy that provides tight integration of services and a seamless customer experience .",
+      "fis is a leader in mobile banking solutions and electronic banking enabling clients to manage banking and payments through the internet , mobile devices , accounting software and telephone .",
+      "our corporate electronic banking solutions provide commercial treasury capabilities including cash management services and multi-bank collection and disbursement services that address the specialized needs of corporate clients .",
+      "fis systems provide full accounting and reconciliation for such transactions , serving also as the system of record. ."
+    ],
+    "filename": "FIS/2017/page_14.pdf",
+    "table_ori": [
+      [
+        "",
+        "2017",
+        "2016",
+        "2015"
+      ],
+      [
+        "IFS",
+        "$4,630",
+        "$4,525",
+        "$3,809"
+      ],
+      [
+        "GFS",
+        "4,138",
+        "4,250",
+        "2,361"
+      ],
+      [
+        "Corporate and Other",
+        "355",
+        "466",
+        "426"
+      ],
+      [
+        "Total Consolidated Revenues",
+        "$9,123",
+        "$9,241",
+        "$6,596"
+      ]
+    ],
+    "table": [
+      [
+        "",
+        "2017",
+        "2016",
+        "2015"
+      ],
+      [
+        "ifs",
+        "$ 4630",
+        "$ 4525",
+        "$ 3809"
+      ],
+      [
+        "gfs",
+        "4138",
+        "4250",
+        "2361"
+      ],
+      [
+        "corporate and other",
+        "355",
+        "466",
+        "426"
+      ],
+      [
+        "total consolidated revenues",
+        "$ 9123",
+        "$ 9241",
+        "$ 6596"
+      ]
+    ],
+    "qa": {
+      "question": "what percentage of total consolidated revenues was gfs segment in 2016?",
+      "answer": "46%",
+      "explanation": "",
+      "ann_table_rows": [
+        2,
+        4
+      ],
+      "ann_text_rows": [],
+      "steps": [
+        {
+          "op": "divide1-1",
+          "arg1": "4250",
+          "arg2": "9241",
+          "res": "46%"
+        }
+      ],
+      "program": "divide(4250, 9241)",
+      "gold_inds": {
+        "table_2": "the gfs of 2017 is 4138 ; the gfs of 2016 is 4250 ; the gfs of 2015 is 2361 ;",
+        "table_4": "the total consolidated revenues of 2017 is $ 9123 ; the total consolidated revenues of 2016 is $ 9241 ; the total consolidated revenues of 2015 is $ 6596 ;"
+      },
+      "exe_ans": 0.45991,
+      "tfidftopn": {
+        "text_4": "revenues by segment the table below summarizes our revenues by reporting segment ( in millions ) : ."
+      },
+      "program_re": "divide(4250, 9241)",
+      "model_input": [
+        [
+          "table_1",
+          "the ifs of 2017 is $ 4630 ; the ifs of 2016 is $ 4525 ; the ifs of 2015 is $ 3809 ;"
+        ],
+        [
+          "table_2",
+          "the gfs of 2017 is 4138 ; the gfs of 2016 is 4250 ; the gfs of 2015 is 2361 ;"
+        ],
+        [
+          "table_4",
+          "the total consolidated revenues of 2017 is $ 9123 ; the total consolidated revenues of 2016 is $ 9241 ; the total consolidated revenues of 2015 is $ 6596 ;"
+        ]
+      ]
+    },
+    "id": "FIS/2017/page_14.pdf-4",
+    "table_retrieved": [
+      {
+        "score": 3.037442207336426,
+        "ind": "table_4"
+      },
+      {
+        "score": 2.770381450653076,
+        "ind": "table_2"
+      },
+      {
+        "score": -1.2178938388824463,
+        "ind": "table_1"
+      }
+    ],
+    "text_retrieved": [
+      {
+        "score": -1.869150161743164,
+        "ind": "text_4"
+      },
+      {
+        "score": -3.024374008178711,
+        "ind": "text_3"
+      }
+    ],
+    "table_retrieved_all": [
+      {
+        "score": 3.037442207336426,
+        "ind": "table_4"
+      },
+      {
+        "score": 2.770381450653076,
+        "ind": "table_2"
+      },
+      {
+        "score": -1.2178938388824463,
+        "ind": "table_1"
+      },
+      {
+        "score": -3.084327220916748,
+        "ind": "table_3"
+      },
+      {
+        "score": -3.7351064682006836,
+        "ind": "table_0"
+      }
+    ],
+    "text_retrieved_all": [
+      {
+        "score": -1.869150161743164,
+        "ind": "text_4"
+      },
+      {
+        "score": -3.024374008178711,
+        "ind": "text_3"
+      },
+      {
+        "score": -3.0666074752807617,
+        "ind": "text_5"
+      },
+      {
+        "score": -3.148909330368042,
+        "ind": "text_8"
+      },
+      {
+        "score": -3.1838538646698,
+        "ind": "text_12"
+      },
+      {
+        "score": -3.282705783843994,
+        "ind": "text_16"
+      },
+      {
+        "score": -3.2867257595062256,
+        "ind": "text_0"
+      },
+      {
+        "score": -3.2920756340026855,
+        "ind": "text_9"
+      },
+      {
+        "score": -3.2957565784454346,
+        "ind": "text_2"
+      },
+      {
+        "score": -3.3032724857330322,
+        "ind": "text_11"
+      },
+      {
+        "score": -3.3702776432037354,
+        "ind": "text_6"
+      },
+      {
+        "score": -3.4121673107147217,
+        "ind": "text_7"
+      },
+      {
+        "score": -3.4460766315460205,
+        "ind": "text_18"
+      },
+      {
+        "score": -3.4523534774780273,
+        "ind": "text_14"
+      },
+      {
+        "score": -3.49660062789917,
+        "ind": "text_17"
+      },
+      {
+        "score": -3.535710573196411,
+        "ind": "text_15"
+      },
+      {
+        "score": -3.5578975677490234,
+        "ind": "text_10"
+      },
+      {
+        "score": -3.6107988357543945,
+        "ind": "text_13"
+      },
+      {
+        "score": -3.65372371673584,
+        "ind": "text_1"
+      }
+    ],
+    "_stratum": "percentage_simple"
+  },
+  {
+    "pre_text": [
+      "the fair value of our grants receivable is determined using a discounted cash flow model , which discounts future cash flows using an appropriate yield curve .",
+      "as of december 28 , 2013 , and december 29 , 2012 , the carrying amount of our grants receivable was classified within other current assets and other long-term assets , as applicable .",
+      "our long-term debt recognized at amortized cost is comprised of our senior notes and our convertible debentures .",
+      "the fair value of our senior notes is determined using active market prices , and it is therefore classified as level 1 .",
+      "the fair value of our convertible long-term debt is determined using discounted cash flow models with observable market inputs , and it takes into consideration variables such as interest rate changes , comparable securities , subordination discount , and credit-rating changes , and it is therefore classified as level 2 .",
+      "the nvidia corporation ( nvidia ) cross-license agreement liability in the preceding table was incurred as a result of entering into a long-term patent cross-license agreement with nvidia in january 2011 .",
+      "we agreed to make payments to nvidia over six years .",
+      "as of december 28 , 2013 , and december 29 , 2012 , the carrying amount of the liability arising from the agreement was classified within other accrued liabilities and other long-term liabilities , as applicable .",
+      "the fair value is determined using a discounted cash flow model , which discounts future cash flows using our incremental borrowing rates .",
+      "note 5 : cash and investments cash and investments at the end of each period were as follows : ( in millions ) dec 28 , dec 29 ."
+    ],
+    "post_text": [
+      "in the third quarter of 2013 , we sold our shares in clearwire corporation , which had been accounted for as available-for-sale marketable equity securities , and our interest in clearwire communications , llc ( clearwire llc ) , which had been accounted for as an equity method investment .",
+      "in total , we received proceeds of $ 470 million on these transactions and recognized a gain of $ 439 million , which is included in gains ( losses ) on equity investments , net on the consolidated statements of income .",
+      "proceeds received and gains recognized for each investment are included in the \"available-for-sale investments\" and \"equity method investments\" sections that follow .",
+      "table of contents intel corporation notes to consolidated financial statements ( continued ) ."
+    ],
+    "filename": "INTC/2013/page_71.pdf",
+    "table_ori": [
+      [
+        "(In Millions)",
+        "Dec 28,2013",
+        "Dec 29,2012"
+      ],
+      [
+        "Available-for-sale investments",
+        "$18,086",
+        "$14,001"
+      ],
+      [
+        "Cash",
+        "854",
+        "593"
+      ],
+      [
+        "Equity method investments",
+        "1,038",
+        "992"
+      ],
+      [
+        "Loans receivable",
+        "1,072",
+        "979"
+      ],
+      [
+        "Non-marketable cost method investments",
+        "1,270",
+        "1,202"
+      ],
+      [
+        "Reverse repurchase agreements",
+        "800",
+        "2,850"
+      ],
+      [
+        "Trading assets",
+        "8,441",
+        "5,685"
+      ],
+      [
+        "Total cash and investments",
+        "$31,561",
+        "$26,302"
+      ]
+    ],
+    "table": [
+      [
+        "( in millions )",
+        "dec 282013",
+        "dec 292012"
+      ],
+      [
+        "available-for-sale investments",
+        "$ 18086",
+        "$ 14001"
+      ],
+      [
+        "cash",
+        "854",
+        "593"
+      ],
+      [
+        "equity method investments",
+        "1038",
+        "992"
+      ],
+      [
+        "loans receivable",
+        "1072",
+        "979"
+      ],
+      [
+        "non-marketable cost method investments",
+        "1270",
+        "1202"
+      ],
+      [
+        "reverse repurchase agreements",
+        "800",
+        "2850"
+      ],
+      [
+        "trading assets",
+        "8441",
+        "5685"
+      ],
+      [
+        "total cash and investments",
+        "$ 31561",
+        "$ 26302"
+      ]
+    ],
+    "qa": {
+      "question": "what percentage of total cash and investments as of dec . 28 2013 was comprised of available-for-sale investments?",
+      "answer": "57%",
+      "explanation": "",
+      "ann_table_rows": [
+        1,
+        8
+      ],
+      "ann_text_rows": [],
+      "steps": [
+        {
+          "op": "divide2-1",
+          "arg1": "18086",
+          "arg2": "31561",
+          "res": "57%"
+        }
+      ],
+      "program": "divide(18086, 31561)",
+      "gold_inds": {
+        "table_1": "( in millions ) the available-for-sale investments of dec 282013 is $ 18086 ; the available-for-sale investments of dec 292012 is $ 14001 ;",
+        "table_8": "( in millions ) the total cash and investments of dec 282013 is $ 31561 ; the total cash and investments of dec 292012 is $ 26302 ;"
+      },
+      "exe_ans": 0.57305,
+      "tfidftopn": {
+        "text_9": "note 5 : cash and investments cash and investments at the end of each period were as follows : ( in millions ) dec 28 , dec 29 ."
+      },
+      "program_re": "divide(18086, 31561)",
+      "model_input": [
+        [
+          "table_1",
+          "( in millions ) the available-for-sale investments of dec 282013 is $ 18086 ; the available-for-sale investments of dec 292012 is $ 14001 ;"
+        ],
+        [
+          "table_2",
+          "( in millions ) the cash of dec 282013 is 854 ; the cash of dec 292012 is 593 ;"
+        ],
+        [
+          "table_8",
+          "( in millions ) the total cash and investments of dec 282013 is $ 31561 ; the total cash and investments of dec 292012 is $ 26302 ;"
+        ]
+      ]
+    },
+    "id": "INTC/2013/page_71.pdf-3",
+    "table_retrieved": [
+      {
+        "score": 3.004350423812866,
+        "ind": "table_8"
+      },
+      {
+        "score": 2.5582056045532227,
+        "ind": "table_1"
+      },
+      {
+        "score": 1.6111805438995361,
+        "ind": "table_2"
+      }
+    ],
+    "text_retrieved": [
+      {
+        "score": -2.0468595027923584,
+        "ind": "text_9"
+      },
+      {
+        "score": -2.567861795425415,
+        "ind": "text_11"
+      }
+    ],
+    "table_retrieved_all": [
+      {
+        "score": 3.004350423812866,
+        "ind": "table_8"
+      },
+      {
+        "score": 2.5582056045532227,
+        "ind": "table_1"
+      },
+      {
+        "score": 1.6111805438995361,
+        "ind": "table_2"
+      },
+      {
+        "score": -3.22578763961792,
+        "ind": "table_3"
+      },
+      {
+        "score": -3.3245253562927246,
+        "ind": "table_4"
+      },
+      {
+        "score": -3.447395086288452,
+        "ind": "table_7"
+      },
+      {
+        "score": -3.5555331707000732,
+        "ind": "table_5"
+      },
+      {
+        "score": -3.6860122680664062,
+        "ind": "table_6"
+      },
+      {
+        "score": -3.814141035079956,
+        "ind": "table_0"
+      }
+    ],
+    "text_retrieved_all": [
+      {
+        "score": -2.0468595027923584,
+        "ind": "text_9"
+      },
+      {
+        "score": -2.567861795425415,
+        "ind": "text_11"
+      },
+      {
+        "score": -2.9559710025787354,
+        "ind": "text_12"
+      },
+      {
+        "score": -3.0515291690826416,
+        "ind": "text_1"
+      },
+      {
+        "score": -3.1795146465301514,
+        "ind": "text_2"
+      },
+      {
+        "score": -3.2562360763549805,
+        "ind": "text_10"
+      },
+      {
+        "score": -3.486924171447754,
+        "ind": "text_7"
+      },
+      {
+        "score": -3.501552104949951,
+        "ind": "text_13"
+      },
+      {
+        "score": -3.585282325744629,
+        "ind": "text_8"
+      },
+      {
+        "score": -3.5940113067626953,
+        "ind": "text_3"
+      },
+      {
+        "score": -3.6120498180389404,
+        "ind": "text_5"
+      },
+      {
+        "score": -3.7108073234558105,
+        "ind": "text_4"
+      },
+      {
+        "score": -3.7679660320281982,
+        "ind": "text_0"
+      },
+      {
+        "score": -3.7792794704437256,
+        "ind": "text_6"
+      }
+    ],
+    "_stratum": "percentage_simple"
+  },
+  {
+    "pre_text": [
+      "liquidity and capital resources ."
+    ],
+    "post_text": [
+      "our cash , cash equivalents , and short-term investments consist principally of money market mutual funds , municipal bonds , and united states government agency securities .",
+      "all of our cash equivalents and short-term investments are classified as available-for-sale under the provisions of sfas 115 , 2018 2018accounting for certain investments in debt and equity securities . 2019 2019 the securities are carried at fair value with the unrealized gains and losses , net of tax , included in accumulated other comprehensive income , which is reflected as a separate component of stockholders 2019 equity .",
+      "our cash , cash equivalents , and short-term investments increased $ 226.2 million , or 83% ( 83 % ) , in fiscal 1999 , primarily due to cash generated from operations of $ 334.2 million , proceeds from the issuance of treasury stock related to the exercise of stock options under our stock option plans and sale of stock under the employee stock purchase plan of $ 142.9 million , and the release of restricted funds totaling $ 130.3 million associated with the refinancing of our corporate headquarters lease agreement .",
+      "other sources of cash include the proceeds from the sale of equity securities and the sale of a building in the amount of $ 63.9 million and $ 40.6 million , respectively .",
+      "in addition , short-term investments increased due to a reclassification of $ 46.7 million of investments classified as long-term to short-term as well as mark-to-market adjustments totaling $ 81.2 million .",
+      "these factors were partially offset by the purchase of treasury stock in the amount of $ 479.2 million , capital expenditures of $ 42.2 million , the purchase of other assets for $ 43.5 million , the purchase of the assets of golive systems and attitude software for $ 36.9 million , and the payment of dividends totaling $ 12.2 million .",
+      "we expect to continue our investing activities , including expenditures for computer systems for research and development , sales and marketing , product support , and administrative staff .",
+      "furthermore , cash reserves may be used to purchase treasury stock and acquire software companies , products , or technologies that are complementary to our business .",
+      "in september 1997 , adobe 2019s board of directors authorized , subject to certain business and market conditions , the purchase of up to 30.0 million shares of our common stock over a two-year period .",
+      "we repurchased approximately 1.7 million shares in the first quarter of fiscal 1999 , 20.3 million shares in fiscal 1998 , and 8.0 million shares in fiscal 1997 , at a cost of $ 30.5 million , $ 362.4 million , and $ 188.6 million , respectively .",
+      "this program was completed during the first quarter of fiscal 1999 .",
+      "in april 1999 , adobe 2019s board of directors authorized , subject to certain business and market conditions , the purchase of up to an additional 5.0 million shares of our common stock over a two-year period .",
+      "this new stock repurchase program was in addition to an existing program whereby we have been authorized to repurchase shares to offset issuances under employee stock option and stock purchase plans .",
+      "no purchases have been made under the 5.0 million share repurchase program .",
+      "under our existing plan to repurchase shares to offset issuances under employee stock plans , we repurchased approximately 11.2 million , 0.7 million , and 4.6 million shares in fiscal 1999 , 1998 , and 1997 , respectively , at a cost of $ 448.7 million , $ 16.8 million , and $ 87.0 million , respectively .",
+      "we have paid cash dividends on our common stock each quarter since the second quarter of 1988 .",
+      "adobe 2019s board of directors declared a cash dividend on our common stock of $ 0.025 per common share for each of the four quarters in fiscal 1999 , 1998 , and 1997 .",
+      "on december 1 , 1997 , we dividended one share of siebel common stock for each 600 shares of adobe common stock held by stockholders of record on october 31 , 1997 .",
+      "an equivalent cash dividend was paid for holdings of less than 15000 adobe shares and ."
+    ],
+    "filename": "ADBE/1999/page_33.pdf",
+    "table_ori": [
+      [
+        "",
+        "1999",
+        "Change",
+        "1998",
+        "Change",
+        "1997"
+      ],
+      [
+        "Cash, cash equivalents, and short-term investments",
+        "$498.7",
+        "83%",
+        "$272.5",
+        "(46)%",
+        "$503.0"
+      ],
+      [
+        "Working capital",
+        "$355.4",
+        "73%",
+        "$205.0",
+        "(55)%",
+        "$454.3"
+      ],
+      [
+        "Stockholders' equity",
+        "$512.2",
+        "(0.8)%",
+        "$516.4",
+        "(28)%",
+        "$715.4"
+      ]
+    ],
+    "table": [
+      [
+        "cash cash equivalents and short-term investments",
+        "1999 $ 498.7",
+        "change 83% ( 83 % )",
+        "1998 $ 272.5",
+        "change ( 46 ) % (  % )",
+        "1997 $ 503.0"
+      ],
+      [
+        "working capital",
+        "$ 355.4",
+        "73% ( 73 % )",
+        "$ 205.0",
+        "( 55 ) % (  % )",
+        "$ 454.3"
+      ],
+      [
+        "stockholders' equity",
+        "$ 512.2",
+        "( 0.8 ) % (  % )",
+        "$ 516.4",
+        "( 28 ) % (  % )",
+        "$ 715.4"
+      ]
+    ],
+    "qa": {
+      "question": "what percentage of cash , cash equivalents , and short-term investments was due to cash generated from operations?",
+      "answer": "148%",
+      "explanation": "",
+      "ann_table_rows": [],
+      "ann_text_rows": [
+        3
+      ],
+      "steps": [
+        {
+          "op": "divide1-1",
+          "arg1": "334.2",
+          "arg2": "226.2",
+          "res": "148%"
+        }
+      ],
+      "program": "divide(334.2, 226.2)",
+      "gold_inds": {
+        "text_3": "our cash , cash equivalents , and short-term investments increased $ 226.2 million , or 83% ( 83 % ) , in fiscal 1999 , primarily due to cash generated from operations of $ 334.2 million , proceeds from the issuance of treasury stock related to the exercise of stock options under our stock option plans and sale of stock under the employee stock purchase plan of $ 142.9 million , and the release of restricted funds totaling $ 130.3 million associated with the refinancing of our corporate headquarters lease agreement ."
+      },
+      "exe_ans": 1.47745,
+      "tfidftopn": {
+        "text_1": "our cash , cash equivalents , and short-term investments consist principally of money market mutual funds , municipal bonds , and united states government agency securities .",
+        "text_5": "in addition , short-term investments increased due to a reclassification of $ 46.7 million of investments classified as long-term to short-term as well as mark-to-market adjustments totaling $ 81.2 million ."
+      },
+      "program_re": "divide(334.2, 226.2)",
+      "model_input": [
+        [
+          "table_0",
+          "cash cash equivalents and short-term investments the cash cash equivalents and short-term investments of 1999 $ 498.7 is 1999 $ 498.7 ; the cash cash equivalents and short-term investments of change 83% ( 83 % ) is change 83% ( 83 % ) ; the cash cash equivalents and short-term investments of 1998 $ 272.5 is 1998 $ 272.5 ; the cash cash equivalents and short-term investments of change ( 46 ) % ( % ) is change ( 46 ) % ( % ) ; the cash cash equivalents and short-term investments of 1997 $ 503.0 is 1997 $ 503.0 ;"
+        ],
+        [
+          "text_3",
+          "our cash , cash equivalents , and short-term investments increased $ 226.2 million , or 83% ( 83 % ) , in fiscal 1999 , primarily due to cash generated from operations of $ 334.2 million , proceeds from the issuance of treasury stock related to the exercise of stock options under our stock option plans and sale of stock under the employee stock purchase plan of $ 142.9 million , and the release of restricted funds totaling $ 130.3 million associated with the refinancing of our corporate headquarters lease agreement ."
+        ],
+        [
+          "text_10",
+          "we repurchased approximately 1.7 million shares in the first quarter of fiscal 1999 , 20.3 million shares in fiscal 1998 , and 8.0 million shares in fiscal 1997 , at a cost of $ 30.5 million , $ 362.4 million , and $ 188.6 million , respectively ."
+        ]
+      ]
+    },
+    "id": "ADBE/1999/page_33.pdf-4",
+    "table_retrieved": [
+      {
+        "score": -1.0103154182434082,
+        "ind": "table_0"
+      },
+      {
+        "score": -1.903691053390503,
+        "ind": "table_2"
+      }
+    ],
+    "text_retrieved": [
+      {
+        "score": 1.3801192045211792,
+        "ind": "text_3"
+      },
+      {
+        "score": -1.463616967201233,
+        "ind": "text_10"
+      },
+      {
+        "score": -1.8217401504516602,
+        "ind": "text_15"
+      }
+    ],
+    "table_retrieved_all": [
+      {
+        "score": -1.0103154182434082,
+        "ind": "table_0"
+      },
+      {
+        "score": -1.903691053390503,
+        "ind": "table_2"
+      },
+      {
+        "score": -2.22849178314209,
+        "ind": "table_1"
+      }
+    ],
+    "text_retrieved_all": [
+      {
+        "score": 1.3801192045211792,
+        "ind": "text_3"
+      },
+      {
+        "score": -1.463616967201233,
+        "ind": "text_10"
+      },
+      {
+        "score": -1.8217401504516602,
+        "ind": "text_15"
+      },
+      {
+        "score": -2.282646656036377,
+        "ind": "text_8"
+      },
+      {
+        "score": -2.3566200733184814,
+        "ind": "text_2"
+      },
+      {
+        "score": -2.378338575363159,
+        "ind": "text_7"
+      },
+      {
+        "score": -2.579596996307373,
+        "ind": "text_9"
+      },
+      {
+        "score": -2.7402098178863525,
+        "ind": "text_4"
+      },
+      {
+        "score": -2.769536256790161,
+        "ind": "text_19"
+      },
+      {
+        "score": -2.8161778450012207,
+        "ind": "text_1"
+      },
+      {
+        "score": -2.9161643981933594,
+        "ind": "text_14"
+      },
+      {
+        "score": -2.933389902114868,
+        "ind": "text_12"
+      },
+      {
+        "score": -2.9389450550079346,
+        "ind": "text_0"
+      },
+      {
+        "score": -2.986419916152954,
+        "ind": "text_11"
+      },
+      {
+        "score": -3.077930212020874,
+        "ind": "text_17"
+      },
+      {
+        "score": -3.1405389308929443,
+        "ind": "text_5"
+      },
+      {
+        "score": -3.1991631984710693,
+        "ind": "text_18"
+      },
+      {
+        "score": -3.236067295074463,
+        "ind": "text_16"
+      },
+      {
+        "score": -3.2584285736083984,
+        "ind": "text_6"
+      },
+      {
+        "score": -3.5843589305877686,
+        "ind": "text_13"
+      }
+    ],
+    "_stratum": "percentage_simple"
+  },
+  {
+    "pre_text": [
+      "positions and collateral of the defaulting firm at each respective clearing organization , and taking into account any cross-margining loss sharing payments , any of the participating clearing organizations has a remaining liquidating surplus , and any other participating clearing organization has a remaining liquidating deficit , any additional surplus from the liquidation would be shared with the other clearing house to the extent that it has a remaining liquidating deficit .",
+      "any remaining surplus funds would be passed to the bankruptcy trustee .",
+      "mf global bankruptcy trust .",
+      "the company provided a $ 550.0 million financial guarantee to the bankruptcy trustee of mf global to accelerate the distribution of funds to mf global customers .",
+      "in the event that the trustee distributed more property in the second or third interim distributions than was permitted by the bankruptcy code and cftc regulations , the company will make a cash payment to the trustee for the amount of the erroneous distribution or distributions up to $ 550.0 million in the aggregate .",
+      "a payment will only be made after the trustee makes reasonable efforts to collect the property erroneously distributed to the customer ( s ) .",
+      "if a payment is made by the company , the company may have the right to seek reimbursement of the erroneously distributed property from the applicable customer ( s ) .",
+      "the guarantee does not cover distributions made by the trustee to customers on the basis of their claims filed in the bankruptcy .",
+      "because the trustee has now made payments to nearly all customers on the basis of their claims , the company believes that the likelihood of payment to the trustee is very remote .",
+      "as a result , the guarantee liability is estimated to be immaterial at december 31 , 2012 .",
+      "family farmer and rancher protection fund .",
+      "in april 2012 , the company established the family farmer and rancher protection fund ( the fund ) .",
+      "the fund is designed to provide payments , up to certain maximum levels , to family farmers , ranchers and other agricultural industry participants who use cme group agricultural products and who suffer losses to their segregated account balances due to their cme clearing member becoming insolvent .",
+      "under the terms of the fund , farmers and ranchers are eligible for up to $ 25000 per participant .",
+      "farming and ranching cooperatives are eligible for up to $ 100000 per cooperative .",
+      "the fund has an aggregate maximum payment amount of $ 100.0 million .",
+      "if payments to participants were to exceed this amount , payments would be pro-rated .",
+      "clearing members and customers must register in advance with the company and provide certain documentation in order to substantiate their eligibility .",
+      "peregrine financial group , inc .",
+      "( pfg ) filed for bankruptcy protection on july 10 , 2012 .",
+      "pfg was not one of cme 2019s clearing members and its customers had not registered for the fund .",
+      "accordingly , they were not technically eligible for payments from the fund .",
+      "however , because the fund was newly implemented and because pfg 2019s customers included many agricultural industry participants for whom the program was designed , the company decided to waive certain terms and conditions of the fund , solely in connection with the pfg bankruptcy , so that otherwise eligible family farmers , ranchers and agricultural cooperatives could apply for and receive benefits from cme .",
+      "based on the number of such pfg customers who applied and the estimated size of their claims , the company has recorded a liability in the amount of $ 2.1 million at december 31 , 2012 .",
+      "16 .",
+      "redeemable non-controlling interest the following summarizes the changes in redeemable non-controlling interest for the years presented .",
+      "non- controlling interests that do not contain redemption features are presented in the statements of equity. ."
+    ],
+    "post_text": [
+      "contribution by dow jones .",
+      ".",
+      ".",
+      ".",
+      ".",
+      ".",
+      ".",
+      ".",
+      ".",
+      ".",
+      ".",
+      "2014 2014 675.0 distribution to dow jones .",
+      ".",
+      ".",
+      ".",
+      ".",
+      ".",
+      ".",
+      ".",
+      ".",
+      ".",
+      ".",
+      "2014 2014 ( 607.5 ) allocation of stock- compensation .",
+      ".",
+      ".",
+      ".",
+      "2014 0.1 2014 total comprehensive income attributable to redeemable non- controlling interest .",
+      ".",
+      ".",
+      ".",
+      ".",
+      ".",
+      ".",
+      ".",
+      ".",
+      ".",
+      "10.5 2.1 0.6 balance at december 31 .",
+      ".",
+      ".",
+      ".",
+      ".",
+      ".",
+      ".",
+      ".",
+      ".",
+      "$ 80.8 $ 70.3 $ 68.1 ."
+    ],
+    "filename": "CME/2012/page_103.pdf",
+    "table_ori": [
+      [
+        "(in millions)",
+        "2012",
+        "2011",
+        "2010"
+      ],
+      [
+        "Balance at January 1",
+        "$70.3",
+        "$68.1",
+        "$\u2014"
+      ],
+      [
+        "Contribution by Dow Jones",
+        "\u2014",
+        "\u2014",
+        "675.0"
+      ],
+      [
+        "Distribution to Dow Jones",
+        "\u2014",
+        "\u2014",
+        "(607.5)"
+      ],
+      [
+        "Allocation of stock-based compensation",
+        "\u2014",
+        "0.1",
+        "\u2014"
+      ],
+      [
+        "Total comprehensive income attributable to redeemable non-controlling interest",
+        "10.5",
+        "2.1",
+        "0.6"
+      ],
+      [
+        "Balance at December 31",
+        "$80.8",
+        "$70.3",
+        "$68.1"
+      ]
+    ],
+    "table": [
+      [
+        "( in millions )",
+        "2012",
+        "2011",
+        "2010"
+      ],
+      [
+        "balance at january 1",
+        "$ 70.3",
+        "$ 68.1",
+        "$ 2014"
+      ],
+      [
+        "contribution by dow jones",
+        "2014",
+        "2014",
+        "675.0"
+      ],
+      [
+        "distribution to dow jones",
+        "2014",
+        "2014",
+        "-607.5 ( 607.5 )"
+      ],
+      [
+        "allocation of stock-based compensation",
+        "2014",
+        "0.1",
+        "2014"
+      ],
+      [
+        "total comprehensive income attributable to redeemable non-controlling interest",
+        "10.5",
+        "2.1",
+        "0.6"
+      ],
+      [
+        "balance at december 31",
+        "$ 80.8",
+        "$ 70.3",
+        "$ 68.1"
+      ]
+    ],
+    "qa": {
+      "question": "what was the percentage change in the redeemable non-controlling in 2012",
+      "answer": "14.9%",
+      "explanation": "",
+      "ann_table_rows": [
+        5,
+        1
+      ],
+      "ann_text_rows": [],
+      "steps": [
+        {
+          "op": "divide1-1",
+          "arg1": "10.5",
+          "arg2": "70.3",
+          "res": "14.9%"
+        }
+      ],
+      "program": "divide(10.5, 70.3)",
+      "gold_inds": {
+        "table_5": "( in millions ) the total comprehensive income attributable to redeemable non-controlling interest of 2012 is 10.5 ; the total comprehensive income attributable to redeemable non-controlling interest of 2011 is 2.1 ; the total comprehensive income attributable to redeemable non-controlling interest of 2010 is 0.6 ;",
+        "table_1": "( in millions ) the balance at january 1 of 2012 is $ 70.3 ; the balance at january 1 of 2011 is $ 68.1 ; the balance at january 1 of 2010 is $ 2014 ;"
+      },
+      "exe_ans": 0.14936,
+      "tfidftopn": {
+        "text_25": "redeemable non-controlling interest the following summarizes the changes in redeemable non-controlling interest for the years presented ."
+      },
+      "program_re": "divide(10.5, 70.3)",
+      "model_input": [
+        [
+          "table_1",
+          "( in millions ) the balance at january 1 of 2012 is $ 70.3 ; the balance at january 1 of 2011 is $ 68.1 ; the balance at january 1 of 2010 is $ 2014 ;"
+        ],
+        [
+          "table_5",
+          "( in millions ) the total comprehensive income attributable to redeemable non-controlling interest of 2012 is 10.5 ; the total comprehensive income attributable to redeemable non-controlling interest of 2011 is 2.1 ; the total comprehensive income attributable to redeemable non-controlling interest of 2010 is 0.6 ;"
+        ],
+        [
+          "table_6",
+          "( in millions ) the balance at december 31 of 2012 is $ 80.8 ; the balance at december 31 of 2011 is $ 70.3 ; the balance at december 31 of 2010 is $ 68.1 ;"
+        ]
+      ]
+    },
+    "id": "CME/2012/page_103.pdf-2",
+    "table_retrieved": [
+      {
+        "score": 1.5772676467895508,
+        "ind": "table_6"
+      },
+      {
+        "score": 1.3635170459747314,
+        "ind": "table_5"
+      },
+      {
+        "score": 1.1924631595611572,
+        "ind": "table_1"
+      }
+    ],
+    "text_retrieved": [
+      {
+        "score": -0.5801644325256348,
+        "ind": "text_72"
+      },
+      {
+        "score": -0.7490383982658386,
+        "ind": "text_53"
+      }
+    ],
+    "table_retrieved_all": [
+      {
+        "score": 1.5772676467895508,
+        "ind": "table_6"
+      },
+      {
+        "score": 1.3635170459747314,
+        "ind": "table_5"
+      },
+      {
+        "score": 1.1924631595611572,
+        "ind": "table_1"
+      },
+      {
+        "score": -1.289388656616211,
+        "ind": "table_3"
+      },
+      {
+        "score": -1.6420987844467163,
+        "ind": "table_2"
+      },
+      {
+        "score": -3.0946550369262695,
+        "ind": "table_4"
+      },
+      {
+        "score": -3.5103487968444824,
+        "ind": "table_0"
+      }
+    ],
+    "text_retrieved_all": [
+      {
+        "score": -0.5801644325256348,
+        "ind": "text_72"
+      },
+      {
+        "score": -0.7490383982658386,
+        "ind": "text_53"
+      },
+      {
+        "score": -1.3303302526474,
+        "ind": "text_25"
+      },
+      {
+        "score": -1.4551831483840942,
+        "ind": "text_23"
+      },
+      {
+        "score": -1.5947902202606201,
+        "ind": "text_13"
+      },
+      {
+        "score": -1.6647100448608398,
+        "ind": "text_15"
+      },
+      {
+        "score": -1.66694974899292,
+        "ind": "text_26"
+      },
+      {
+        "score": -1.8177956342697144,
+        "ind": "text_4"
+      },
+      {
+        "score": -2.0999832153320312,
+        "ind": "text_63"
+      },
+      {
+        "score": -2.1176745891571045,
+        "ind": "text_9"
+      },
+      {
+        "score": -2.2948803901672363,
+        "ind": "text_21"
+      },
+      {
+        "score": -2.3114676475524902,
+        "ind": "text_7"
+      },
+      {
+        "score": -2.3285958766937256,
+        "ind": "text_10"
+      },
+      {
+        "score": -2.3773603439331055,
+        "ind": "text_0"
+      },
+      {
+        "score": -2.478097915649414,
+        "ind": "text_12"
+      },
+      {
+        "score": -2.478543996810913,
+        "ind": "text_14"
+      },
+      {
+        "score": -2.625730514526367,
+        "ind": "text_49"
+      },
+      {
+        "score": -2.6456525325775146,
+        "ind": "text_24"
+      },
+      {
+        "score": -2.760927438735962,
+        "ind": "text_5"
+      },
+      {
+        "score": -2.91308856010437,
+        "ind": "text_3"
+      },
+      {
+        "score": -2.922572612762451,
+        "ind": "text_27"
+      },
+      {
+        "score": -2.927626848220825,
+        "ind": "text_2"
+      },
+      {
+        "score": -2.9352493286132812,
+        "ind": "text_6"
+      },
+      {
+        "score": -2.968888759613037,
+        "ind": "text_16"
+      },
+      {
+        "score": -2.975451946258545,
+        "ind": "text_38"
+      },
+      {
+        "score": -3.0313940048217773,
+        "ind": "text_22"
+      },
+      {
+        "score": -3.0870370864868164,
+        "ind": "text_8"
+      },
+      {
+        "score": -3.1208720207214355,
+        "ind": "text_1"
+      },
+      {
+        "score": -3.153076648712158,
+        "ind": "text_17"
+      },
+      {
+        "score": -3.1670479774475098,
+        "ind": "text_20"
+      },
+      {
+        "score": -3.1798787117004395,
+        "ind": "text_19"
+      },
+      {
+        "score": -3.2333080768585205,
+        "ind": "text_11"
+      },
+      {
+        "score": -3.502293586730957,
+        "ind": "text_28"
+      },
+      {
+        "score": -3.502293586730957,
+        "ind": "text_29"
+      },
+      {
+        "score": -3.502293586730957,
+        "ind": "text_30"
+      },
+      {
+        "score": -3.502293586730957,
+        "ind": "text_31"
+      },
+      {
+        "score": -3.502293586730957,
+        "ind": "text_32"
+      },
+      {
+        "score": -3.502293586730957,
+        "ind": "text_33"
+      },
+      {
+        "score": -3.502293586730957,
+        "ind": "text_34"
+      },
+      {
+        "score": -3.502293586730957,
+        "ind": "text_35"
+      },
+      {
+        "score": -3.502293586730957,
+        "ind": "text_36"
+      },
+      {
+        "score": -3.502293586730957,
+        "ind": "text_37"
+      },
+      {
+        "score": -3.502293586730957,
+        "ind": "text_39"
+      },
+      {
+        "score": -3.502293586730957,
+        "ind": "text_40"
+      },
+      {
+        "score": -3.502293586730957,
+        "ind": "text_41"
+      },
+      {
+        "score": -3.502293586730957,
+        "ind": "text_42"
+      },
+      {
+        "score": -3.502293586730957,
+        "ind": "text_43"
+      },
+      {
+        "score": -3.502293586730957,
+        "ind": "text_44"
+      },
+      {
+        "score": -3.502293586730957,
+        "ind": "text_45"
+      },
+      {
+        "score": -3.502293586730957,
+        "ind": "text_46"
+      },
+      {
+        "score": -3.502293586730957,
+        "ind": "text_47"
+      },
+      {
+        "score": -3.502293586730957,
+        "ind": "text_48"
+      },
+      {
+        "score": -3.502293586730957,
+        "ind": "text_50"
+      },
+      {
+        "score": -3.502293586730957,
+        "ind": "text_51"
+      },
+      {
+        "score": -3.502293586730957,
+        "ind": "text_52"
+      },
+      {
+        "score": -3.502293586730957,
+        "ind": "text_54"
+      },
+      {
+        "score": -3.502293586730957,
+        "ind": "text_55"
+      },
+      {
+        "score": -3.502293586730957,
+        "ind": "text_56"
+      },
+      {
+        "score": -3.502293586730957,
+        "ind": "text_57"
+      },
+      {
+        "score": -3.502293586730957,
+        "ind": "text_58"
+      },
+      {
+        "score": -3.502293586730957,
+        "ind": "text_59"
+      },
+      {
+        "score": -3.502293586730957,
+        "ind": "text_60"
+      },
+      {
+        "score": -3.502293586730957,
+        "ind": "text_61"
+      },
+      {
+        "score": -3.502293586730957,
+        "ind": "text_62"
+      },
+      {
+        "score": -3.502293586730957,
+        "ind": "text_64"
+      },
+      {
+        "score": -3.502293586730957,
+        "ind": "text_65"
+      },
+      {
+        "score": -3.502293586730957,
+        "ind": "text_66"
+      },
+      {
+        "score": -3.502293586730957,
+        "ind": "text_67"
+      },
+      {
+        "score": -3.502293586730957,
+        "ind": "text_68"
+      },
+      {
+        "score": -3.502293586730957,
+        "ind": "text_69"
+      },
+      {
+        "score": -3.502293586730957,
+        "ind": "text_70"
+      },
+      {
+        "score": -3.502293586730957,
+        "ind": "text_71"
+      },
+      {
+        "score": -3.729314088821411,
+        "ind": "text_18"
+      }
+    ],
+    "_stratum": "percentage_simple"
+  },
+  {
+    "pre_text": [
+      "entergy corporation and subsidiaries notes to financial statements as of december 31 , 2008 , system energy had future minimum lease payments ( reflecting an implicit rate of 5.13% ( 5.13 % ) ) , which are recorded as long-term debt as follows : amount ( in thousands ) ."
+    ],
+    "post_text": [
+      "."
+    ],
+    "filename": "ETR/2008/page_154.pdf",
+    "table_ori": [
+      [
+        "",
+        "Amount (In Thousands)"
+      ],
+      [
+        "2009",
+        "$47,760"
+      ],
+      [
+        "2010",
+        "48,569"
+      ],
+      [
+        "2011",
+        "49,437"
+      ],
+      [
+        "2012",
+        "49,959"
+      ],
+      [
+        "2013",
+        "50,546"
+      ],
+      [
+        "Years thereafter",
+        "103,890"
+      ],
+      [
+        "Total",
+        "350,161"
+      ],
+      [
+        "Less: Amount representing interest",
+        "54,857"
+      ],
+      [
+        "Present value of net minimum lease payments",
+        "$295,304"
+      ]
+    ],
+    "table": [
+      [
+        "",
+        "amount ( in thousands )"
+      ],
+      [
+        "2009",
+        "$ 47760"
+      ],
+      [
+        "2010",
+        "48569"
+      ],
+      [
+        "2011",
+        "49437"
+      ],
+      [
+        "2012",
+        "49959"
+      ],
+      [
+        "2013",
+        "50546"
+      ],
+      [
+        "years thereafter",
+        "103890"
+      ],
+      [
+        "total",
+        "350161"
+      ],
+      [
+        "less : amount representing interest",
+        "54857"
+      ],
+      [
+        "present value of net minimum lease payments",
+        "$ 295304"
+      ]
+    ],
+    "qa": {
+      "question": "what percent lower is the net present than the total payments value of lease payments?",
+      "answer": "15.67%",
+      "explanation": "",
+      "ann_table_rows": [
+        7,
+        9
+      ],
+      "ann_text_rows": [
+        0
+      ],
+      "steps": [
+        {
+          "op": "divide1-1",
+          "arg1": "350161",
+          "arg2": "295304",
+          "res": ".1567"
+        }
+      ],
+      "program": "divide(350161, 295304)",
+      "gold_inds": {
+        "table_7": "the total of amount ( in thousands ) is 350161 ;",
+        "table_9": "the present value of net minimum lease payments of amount ( in thousands ) is $ 295304 ;",
+        "text_0": "entergy corporation and subsidiaries notes to financial statements as of december 31 , 2008 , system energy had future minimum lease payments ( reflecting an implicit rate of 5.13% ( 5.13 % ) ) , which are recorded as long-term debt as follows : amount ( in thousands ) ."
+      },
+      "exe_ans": 1.18576,
+      "tfidftopn": {},
+      "program_re": "divide(350161, 295304)",
+      "model_input": [
+        [
+          "text_0",
+          "entergy corporation and subsidiaries notes to financial statements as of december 31 , 2008 , system energy had future minimum lease payments ( reflecting an implicit rate of 5.13% ( 5.13 % ) ) , which are recorded as long-term debt as follows : amount ( in thousands ) ."
+        ],
+        [
+          "table_7",
+          "the total of amount ( in thousands ) is 350161 ;"
+        ],
+        [
+          "table_9",
+          "the present value of net minimum lease payments of amount ( in thousands ) is $ 295304 ;"
+        ]
+      ]
+    },
+    "id": "ETR/2008/page_154.pdf-3",
+    "table_retrieved": [
+      {
+        "score": 1.7063215970993042,
+        "ind": "table_9"
+      },
+      {
+        "score": 1.5776965618133545,
+        "ind": "table_7"
+      },
+      {
+        "score": -0.9326149821281433,
+        "ind": "table_1"
+      },
+      {
+        "score": -1.0752694606781006,
+        "ind": "table_8"
+      }
+    ],
+    "text_retrieved": [
+      {
+        "score": 1.0218205451965332,
+        "ind": "text_0"
+      }
+    ],
+    "table_retrieved_all": [
+      {
+        "score": 1.7063215970993042,
+        "ind": "table_9"
+      },
+      {
+        "score": 1.5776965618133545,
+        "ind": "table_7"
+      },
+      {
+        "score": -0.9326149821281433,
+        "ind": "table_1"
+      },
+      {
+        "score": -1.0752694606781006,
+        "ind": "table_8"
+      },
+      {
+        "score": -1.1058835983276367,
+        "ind": "table_3"
+      },
+      {
+        "score": -1.1200826168060303,
+        "ind": "table_4"
+      },
+      {
+        "score": -1.1396945714950562,
+        "ind": "table_6"
+      },
+      {
+        "score": -1.229339838027954,
+        "ind": "table_2"
+      },
+      {
+        "score": -1.2926133871078491,
+        "ind": "table_5"
+      },
+      {
+        "score": -2.0934157371520996,
+        "ind": "table_0"
+      }
+    ],
+    "text_retrieved_all": [
+      {
+        "score": 1.0218205451965332,
+        "ind": "text_0"
+      },
+      {
+        "score": -1.2027837038040161,
+        "ind": "text_1"
+      }
+    ],
+    "_stratum": "percentage_simple"
+  },
+  {
+    "pre_text": [
+      "part ii item 5 : market for registrant 2019s common equity , related stockholder matters and issuer purchases of equity securities motorola 2019s common stock is listed on the new york and chicago stock exchanges .",
+      "the number of stockholders of record of motorola common stock on january 31 , 2008 was 79907 .",
+      "information regarding securities authorized for issuance under equity compensation plans is incorporated by reference to the information under the caption 201cequity compensation plan information 201d of motorola 2019s proxy statement for the 2008 annual meeting of stockholders .",
+      "the remainder of the response to this item incorporates by reference note 16 , 201cquarterly and other financial data ( unaudited ) 201d of the notes to consolidated financial statements appearing under 201citem 8 : financial statements and supplementary data 201d .",
+      "the following table provides information with respect to acquisitions by the company of shares of its common stock during the quarter ended december 31 , 2007 .",
+      "issuer purchases of equity securities period ( a ) total number of shares purchased ( 1 ) ( 2 ) ( b ) average price paid per share ( 1 ) ( 3 ) ( c ) total number of shares purchased as part of publicly announced plans or programs ( 2 ) ( d ) maximum number ( or approximate dollar value ) of shares that may yet be purchased under the plans or programs ( 2 ) ."
+    ],
+    "post_text": [
+      "( 1 ) in addition to purchases under the 2006 stock repurchase program ( as defined below ) , included in this column are transactions under the company 2019s equity compensation plans involving the delivery to the company of 12043 shares of motorola common stock to satisfy tax withholding obligations in connection with the vesting of restricted stock granted to company employees .",
+      "( 2 ) through actions taken on july 24 , 2006 and march 21 , 2007 , the board of directors has authorized the company to repurchase an aggregate amount of up to $ 7.5 billion of its outstanding shares of common stock over a period ending in june 2009 , subject to market conditions ( the 201c2006 stock repurchase program 201d ) .",
+      "( 3 ) average price paid per share of common stock repurchased under the 2006 stock repurchase program is execution price , excluding commissions paid to brokers. ."
+    ],
+    "filename": "MSI/2007/page_42.pdf",
+    "table_ori": [
+      [
+        "<i>Period</i>",
+        "<i>(a) Total Number</i> <i>of Shares</i> <i>Purchased<sup>(1)(2)</sup></i>",
+        "<i>(b) Average Price</i> <i>Paid per</i> <i>Share<sup>(1)(3)</sup></i>",
+        "<i>(c) Total Number</i> <i>of Shares Purchased</i> <i>as Part of Publicly</i> <i>Announced Plans</i> <i>or Programs<sup>(2)</sup></i>",
+        "<i>(d) Maximum Number</i> <i>(or Approximate Dollar</i> <i>Value) of Shares that</i> <i>May Yet Be Purchased</i> <i>Under the Plans or</i> <i>Programs<sup>(2)</sup></i>"
+      ],
+      [
+        "9/30/07 to 10/26/07",
+        "2,972,951",
+        "$18.84",
+        "2,964,225",
+        "$4,267,375,081"
+      ],
+      [
+        "10/27/07 to 11/23/07",
+        "5,709,917",
+        "$17.23",
+        "5,706,600",
+        "$4,169,061,854"
+      ],
+      [
+        "11/24/07 to 12/31/07",
+        "25,064,045",
+        "$16.04",
+        "25,064,045",
+        "$3,767,061,887"
+      ],
+      [
+        "Total",
+        "33,746,913",
+        "$16.49",
+        "33,734,870",
+        ""
+      ]
+    ],
+    "table": [
+      [
+        "period",
+        "( a ) total number of shares purchased ( 1 ) ( 2 )",
+        "( b ) average price paid per share ( 1 ) ( 3 )",
+        "( c ) total number of shares purchased as part of publicly announced plans or programs ( 2 )",
+        "( d ) maximum number ( or approximate dollar value ) of shares that may yet be purchased under the plans or programs ( 2 )"
+      ],
+      [
+        "9/30/07 to 10/26/07",
+        "2972951",
+        "$ 18.84",
+        "2964225",
+        "$ 4267375081"
+      ],
+      [
+        "10/27/07 to 11/23/07",
+        "5709917",
+        "$ 17.23",
+        "5706600",
+        "$ 4169061854"
+      ],
+      [
+        "11/24/07 to 12/31/07",
+        "25064045",
+        "$ 16.04",
+        "25064045",
+        "$ 3767061887"
+      ],
+      [
+        "total",
+        "33746913",
+        "$ 16.49",
+        "33734870",
+        ""
+      ]
+    ],
+    "qa": {
+      "question": "in 2007 what was the percent of the total number of shares purchased after 11/24/07",
+      "answer": "74.3%",
+      "explanation": "",
+      "ann_table_rows": [
+        3,
+        4
+      ],
+      "ann_text_rows": [],
+      "steps": [
+        {
+          "op": "divide1-1",
+          "arg1": "25064045",
+          "arg2": "33746913",
+          "res": "74.3%"
+        }
+      ],
+      "program": "divide(25064045, 33746913)",
+      "gold_inds": {
+        "table_3": "period the 11/24/07 to 12/31/07 of ( a ) total number of shares purchased ( 1 ) ( 2 ) is 25064045 ; the 11/24/07 to 12/31/07 of ( b ) average price paid per share ( 1 ) ( 3 ) is $ 16.04 ; the 11/24/07 to 12/31/07 of ( c ) total number of shares purchased as part of publicly announced plans or programs ( 2 ) is 25064045 ; the 11/24/07 to 12/31/07 of ( d ) maximum number ( or approximate dollar value ) of shares that may yet be purchased under the plans or programs ( 2 ) is $ 3767061887 ;",
+        "table_4": "period the total of ( a ) total number of shares purchased ( 1 ) ( 2 ) is 33746913 ; the total of ( b ) average price paid per share ( 1 ) ( 3 ) is $ 16.49 ; the total of ( c ) total number of shares purchased as part of publicly announced plans or programs ( 2 ) is 33734870 ; the total of ( d ) maximum number ( or approximate dollar value ) of shares that may yet be purchased under the plans or programs ( 2 ) is ;"
+      },
+      "exe_ans": 0.74271,
+      "tfidftopn": {
+        "text_5": "issuer purchases of equity securities period ( a ) total number of shares purchased ( 1 ) ( 2 ) ( b ) average price paid per share ( 1 ) ( 3 ) ( c ) total number of shares purchased as part of publicly announced plans or programs ( 2 ) ( d ) maximum number ( or approximate dollar value ) of shares that may yet be purchased under the plans or programs ( 2 ) ."
+      },
+      "program_re": "divide(25064045, 33746913)",
+      "model_input": [
+        [
+          "table_3",
+          "period the 11/24/07 to 12/31/07 of ( a ) total number of shares purchased ( 1 ) ( 2 ) is 25064045 ; the 11/24/07 to 12/31/07 of ( b ) average price paid per share ( 1 ) ( 3 ) is $ 16.04 ; the 11/24/07 to 12/31/07 of ( c ) total number of shares purchased as part of publicly announced plans or programs ( 2 ) is 25064045 ; the 11/24/07 to 12/31/07 of ( d ) maximum number ( or approximate dollar value ) of shares that may yet be purchased under the plans or programs ( 2 ) is $ 3767061887 ;"
+        ],
+        [
+          "table_4",
+          "period the total of ( a ) total number of shares purchased ( 1 ) ( 2 ) is 33746913 ; the total of ( b ) average price paid per share ( 1 ) ( 3 ) is $ 16.49 ; the total of ( c ) total number of shares purchased as part of publicly announced plans or programs ( 2 ) is 33734870 ; the total of ( d ) maximum number ( or approximate dollar value ) of shares that may yet be purchased under the plans or programs ( 2 ) is ;"
+        ]
+      ]
+    },
+    "id": "MSI/2007/page_42.pdf-1",
+    "table_retrieved": [
+      {
+        "score": 1.8011037111282349,
+        "ind": "table_4"
+      },
+      {
+        "score": 1.181198239326477,
+        "ind": "table_3"
+      },
+      {
+        "score": 0.4933069050312042,
+        "ind": "table_1"
+      },
+      {
+        "score": 0.47954919934272766,
+        "ind": "table_2"
+      }
+    ],
+    "text_retrieved": [
+      {
+        "score": -1.4595065116882324,
+        "ind": "text_5"
+      }
+    ],
+    "table_retrieved_all": [
+      {
+        "score": 1.8011037111282349,
+        "ind": "table_4"
+      },
+      {
+        "score": 1.181198239326477,
+        "ind": "table_3"
+      },
+      {
+        "score": 0.4933069050312042,
+        "ind": "table_1"
+      },
+      {
+        "score": 0.47954919934272766,
+        "ind": "table_2"
+      },
+      {
+        "score": -2.7871456146240234,
+        "ind": "table_0"
+      }
+    ],
+    "text_retrieved_all": [
+      {
+        "score": -1.4595065116882324,
+        "ind": "text_5"
+      },
+      {
+        "score": -2.3010711669921875,
+        "ind": "text_1"
+      },
+      {
+        "score": -2.4406790733337402,
+        "ind": "text_7"
+      },
+      {
+        "score": -2.521099805831909,
+        "ind": "text_8"
+      },
+      {
+        "score": -2.5897157192230225,
+        "ind": "text_3"
+      },
+      {
+        "score": -2.6215498447418213,
+        "ind": "text_4"
+      },
+      {
+        "score": -2.951291799545288,
+        "ind": "text_6"
+      },
+      {
+        "score": -3.152243137359619,
+        "ind": "text_0"
+      },
+      {
+        "score": -3.1875417232513428,
+        "ind": "text_2"
+      }
+    ],
+    "_stratum": "percentage_simple"
+  },
+  {
+    "pre_text": [
+      "the company granted 1020 performance shares .",
+      "the vesting of these shares is contingent on meeting stated goals over a performance period .",
+      "beginning with restricted stock grants in september 2010 , dividends are accrued on restricted class a common stock and restricted stock units and are paid once the restricted stock vests .",
+      "the following table summarizes restricted stock and performance shares activity for 2010 : number of shares weighted average grant date fair value ."
+    ],
+    "post_text": [
+      "the total fair value of restricted stock that vested during the years ended december 31 , 2010 , 2009 and 2008 , was $ 10.3 million , $ 6.2 million and $ 2.5 million , respectively .",
+      "eligible employees may acquire shares of cme group 2019s class a common stock using after-tax payroll deductions made during consecutive offering periods of approximately six months in duration .",
+      "shares are purchased at the end of each offering period at a price of 90% ( 90 % ) of the closing price of the class a common stock as reported on the nasdaq .",
+      "compensation expense is recognized on the dates of purchase for the discount from the closing price .",
+      "in 2010 , 2009 and 2008 , a total of 4371 , 4402 and 5600 shares , respectively , of class a common stock were issued to participating employees .",
+      "these shares are subject to a six-month holding period .",
+      "annual expense of $ 0.1 million for the purchase discount was recognized in 2010 , 2009 and 2008 , respectively .",
+      "non-executive directors receive an annual award of class a common stock with a value equal to $ 75000 .",
+      "non-executive directors may also elect to receive some or all of the cash portion of their annual stipend , up to $ 25000 , in shares of stock based on the closing price at the date of distribution .",
+      "as a result , 7470 , 11674 and 5509 shares of class a common stock were issued to non-executive directors during 2010 , 2009 and 2008 , respectively .",
+      "these shares are not subject to any vesting restrictions .",
+      "expense of $ 2.4 million , $ 2.5 million and $ 2.4 million related to these stock-based payments was recognized for the years ended december 31 , 2010 , 2009 and 2008 , respectively. ."
+    ],
+    "filename": "CME/2010/page_113.pdf",
+    "table_ori": [
+      [
+        "",
+        "Number of Shares",
+        "Weighted Average Grant Date Fair Value"
+      ],
+      [
+        "Outstanding at December 31, 2009",
+        "116,677",
+        "$280"
+      ],
+      [
+        "Granted",
+        "134,245",
+        "275"
+      ],
+      [
+        "Vested",
+        "(34,630)",
+        "257"
+      ],
+      [
+        "Cancelled",
+        "(19,830)",
+        "260"
+      ],
+      [
+        "Outstanding at December 31, 2010",
+        "196,462",
+        "283"
+      ]
+    ],
+    "table": [
+      [
+        "",
+        "number of shares",
+        "weighted average grant date fair value"
+      ],
+      [
+        "outstanding at december 31 2009",
+        "116677",
+        "$ 280"
+      ],
+      [
+        "granted",
+        "134245",
+        "275"
+      ],
+      [
+        "vested",
+        "-34630 ( 34630 )",
+        "257"
+      ],
+      [
+        "cancelled",
+        "-19830 ( 19830 )",
+        "260"
+      ],
+      [
+        "outstanding at december 31 2010",
+        "196462",
+        "283"
+      ]
+    ],
+    "qa": {
+      "question": "what is the performance shares granted as a percent of the total number of granted shares in 2010?",
+      "answer": "0.76%",
+      "explanation": "its the number of granted performance shares divided by the total amount of granted shares in the year 2010 .",
+      "ann_table_rows": [
+        2
+      ],
+      "ann_text_rows": [
+        0
+      ],
+      "steps": [
+        {
+          "op": "divide2-1",
+          "arg1": "1020",
+          "arg2": "134245",
+          "res": "0.76%"
+        }
+      ],
+      "program": "divide(1020, 134245)",
+      "gold_inds": {
+        "table_2": "the granted of number of shares is 134245 ; the granted of weighted average grant date fair value is 275 ;",
+        "text_0": "the company granted 1020 performance shares ."
+      },
+      "exe_ans": 0.0076,
+      "tfidftopn": {
+        "text_3": "the following table summarizes restricted stock and performance shares activity for 2010 : number of shares weighted average grant date fair value ."
+      },
+      "program_re": "divide(1020, 134245)",
+      "model_input": [
+        [
+          "text_0",
+          "the company granted 1020 performance shares ."
+        ],
+        [
+          "table_2",
+          "the granted of number of shares is 134245 ; the granted of weighted average grant date fair value is 275 ;"
+        ],
+        [
+          "table_5",
+          "the outstanding at december 31 2010 of number of shares is 196462 ; the outstanding at december 31 2010 of weighted average grant date fair value is 283 ;"
+        ]
+      ]
+    },
+    "id": "CME/2010/page_113.pdf-4",
+    "table_retrieved": [
+      {
+        "score": 1.9234431982040405,
+        "ind": "table_2"
+      },
+      {
+        "score": 0.3296307921409607,
+        "ind": "table_5"
+      },
+      {
+        "score": -0.42950189113616943,
+        "ind": "table_1"
+      }
+    ],
+    "text_retrieved": [
+      {
+        "score": 1.8783020973205566,
+        "ind": "text_0"
+      },
+      {
+        "score": -0.7436532974243164,
+        "ind": "text_15"
+      }
+    ],
+    "table_retrieved_all": [
+      {
+        "score": 1.9234431982040405,
+        "ind": "table_2"
+      },
+      {
+        "score": 0.3296307921409607,
+        "ind": "table_5"
+      },
+      {
+        "score": -0.42950189113616943,
+        "ind": "table_1"
+      },
+      {
+        "score": -1.2584033012390137,
+        "ind": "table_3"
+      },
+      {
+        "score": -1.444563388824463,
+        "ind": "table_4"
+      },
+      {
+        "score": -3.507383346557617,
+        "ind": "table_0"
+      }
+    ],
+    "text_retrieved_all": [
+      {
+        "score": 1.8783020973205566,
+        "ind": "text_0"
+      },
+      {
+        "score": -0.7436532974243164,
+        "ind": "text_15"
+      },
+      {
+        "score": -0.9973832368850708,
+        "ind": "text_3"
+      },
+      {
+        "score": -1.4450403451919556,
+        "ind": "text_4"
+      },
+      {
+        "score": -1.5225316286087036,
+        "ind": "text_8"
+      },
+      {
+        "score": -1.7835397720336914,
+        "ind": "text_13"
+      },
+      {
+        "score": -1.8270092010498047,
+        "ind": "text_10"
+      },
+      {
+        "score": -1.8771734237670898,
+        "ind": "text_1"
+      },
+      {
+        "score": -1.9525395631790161,
+        "ind": "text_12"
+      },
+      {
+        "score": -2.064208984375,
+        "ind": "text_6"
+      },
+      {
+        "score": -2.0788252353668213,
+        "ind": "text_9"
+      },
+      {
+        "score": -2.244553327560425,
+        "ind": "text_5"
+      },
+      {
+        "score": -2.294076919555664,
+        "ind": "text_14"
+      },
+      {
+        "score": -2.366208791732788,
+        "ind": "text_2"
+      },
+      {
+        "score": -2.367811679840088,
+        "ind": "text_11"
+      },
+      {
+        "score": -2.5060462951660156,
+        "ind": "text_7"
+      }
+    ],
+    "_stratum": "percentage_simple"
+  },
+  {
+    "pre_text": [
+      "112 / sl green realty corp .",
+      "2017 annual report 20 .",
+      "commitments and contingencies legal proceedings as of december a031 , 2017 , the company and the operating partnership were not involved in any material litigation nor , to management 2019s knowledge , was any material litigation threat- ened against us or our portfolio which if adversely determined could have a material adverse impact on us .",
+      "environmental matters our management believes that the properties are in compliance in all material respects with applicable federal , state and local ordinances and regulations regarding environmental issues .",
+      "management is not aware of any environmental liability that it believes would have a materially adverse impact on our financial position , results of operations or cash flows .",
+      "management is unaware of any instances in which it would incur significant envi- ronmental cost if any of our properties were sold .",
+      "employment agreements we have entered into employment agreements with certain exec- utives , which expire between december a02018 and february a02020 .",
+      "the minimum cash-based compensation , including base sal- ary and guaranteed bonus payments , associated with these employment agreements total $ 5.4 a0million for 2018 .",
+      "in addition these employment agreements provide for deferred compen- sation awards based on our stock price and which were valued at $ 1.6 a0million on the grant date .",
+      "the value of these awards may change based on fluctuations in our stock price .",
+      "insurance we maintain 201call-risk 201d property and rental value coverage ( includ- ing coverage regarding the perils of flood , earthquake and terrorism , excluding nuclear , biological , chemical , and radiological terrorism ( 201cnbcr 201d ) ) , within three property insurance programs and liability insurance .",
+      "separate property and liability coverage may be purchased on a stand-alone basis for certain assets , such as the development of one vanderbilt .",
+      "additionally , our captive insurance company , belmont insurance company , or belmont , pro- vides coverage for nbcr terrorist acts above a specified trigger , although if belmont is required to pay a claim under our insur- ance policies , we would ultimately record the loss to the extent of belmont 2019s required payment .",
+      "however , there is no assurance that in the future we will be able to procure coverage at a reasonable cost .",
+      "further , if we experience losses that are uninsured or that exceed policy limits , we could lose the capital invested in the damaged properties as well as the anticipated future cash flows from those plan trustees adopted a rehabilitation plan consistent with this requirement .",
+      "no surcharges have been paid to the pension plan as of december a031 , 2017 .",
+      "for the pension plan years ended june a030 , 2017 , 2016 , and 2015 , the plan received contributions from employers totaling $ 257.8 a0million , $ 249.5 a0million , and $ 221.9 a0million .",
+      "our contributions to the pension plan represent less than 5.0% ( 5.0 % ) of total contributions to the plan .",
+      "the health plan was established under the terms of collective bargaining agreements between the union , the realty advisory board on labor relations , inc .",
+      "and certain other employees .",
+      "the health plan provides health and other benefits to eligible participants employed in the building service industry who are covered under collective bargaining agreements , or other writ- ten agreements , with the union .",
+      "the health plan is administered by a board of trustees with equal representation by the employ- ers and the union and operates under employer identification number a013-2928869 .",
+      "the health plan receives contributions in accordance with collective bargaining agreements or participa- tion agreements .",
+      "generally , these agreements provide that the employers contribute to the health plan at a fixed rate on behalf of each covered employee .",
+      "for the health plan years ended , june a030 , 2017 , 2016 , and 2015 , the plan received contributions from employers totaling $ 1.3 a0billion , $ 1.2 a0billion and $ 1.1 a0billion , respectively .",
+      "our contributions to the health plan represent less than 5.0% ( 5.0 % ) of total contributions to the plan .",
+      "contributions we made to the multi-employer plans for the years ended december a031 , 2017 , 2016 and 2015 are included in the table below ( in thousands ) : ."
+    ],
+    "post_text": [
+      "401 ( k ) plan in august a01997 , we implemented a 401 ( k ) a0savings/retirement plan , or the 401 ( k ) a0plan , to cover eligible employees of ours , and any designated affiliate .",
+      "the 401 ( k ) a0plan permits eligible employees to defer up to 15% ( 15 % ) of their annual compensation , subject to certain limitations imposed by the code .",
+      "the employees 2019 elective deferrals are immediately vested and non-forfeitable upon contribution to the 401 ( k ) a0plan .",
+      "during a02003 , we amended our 401 ( k ) a0plan to pro- vide for discretionary matching contributions only .",
+      "for 2017 , 2016 and 2015 , a matching contribution equal to 50% ( 50 % ) of the first 6% ( 6 % ) of annual compensation was made .",
+      "for the year ended december a031 , 2017 , we made a matching contribution of $ 728782 .",
+      "for the years ended december a031 , 2016 and 2015 , we made matching contribu- tions of $ 566000 and $ 550000 , respectively. ."
+    ],
+    "filename": "SLG/2017/page_114.pdf",
+    "table_ori": [
+      [
+        "Benefit Plan",
+        "2017",
+        "2016",
+        "2015"
+      ],
+      [
+        "Pension Plan",
+        "$3,856",
+        "$3,979",
+        "$2,732"
+      ],
+      [
+        "Health Plan",
+        "11,426",
+        "11,530",
+        "8,736"
+      ],
+      [
+        "Other plans",
+        "1,463",
+        "1,583",
+        "5,716"
+      ],
+      [
+        "Total plan contributions",
+        "$16,745",
+        "$17,092",
+        "$17,184"
+      ]
+    ],
+    "table": [
+      [
+        "benefit plan",
+        "2017",
+        "2016",
+        "2015"
+      ],
+      [
+        "pension plan",
+        "$ 3856",
+        "$ 3979",
+        "$ 2732"
+      ],
+      [
+        "health plan",
+        "11426",
+        "11530",
+        "8736"
+      ],
+      [
+        "other plans",
+        "1463",
+        "1583",
+        "5716"
+      ],
+      [
+        "total plan contributions",
+        "$ 16745",
+        "$ 17092",
+        "$ 17184"
+      ]
+    ],
+    "qa": {
+      "question": "in 2017 what was the percent of the total plan contributions we made to the multi-employer plans that was for pension",
+      "answer": "23.1%",
+      "explanation": "",
+      "ann_table_rows": [
+        4
+      ],
+      "ann_text_rows": [],
+      "steps": [
+        {
+          "op": "divide1-1",
+          "arg1": "3856",
+          "arg2": "16745",
+          "res": "23.1%"
+        }
+      ],
+      "program": "divide(3856, 16745)",
+      "gold_inds": {
+        "table_4": "benefit plan the total plan contributions of 2017 is $ 16745 ; the total plan contributions of 2016 is $ 17092 ; the total plan contributions of 2015 is $ 17184 ;",
+        "table_1": "benefit plan the pension plan of 2017 is $ 3856 ; the pension plan of 2016 is $ 3979 ; the pension plan of 2015 is $ 2732 ;"
+      },
+      "exe_ans": 0.23028,
+      "tfidftopn": {
+        "text_17": "our contributions to the pension plan represent less than 5.0% ( 5.0 % ) of total contributions to the plan ."
+      },
+      "program_re": "divide(3856, 16745)",
+      "model_input": [
+        [
+          "table_1",
+          "benefit plan the pension plan of 2017 is $ 3856 ; the pension plan of 2016 is $ 3979 ; the pension plan of 2015 is $ 2732 ;"
+        ],
+        [
+          "table_4",
+          "benefit plan the total plan contributions of 2017 is $ 16745 ; the total plan contributions of 2016 is $ 17092 ; the total plan contributions of 2015 is $ 17184 ;"
+        ],
+        [
+          "text_32",
+          "for the year ended december a031 , 2017 , we made a matching contribution of $ 728782 ."
+        ]
+      ]
+    },
+    "id": "SLG/2017/page_114.pdf-1",
+    "table_retrieved": [
+      {
+        "score": 2.106689691543579,
+        "ind": "table_4"
+      },
+      {
+        "score": 1.7046620845794678,
+        "ind": "table_1"
+      }
+    ],
+    "text_retrieved": [
+      {
+        "score": 0.018292032182216644,
+        "ind": "text_32"
+      },
+      {
+        "score": -0.11131850630044937,
+        "ind": "text_26"
+      },
+      {
+        "score": -0.7312934994697571,
+        "ind": "text_16"
+      }
+    ],
+    "table_retrieved_all": [
+      {
+        "score": 2.106689691543579,
+        "ind": "table_4"
+      },
+      {
+        "score": 1.7046620845794678,
+        "ind": "table_1"
+      },
+      {
+        "score": -2.011672019958496,
+        "ind": "table_2"
+      },
+      {
+        "score": -2.1413965225219727,
+        "ind": "table_3"
+      },
+      {
+        "score": -2.7231452465057373,
+        "ind": "table_0"
+      }
+    ],
+    "text_retrieved_all": [
+      {
+        "score": 0.018292032182216644,
+        "ind": "text_32"
+      },
+      {
+        "score": -0.11131850630044937,
+        "ind": "text_26"
+      },
+      {
+        "score": -0.7312934994697571,
+        "ind": "text_16"
+      },
+      {
+        "score": -0.9154753684997559,
+        "ind": "text_17"
+      },
+      {
+        "score": -1.148831844329834,
+        "ind": "text_33"
+      },
+      {
+        "score": -1.2659659385681152,
+        "ind": "text_24"
+      },
+      {
+        "score": -1.6327248811721802,
+        "ind": "text_31"
+      },
+      {
+        "score": -1.6509333848953247,
+        "ind": "text_9"
+      },
+      {
+        "score": -1.7482893466949463,
+        "ind": "text_15"
+      },
+      {
+        "score": -1.768357753753662,
+        "ind": "text_25"
+      },
+      {
+        "score": -2.125464916229248,
+        "ind": "text_7"
+      },
+      {
+        "score": -2.338254451751709,
+        "ind": "text_14"
+      },
+      {
+        "score": -2.3891475200653076,
+        "ind": "text_20"
+      },
+      {
+        "score": -2.392218828201294,
+        "ind": "text_2"
+      },
+      {
+        "score": -2.4142489433288574,
+        "ind": "text_13"
+      },
+      {
+        "score": -2.447273015975952,
+        "ind": "text_19"
+      },
+      {
+        "score": -2.4707865715026855,
+        "ind": "text_29"
+      },
+      {
+        "score": -2.475022077560425,
+        "ind": "text_8"
+      },
+      {
+        "score": -2.5317773818969727,
+        "ind": "text_0"
+      },
+      {
+        "score": -2.56445050239563,
+        "ind": "text_18"
+      },
+      {
+        "score": -2.5921812057495117,
+        "ind": "text_21"
+      },
+      {
+        "score": -2.6689553260803223,
+        "ind": "text_1"
+      },
+      {
+        "score": -2.6971800327301025,
+        "ind": "text_12"
+      },
+      {
+        "score": -2.7051284313201904,
+        "ind": "text_28"
+      },
+      {
+        "score": -2.705536127090454,
+        "ind": "text_11"
+      },
+      {
+        "score": -2.7363455295562744,
+        "ind": "text_3"
+      },
+      {
+        "score": -2.7568957805633545,
+        "ind": "text_22"
+      },
+      {
+        "score": -2.759826421737671,
+        "ind": "text_6"
+      },
+      {
+        "score": -2.8194992542266846,
+        "ind": "text_27"
+      },
+      {
+        "score": -2.8231730461120605,
+        "ind": "text_10"
+      },
+      {
+        "score": -2.8235645294189453,
+        "ind": "text_5"
+      },
+      {
+        "score": -2.829573154449463,
+        "ind": "text_30"
+      },
+      {
+        "score": -2.8467395305633545,
+        "ind": "text_4"
+      },
+      {
+        "score": -3.2859532833099365,
+        "ind": "text_23"
+      }
+    ],
+    "_stratum": "percentage_simple"
+  }
+]
