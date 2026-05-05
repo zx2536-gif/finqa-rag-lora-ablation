@@ -376,3 +376,90 @@ not generation-side — pointing to the next bottleneck (model scale).
 
 Best overall: **C4 Vanilla LoRA + Dense RAG** (best Numeric Tolerance).
 Best F1: **C4 Vanilla LoRA + BM25 or Dense** (tied at 6.20%).
+
+
+---
+
+## 10. Sensitivity Analysis: Top-k Variation (Week 4, Day 1)
+
+### What we ran
+Same C4 Vanilla LoRA + BM25 setup, varying top-k retrieval.
+
+### Results
+
+| top-k | Recall@k | F1     | Format Match | Numeric@0.5 |
+|-------|----------|--------|--------------|-------------|
+| 1     | 38.95%   | 6.20%  | 93.2%        | 18.6%       |
+| 3     | 53.39%   | 6.20%  | 94.6%        | 18.8%       |
+| 5     | 53.39%*  | 6.20%  | 94.4%        | 18.4%       |
+
+*Note: Recall@5 capped at our gold annotation density.
+
+### Key finding (write into Section 5.5)
+
+**Top-k saturation: F1 is invariant to retrieval depth.**
+
+Despite Recall@k improving from 38.95% (k=1) to 53.39%+ (k=5), end-to-end 
+F1 remains at exactly 0.0620 across all three settings. Format match and 
+numeric tolerance also remain within ±1.4 percentage points.
+
+This suggests that performance is bottlenecked by the 250M base model's
+reasoning capacity, not by retrieval coverage. Once at least one relevant
+passage is provided (top-k=1 already captures 38.95% of gold evidence),
+additional evidence does not translate to better answers — the model
+has already extracted what it can.
+
+### Implication for future work
+The natural next experiment is scaling the base model (e.g., to T5-large 
+or T5-3B) with the same retrieval setup. We hypothesize the F1-vs-top-k 
+curve would not be flat at larger scales.
+
+### Pre-drafted text for Section 5.5
+
+> We conducted sensitivity analysis on the retrieval top-k parameter,
+> evaluating C4 Vanilla LoRA + BM25 with k ∈ {1, 3, 5}. F1 remains 
+> identical (6.20%) across all three settings, despite Recall@k 
+> improving substantially from 38.95% (k=1) to 53.39% (k≥3). Format 
+> match and numeric tolerance vary by less than 1.5 percentage points.
+>
+> This invariance indicates that the QA bottleneck at this scale is
+> not retrieval coverage but generative reasoning. A single relevant
+> passage suffices when the model can reason; additional passages do
+> not help when it cannot. We adopt k=3 as our default for slightly
+> better format/numeric metrics, but report this saturation as a 
+> limitation: the proposed pipeline cannot fully exploit additional
+> retrieval at the 250M scale, motivating future work on scaling the 
+> base model.
+
+### Files for report
+- `results/metrics/c4_vanilla_bm25_k1_*` 
+- `results/metrics/c4_vanilla_bm25_k3_*` (existing)
+- `results/metrics/c4_vanilla_bm25_k5_*`
+
+
+---
+
+## 11. Figures Completed (Week 4, Day 1)
+
+All 8 publication-quality figures saved to `results/figures/` (PNG + PDF).
+
+| # | Filename                              | Section in Report      | Purpose                                          |
+|---|---------------------------------------|------------------------|--------------------------------------------------|
+| 1 | fig1_sampling_distribution            | §4 Methodology         | Stratified sampling rationale                    |
+| 2 | fig2_mode_collapse                    | §4.X Base Model Swap   | Quantitative justification for t5-base swap     |
+| 3 | fig3_f1_comparison                    | §5 Results (cover)     | 9-config F1 master comparison                    |
+| 4 | fig4_perstratum_heatmap               | §5.5 Cross-config      | F1 heatmap reveals boolean dominance             |
+| 5 | fig5_format_match_progression         | §5.5                   | Schema learning progression (LoRA + RAG)         |
+| 6 | fig6_retrieval_comparison             | §5.2                   | BM25 > Dense in finance domain                   |
+| 7 | fig7_sample_predictions               | §6 Error Analysis      | Qualitative success/partial/failure cases        |
+| 8 | fig8_metric_gap                       | §5.5 + §7 Limitations  | Format mastery vs reasoning ceiling              |
+
+### Suggested figure ordering in report:
+1. Fig 1 → §4 (data setup)
+2. Fig 2 → §4.X (base model finding)
+3. Fig 3 → §5 opening (overview)
+4. Fig 6 → §5.2 (retrieval finding)
+5. Fig 4 → §5.5 (per-stratum analysis)
+6. Fig 5 → §5.5 (format match progression)
+7. Fig 8 → §5.5 + §7 (the gap)
+8. Fig 7 → §6 (qualitative error analysis)

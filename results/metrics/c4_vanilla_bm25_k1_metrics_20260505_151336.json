@@ -1,0 +1,117 @@
+{
+  "config": "C4_LoRA_vanilla_RAG_bm25",
+  "variant": "vanilla",
+  "retriever": "bm25",
+  "top_k": 1,
+  "adapter_dir": "/content/drive/MyDrive/finqa-rag-lora-ablation/checkpoints/c3_vanilla/final",
+  "model": "google-t5/t5-base",
+  "data_path": "data/processed/finqa_500.json",
+  "n_samples": 500,
+  "timestamp": "20260505_151336",
+  "qa_metrics": {
+    "overall": {
+      "n_samples": 500,
+      "f1": 0.062,
+      "rouge_l": 0.062,
+      "format_match": 0.932,
+      "numeric_tolerance@0.5": 0.186
+    },
+    "by_stratum": {
+      "boolean_simple": {
+        "n_samples": 40,
+        "f1": 0.6,
+        "rouge_l": 0.6,
+        "format_match": 0.875,
+        "numeric_tolerance@0.5": 0.0
+      },
+      "percentage_complex": {
+        "n_samples": 130,
+        "f1": 0.0,
+        "rouge_l": 0.0,
+        "format_match": 0.9692307692307692,
+        "numeric_tolerance@0.5": 0.16153846153846155
+      },
+      "numeric_simple": {
+        "n_samples": 130,
+        "f1": 0.007692307692307693,
+        "rouge_l": 0.007692307692307693,
+        "format_match": 0.9,
+        "numeric_tolerance@0.5": 0.17692307692307693
+      },
+      "percentage_simple": {
+        "n_samples": 130,
+        "f1": 0.0,
+        "rouge_l": 0.0,
+        "format_match": 0.9692307692307692,
+        "numeric_tolerance@0.5": 0.2923076923076923
+      },
+      "numeric_complex": {
+        "n_samples": 60,
+        "f1": 0.0,
+        "rouge_l": 0.0,
+        "format_match": 0.8666666666666667,
+        "numeric_tolerance@0.5": 0.18333333333333332
+      },
+      "boolean_complex": {
+        "n_samples": 10,
+        "f1": 0.6,
+        "rouge_l": 0.6,
+        "format_match": 1.0,
+        "numeric_tolerance@0.5": 0.0
+      }
+    }
+  },
+  "retrieval_metrics": {
+    "overall": {
+      "n_queries_with_gold": 457,
+      "recall@1": 0.38949671772428884,
+      "recall@3": 0.38949671772428884,
+      "recall@5": 0.38949671772428884,
+      "mrr": 0.38949671772428884
+    },
+    "by_stratum": {
+      "boolean_complex": {
+        "n": 10,
+        "mrr": 0.1,
+        "recall@1": 0.1,
+        "recall@3": 0.1,
+        "recall@5": 0.1
+      },
+      "boolean_simple": {
+        "n": 36,
+        "mrr": 0.25,
+        "recall@1": 0.25,
+        "recall@3": 0.25,
+        "recall@5": 0.25
+      },
+      "numeric_complex": {
+        "n": 55,
+        "mrr": 0.5272727272727272,
+        "recall@1": 0.5272727272727272,
+        "recall@3": 0.5272727272727272,
+        "recall@5": 0.5272727272727272
+      },
+      "numeric_simple": {
+        "n": 114,
+        "mrr": 0.39473684210526316,
+        "recall@1": 0.39473684210526316,
+        "recall@3": 0.39473684210526316,
+        "recall@5": 0.39473684210526316
+      },
+      "percentage_complex": {
+        "n": 121,
+        "mrr": 0.4297520661157025,
+        "recall@1": 0.4297520661157025,
+        "recall@3": 0.4297520661157025,
+        "recall@5": 0.4297520661157025
+      },
+      "percentage_simple": {
+        "n": 121,
+        "mrr": 0.34710743801652894,
+        "recall@1": 0.34710743801652894,
+        "recall@3": 0.34710743801652894,
+        "recall@5": 0.34710743801652894
+      }
+    }
+  }
+}
