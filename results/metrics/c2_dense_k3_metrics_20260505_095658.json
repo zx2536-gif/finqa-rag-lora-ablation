@@ -1,0 +1,41 @@
+{
+  "config": "C2_RAG_dense",
+  "retriever": "dense",
+  "top_k": 3,
+  "model": "google/flan-t5-base",
+  "data_path": "data/processed/finqa_500.json",
+  "n_samples": 5,
+  "timestamp": "20260505_095658",
+  "qa_metrics": {
+    "overall": {
+      "n_samples": 5,
+      "f1": 0.0,
+      "rouge_l": 0.0
+    },
+    "by_stratum": {
+      "percentage_simple": {
+        "n_samples": 5,
+        "f1": 0.0,
+        "rouge_l": 0.0
+      }
+    }
+  },
+  "retrieval_metrics": {
+    "overall": {
+      "n_queries_with_gold": 5,
+      "recall@1": 0.8,
+      "recall@3": 0.8,
+      "recall@5": 0.8,
+      "mrr": 0.8
+    },
+    "by_stratum": {
+      "percentage_simple": {
+        "n": 5,
+        "mrr": 0.8,
+        "recall@1": 0.8,
+        "recall@3": 0.8,
+        "recall@5": 0.8
+      }
+    }
+  }
+}

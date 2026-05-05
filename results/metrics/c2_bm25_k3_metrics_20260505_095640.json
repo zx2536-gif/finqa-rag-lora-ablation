@@ -1,0 +1,101 @@
+{
+  "config": "C2_RAG_bm25",
+  "retriever": "bm25",
+  "top_k": 3,
+  "model": "google/flan-t5-base",
+  "data_path": "data/processed/finqa_500.json",
+  "n_samples": 500,
+  "timestamp": "20260505_095640",
+  "qa_metrics": {
+    "overall": {
+      "n_samples": 500,
+      "f1": 0.056,
+      "rouge_l": 0.056
+    },
+    "by_stratum": {
+      "percentage_complex": {
+        "n_samples": 130,
+        "f1": 0.0,
+        "rouge_l": 0.0
+      },
+      "boolean_simple": {
+        "n_samples": 40,
+        "f1": 0.575,
+        "rouge_l": 0.575
+      },
+      "numeric_complex": {
+        "n_samples": 60,
+        "f1": 0.0,
+        "rouge_l": 0.0
+      },
+      "percentage_simple": {
+        "n_samples": 130,
+        "f1": 0.0,
+        "rouge_l": 0.0
+      },
+      "numeric_simple": {
+        "n_samples": 130,
+        "f1": 0.0,
+        "rouge_l": 0.0
+      },
+      "boolean_complex": {
+        "n_samples": 10,
+        "f1": 0.5,
+        "rouge_l": 0.5
+      }
+    }
+  },
+  "retrieval_metrics": {
+    "overall": {
+      "n_queries_with_gold": 457,
+      "recall@1": 0.38949671772428884,
+      "recall@3": 0.5339168490153173,
+      "recall@5": 0.5339168490153173,
+      "mrr": 0.4533187454412837
+    },
+    "by_stratum": {
+      "boolean_complex": {
+        "n": 10,
+        "mrr": 0.3,
+        "recall@1": 0.1,
+        "recall@3": 0.6,
+        "recall@5": 0.6
+      },
+      "boolean_simple": {
+        "n": 36,
+        "mrr": 0.35185185185185186,
+        "recall@1": 0.25,
+        "recall@3": 0.4722222222222222,
+        "recall@5": 0.4722222222222222
+      },
+      "numeric_complex": {
+        "n": 55,
+        "mrr": 0.5848484848484848,
+        "recall@1": 0.5272727272727272,
+        "recall@3": 0.6545454545454545,
+        "recall@5": 0.6545454545454545
+      },
+      "numeric_simple": {
+        "n": 114,
+        "mrr": 0.46783625730994155,
+        "recall@1": 0.39473684210526316,
+        "recall@3": 0.5614035087719298,
+        "recall@5": 0.5614035087719298
+      },
+      "percentage_complex": {
+        "n": 121,
+        "mrr": 0.4889807162534435,
+        "recall@1": 0.4297520661157025,
+        "recall@3": 0.5619834710743802,
+        "recall@5": 0.5619834710743802
+      },
+      "percentage_simple": {
+        "n": 121,
+        "mrr": 0.38705234159779617,
+        "recall@1": 0.34710743801652894,
+        "recall@3": 0.4380165289256198,
+        "recall@5": 0.4380165289256198
+      }
+    }
+  }
+}

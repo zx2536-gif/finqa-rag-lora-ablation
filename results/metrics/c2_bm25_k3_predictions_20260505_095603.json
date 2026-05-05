@@ -1,0 +1,122 @@
+[
+  {
+    "id": "ABMD/2015/page_93.pdf-1",
+    "stratum": "percentage_simple",
+    "question": "what percentage of the class b preferred stock is currently outstanding?",
+    "gold": "0%",
+    "prediction": "no",
+    "retrieved_passages": [
+      {
+        "passage_id": "ABMD/2015/page_93.pdf-1__post_text__2",
+        "text": "no shares of class b preferred stock have been issued or are outstanding .",
+        "score": 21.474662844374816
+      },
+      {
+        "passage_id": "ABMD/2015/page_93.pdf-1__post_text__1",
+        "text": "stockholders 2019 equity class b preferred stock the company has authorized 1000000 shares of class b preferred stock , $ .01 par value , of which the board of directors can set the designation , rights and privileges .",
+        "score": 19.082278260257464
+      },
+      {
+        "passage_id": "ABMD/2015/page_93.pdf-1__post_text__10",
+        "text": "outstanding stock options , if not exercised , expire 10 years from the date of grant .",
+        "score": 8.22362242681989
+      }
+    ]
+  },
+  {
+    "id": "DRE/2016/page_59.pdf-1",
+    "stratum": "percentage_simple",
+    "question": "in 2015 what was the percent of the total second generation capital expenditures by type of expenditure that wassecond generation leasing costs",
+    "gold": "79.5%",
+    "prediction": "no",
+    "retrieved_passages": [
+      {
+        "passage_id": "DRE/2016/page_59.pdf-1__pre_text__8",
+        "text": "the following table summarizes our second generation capital expenditures by type of expenditure , as well as capital expenditures for the development of real estate investments and for other deferred leasing costs ( in thousands ) : .",
+        "score": 32.00118365510121
+      },
+      {
+        "passage_id": "DRE/2016/page_59.pdf-1__pre_text__7",
+        "text": "one of the principal uses of our liquidity is to fund the second generation leasing/capital expenditures of our real estate investments .",
+        "score": 21.172579856703063
+      },
+      {
+        "passage_id": "DRE/2016/page_59.pdf-1__post_text__0",
+        "text": "second generation capital expenditures were significantly lower during 2016 and 2015 , compared to 2014 , as the result of significant dispositions of office properties , which were more capital intensive to re-lease than industrial ff properties .",
+        "score": 17.176224345779538
+      }
+    ]
+  },
+  {
+    "id": "FIS/2017/page_14.pdf-4",
+    "stratum": "percentage_simple",
+    "question": "what percentage of total consolidated revenues was gfs segment in 2016?",
+    "gold": "46%",
+    "prediction": "no",
+    "retrieved_passages": [
+      {
+        "passage_id": "FIS/2017/page_14.pdf-4__pre_text__4",
+        "text": "revenues by segment the table below summarizes our revenues by reporting segment ( in millions ) : .",
+        "score": 11.39010422118447
+      },
+      {
+        "passage_id": "INTC/2013/page_71.pdf-3__post_text__1",
+        "text": "in total , we received proceeds of $ 470 million on these transactions and recognized a gain of $ 439 million , which is included in gains ( losses ) on equity investments , net on the consolidated statements of income .",
+        "score": 8.45897674365451
+      },
+      {
+        "passage_id": "INTC/2013/page_71.pdf-3__post_text__3",
+        "text": "table of contents intel corporation notes to consolidated financial statements ( continued ) .",
+        "score": 5.38117478143262
+      }
+    ]
+  },
+  {
+    "id": "INTC/2013/page_71.pdf-3",
+    "stratum": "percentage_simple",
+    "question": "what percentage of total cash and investments as of dec . 28 2013 was comprised of available-for-sale investments?",
+    "gold": "57%",
+    "prediction": "No",
+    "retrieved_passages": [
+      {
+        "passage_id": "INTC/2013/page_71.pdf-3__pre_text__9",
+        "text": "note 5 : cash and investments cash and investments at the end of each period were as follows : ( in millions ) dec 28 , dec 29 .",
+        "score": 22.698694353561947
+      },
+      {
+        "passage_id": "ADBE/1999/page_33.pdf-4__post_text__1",
+        "text": "all of our cash equivalents and short-term investments are classified as available-for-sale under the provisions of sfas 115 , 2018 2018accounting for certain investments in debt and equity securities . 2019 2019 the securities are carried at fair value with the unrealized gains and losses , net of tax , included in accumulated other comprehensive income , which is reflected as a separate component of stockholders 2019 equity .",
+        "score": 15.502039615335082
+      },
+      {
+        "passage_id": "INTC/2013/page_71.pdf-3__post_text__2",
+        "text": "proceeds received and gains recognized for each investment are included in the \"available-for-sale investments\" and \"equity method investments\" sections that follow .",
+        "score": 15.3524000799792
+      }
+    ]
+  },
+  {
+    "id": "ADBE/1999/page_33.pdf-4",
+    "stratum": "percentage_simple",
+    "question": "what percentage of cash , cash equivalents , and short-term investments was due to cash generated from operations?",
+    "gold": "148%",
+    "prediction": "yes",
+    "retrieved_passages": [
+      {
+        "passage_id": "ADBE/1999/page_33.pdf-4__post_text__2",
+        "text": "our cash , cash equivalents , and short-term investments increased $ 226.2 million , or 83% ( 83 % ) , in fiscal 1999 , primarily due to cash generated from operations of $ 334.2 million , proceeds from the issuance of treasury stock related to the exercise of stock options under our stock option plans and sale of stock under the employee stock purchase plan of $ 142.9 million , and the release of restricted funds totaling $ 130.3 million associated with the refinancing of our corporate headquarters lease agreement .",
+        "score": 20.5861935055204
+      },
+      {
+        "passage_id": "ADBE/1999/page_33.pdf-4__post_text__0",
+        "text": "our cash , cash equivalents , and short-term investments consist principally of money market mutual funds , municipal bonds , and united states government agency securities .",
+        "score": 19.256402816825034
+      },
+      {
+        "passage_id": "ADBE/1999/page_33.pdf-4__post_text__4",
+        "text": "in addition , short-term investments increased due to a reclassification of $ 46.7 million of investments classified as long-term to short-term as well as mark-to-market adjustments totaling $ 81.2 million .",
+        "score": 14.514530180356864
+      }
+    ]
+  }
+]
