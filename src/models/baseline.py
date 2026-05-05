@@ -12,7 +12,7 @@ from transformers import T5ForConditionalGeneration, T5Tokenizer
 class FlanT5Baseline:
     """Zero-shot inference wrapper for Flan-T5-Base."""
     
-    def __init__(self, model_name: str = "google/flan-t5-base", 
+    def __init__(self, model_name: str = "google-t5/t5-base", 
                  device: str = None):
         if device is None:
             device = "cuda" if torch.cuda.is_available() else "cpu"

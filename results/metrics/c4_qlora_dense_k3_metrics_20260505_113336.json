@@ -1,0 +1,117 @@
+{
+  "config": "C4_LoRA_qlora_RAG_dense",
+  "variant": "qlora",
+  "retriever": "dense",
+  "top_k": 3,
+  "adapter_dir": "/content/drive/MyDrive/finqa-rag-lora-ablation/checkpoints/c3_qlora/final",
+  "model": "google-t5/t5-base",
+  "data_path": "data/processed/finqa_500.json",
+  "n_samples": 500,
+  "timestamp": "20260505_113336",
+  "qa_metrics": {
+    "overall": {
+      "n_samples": 500,
+      "f1": 0.048,
+      "rouge_l": 0.048,
+      "format_match": 0.87,
+      "numeric_tolerance@0.5": 0.182
+    },
+    "by_stratum": {
+      "numeric_complex": {
+        "n_samples": 60,
+        "f1": 0.0,
+        "rouge_l": 0.0,
+        "format_match": 0.8666666666666667,
+        "numeric_tolerance@0.5": 0.16666666666666666
+      },
+      "numeric_simple": {
+        "n_samples": 130,
+        "f1": 0.0,
+        "rouge_l": 0.0,
+        "format_match": 0.7846153846153846,
+        "numeric_tolerance@0.5": 0.18461538461538463
+      },
+      "boolean_simple": {
+        "n_samples": 40,
+        "f1": 0.45,
+        "rouge_l": 0.45,
+        "format_match": 0.625,
+        "numeric_tolerance@0.5": 0.0
+      },
+      "boolean_complex": {
+        "n_samples": 10,
+        "f1": 0.5,
+        "rouge_l": 0.5,
+        "format_match": 0.8,
+        "numeric_tolerance@0.5": 0.0
+      },
+      "percentage_simple": {
+        "n_samples": 130,
+        "f1": 0.007692307692307693,
+        "rouge_l": 0.007692307692307693,
+        "format_match": 0.9692307692307692,
+        "numeric_tolerance@0.5": 0.2692307692307692
+      },
+      "percentage_complex": {
+        "n_samples": 130,
+        "f1": 0.0,
+        "rouge_l": 0.0,
+        "format_match": 0.9384615384615385,
+        "numeric_tolerance@0.5": 0.16923076923076924
+      }
+    }
+  },
+  "retrieval_metrics": {
+    "overall": {
+      "n_queries_with_gold": 457,
+      "recall@1": 0.34573304157549234,
+      "recall@3": 0.47702407002188185,
+      "recall@5": 0.47702407002188185,
+      "mrr": 0.4026258205689278
+    },
+    "by_stratum": {
+      "boolean_complex": {
+        "n": 10,
+        "mrr": 0.15,
+        "recall@1": 0.1,
+        "recall@3": 0.2,
+        "recall@5": 0.2
+      },
+      "boolean_simple": {
+        "n": 36,
+        "mrr": 0.39814814814814814,
+        "recall@1": 0.3611111111111111,
+        "recall@3": 0.4444444444444444,
+        "recall@5": 0.4444444444444444
+      },
+      "numeric_complex": {
+        "n": 55,
+        "mrr": 0.6181818181818182,
+        "recall@1": 0.5818181818181818,
+        "recall@3": 0.6545454545454545,
+        "recall@5": 0.6545454545454545
+      },
+      "numeric_simple": {
+        "n": 114,
+        "mrr": 0.4137426900584795,
+        "recall@1": 0.35964912280701755,
+        "recall@3": 0.49122807017543857,
+        "recall@5": 0.49122807017543857
+      },
+      "percentage_complex": {
+        "n": 121,
+        "mrr": 0.4146005509641873,
+        "recall@1": 0.33884297520661155,
+        "recall@3": 0.512396694214876,
+        "recall@5": 0.512396694214876
+      },
+      "percentage_simple": {
+        "n": 121,
+        "mrr": 0.3044077134986226,
+        "recall@1": 0.24793388429752067,
+        "recall@3": 0.38016528925619836,
+        "recall@5": 0.38016528925619836
+      }
+    }
+  }
+}

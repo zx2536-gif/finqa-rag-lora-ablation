@@ -24,7 +24,7 @@ from src.models.baseline import FlanT5Baseline
 from src.evaluation.metrics import evaluate_predictions
 
 
-def run_c1(data_path: str, out_dir: str, model_name: str = "google/flan-t5-base",
+def run_c1(data_path: str, out_dir: str, model_name: str = "google-t5/t5-base",
            n_samples: int = None, batch_size: int = 8):
     """Run the C1 zero-shot baseline pipeline end-to-end."""
     
@@ -99,7 +99,7 @@ if __name__ == '__main__':
     parser = argparse.ArgumentParser()
     parser.add_argument('--data', default='data/processed/finqa_500.json')
     parser.add_argument('--out_dir', default='results/metrics')
-    parser.add_argument('--model', default='google/flan-t5-base')
+    parser.add_argument('--model', default='google-t5/t5-base')
     parser.add_argument('--n_samples', type=int, default=None,
                         help='Optional cap for quick testing (e.g., 50)')
     parser.add_argument('--batch_size', type=int, default=8)

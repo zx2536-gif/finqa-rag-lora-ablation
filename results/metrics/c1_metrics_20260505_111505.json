@@ -1,0 +1,60 @@
+{
+  "config": "C1_zero_shot_baseline",
+  "model": "google-t5/t5-base",
+  "data_path": "data/processed/finqa_500.json",
+  "n_samples": 500,
+  "timestamp": "20260505_111505",
+  "metrics": {
+    "overall": {
+      "n_samples": 500,
+      "f1": 0.0007086720867208673,
+      "rouge_l": 0.0007086720867208673,
+      "format_match": 0.064,
+      "numeric_tolerance@0.5": 0.03
+    },
+    "by_stratum": {
+      "percentage_complex": {
+        "n_samples": 130,
+        "f1": 0.0006410256410256411,
+        "rouge_l": 0.0006410256410256411,
+        "format_match": 0.06923076923076923,
+        "numeric_tolerance@0.5": 0.023076923076923078
+      },
+      "boolean_simple": {
+        "n_samples": 40,
+        "f1": 0.005555555555555555,
+        "rouge_l": 0.005555555555555555,
+        "format_match": 0.3,
+        "numeric_tolerance@0.5": 0.0
+      },
+      "percentage_simple": {
+        "n_samples": 130,
+        "f1": 0.0,
+        "rouge_l": 0.0,
+        "format_match": 0.06153846153846154,
+        "numeric_tolerance@0.5": 0.05384615384615385
+      },
+      "numeric_simple": {
+        "n_samples": 130,
+        "f1": 0.0,
+        "rouge_l": 0.0,
+        "format_match": 0.007692307692307693,
+        "numeric_tolerance@0.5": 0.015384615384615385
+      },
+      "numeric_complex": {
+        "n_samples": 60,
+        "f1": 0.0008130081300813007,
+        "rouge_l": 0.0008130081300813007,
+        "format_match": 0.016666666666666666,
+        "numeric_tolerance@0.5": 0.05
+      },
+      "boolean_complex": {
+        "n_samples": 10,
+        "f1": 0.0,
+        "rouge_l": 0.0,
+        "format_match": 0.1,
+        "numeric_tolerance@0.5": 0.0
+      }
+    }
+  }
+}
