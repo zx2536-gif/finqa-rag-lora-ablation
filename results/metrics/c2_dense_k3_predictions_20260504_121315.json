@@ -1,0 +1,122 @@
+[
+  {
+    "id": "ABMD/2015/page_93.pdf-1",
+    "stratum": "percentage_simple",
+    "question": "what percentage of the class b preferred stock is currently outstanding?",
+    "gold": "0%",
+    "prediction": "no",
+    "retrieved_passages": [
+      {
+        "passage_id": "ABMD/2015/page_93.pdf-1__post_text__1",
+        "text": "stockholders 2019 equity class b preferred stock the company has authorized 1000000 shares of class b preferred stock , $ .01 par value , of which the board of directors can set the designation , rights and privileges .",
+        "score": 0.7490999698638916
+      },
+      {
+        "passage_id": "ABMD/2015/page_93.pdf-1__post_text__2",
+        "text": "no shares of class b preferred stock have been issued or are outstanding .",
+        "score": 0.5886238813400269
+      },
+      {
+        "passage_id": "ABMD/2015/page_93.pdf-1__post_text__13",
+        "text": "each share of stock issued pursuant to a stock option or stock appreciation right counts as one share against the maximum number of shares issuable under the plan , while each share of stock issued .",
+        "score": 0.4237977862358093
+      }
+    ]
+  },
+  {
+    "id": "DRE/2016/page_59.pdf-1",
+    "stratum": "percentage_simple",
+    "question": "in 2015 what was the percent of the total second generation capital expenditures by type of expenditure that wassecond generation leasing costs",
+    "gold": "79.5%",
+    "prediction": "no",
+    "retrieved_passages": [
+      {
+        "passage_id": "DRE/2016/page_59.pdf-1__pre_text__8",
+        "text": "the following table summarizes our second generation capital expenditures by type of expenditure , as well as capital expenditures for the development of real estate investments and for other deferred leasing costs ( in thousands ) : .",
+        "score": 0.7274854183197021
+      },
+      {
+        "passage_id": "DRE/2016/page_59.pdf-1__pre_text__5",
+        "text": "tenant improvements and leasing costs to re-let rental space that we previously leased to tenants are referred to as tt second generation expenditures .",
+        "score": 0.6960564851760864
+      },
+      {
+        "passage_id": "DRE/2016/page_59.pdf-1__post_text__0",
+        "text": "second generation capital expenditures were significantly lower during 2016 and 2015 , compared to 2014 , as the result of significant dispositions of office properties , which were more capital intensive to re-lease than industrial ff properties .",
+        "score": 0.6806524395942688
+      }
+    ]
+  },
+  {
+    "id": "FIS/2017/page_14.pdf-4",
+    "stratum": "percentage_simple",
+    "question": "what percentage of total consolidated revenues was gfs segment in 2016?",
+    "gold": "46%",
+    "prediction": "no",
+    "retrieved_passages": [
+      {
+        "passage_id": "FIS/2017/page_14.pdf-4__pre_text__4",
+        "text": "revenues by segment the table below summarizes our revenues by reporting segment ( in millions ) : .",
+        "score": 0.56043541431427
+      },
+      {
+        "passage_id": "ADBE/1999/page_33.pdf-4__post_text__15",
+        "text": "we have paid cash dividends on our common stock each quarter since the second quarter of 1988 .",
+        "score": 0.4078044891357422
+      },
+      {
+        "passage_id": "ADBE/1999/page_33.pdf-4__post_text__5",
+        "text": "these factors were partially offset by the purchase of treasury stock in the amount of $ 479.2 million , capital expenditures of $ 42.2 million , the purchase of other assets for $ 43.5 million , the purchase of the assets of golive systems and attitude software for $ 36.9 million , and the payment of dividends totaling $ 12.2 million .",
+        "score": 0.3780801594257355
+      }
+    ]
+  },
+  {
+    "id": "INTC/2013/page_71.pdf-3",
+    "stratum": "percentage_simple",
+    "question": "what percentage of total cash and investments as of dec . 28 2013 was comprised of available-for-sale investments?",
+    "gold": "57%",
+    "prediction": "No",
+    "retrieved_passages": [
+      {
+        "passage_id": "INTC/2013/page_71.pdf-3__pre_text__9",
+        "text": "note 5 : cash and investments cash and investments at the end of each period were as follows : ( in millions ) dec 28 , dec 29 .",
+        "score": 0.6319979429244995
+      },
+      {
+        "passage_id": "ADBE/1999/page_33.pdf-4__post_text__2",
+        "text": "our cash , cash equivalents , and short-term investments increased $ 226.2 million , or 83% ( 83 % ) , in fiscal 1999 , primarily due to cash generated from operations of $ 334.2 million , proceeds from the issuance of treasury stock related to the exercise of stock options under our stock option plans and sale of stock under the employee stock purchase plan of $ 142.9 million , and the release of restricted funds totaling $ 130.3 million associated with the refinancing of our corporate headquarters lease agreement .",
+        "score": 0.5972801446914673
+      },
+      {
+        "passage_id": "ADBE/1999/page_33.pdf-4__post_text__1",
+        "text": "all of our cash equivalents and short-term investments are classified as available-for-sale under the provisions of sfas 115 , 2018 2018accounting for certain investments in debt and equity securities . 2019 2019 the securities are carried at fair value with the unrealized gains and losses , net of tax , included in accumulated other comprehensive income , which is reflected as a separate component of stockholders 2019 equity .",
+        "score": 0.5751215219497681
+      }
+    ]
+  },
+  {
+    "id": "ADBE/1999/page_33.pdf-4",
+    "stratum": "percentage_simple",
+    "question": "what percentage of cash , cash equivalents , and short-term investments was due to cash generated from operations?",
+    "gold": "148%",
+    "prediction": "yes",
+    "retrieved_passages": [
+      {
+        "passage_id": "ADBE/1999/page_33.pdf-4__post_text__2",
+        "text": "our cash , cash equivalents , and short-term investments increased $ 226.2 million , or 83% ( 83 % ) , in fiscal 1999 , primarily due to cash generated from operations of $ 334.2 million , proceeds from the issuance of treasury stock related to the exercise of stock options under our stock option plans and sale of stock under the employee stock purchase plan of $ 142.9 million , and the release of restricted funds totaling $ 130.3 million associated with the refinancing of our corporate headquarters lease agreement .",
+        "score": 0.6481274962425232
+      },
+      {
+        "passage_id": "ADBE/1999/page_33.pdf-4__post_text__0",
+        "text": "our cash , cash equivalents , and short-term investments consist principally of money market mutual funds , municipal bonds , and united states government agency securities .",
+        "score": 0.6053851246833801
+      },
+      {
+        "passage_id": "ADBE/1999/page_33.pdf-4__post_text__3",
+        "text": "other sources of cash include the proceeds from the sale of equity securities and the sale of a building in the amount of $ 63.9 million and $ 40.6 million , respectively .",
+        "score": 0.5691970586776733
+      }
+    ]
+  }
+]
