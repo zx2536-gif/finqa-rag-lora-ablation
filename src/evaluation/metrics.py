@@ -78,31 +78,29 @@ def rouge_l(prediction: str, gold: str) -> float:
 
 def evaluate_predictions(predictions: List[str], golds: List[str], 
                          strata: List[str] = None) -> Dict:
-    """Compute aggregate F1 and ROUGE-L scores.
+    """Compute aggregate F1, ROUGE-L, format match, and numeric tolerance.
     
-    Args:
-        predictions: list of model output strings
-        golds: list of ground truth strings  
-        strata: optional list of stratum labels for per-stratum breakdown
-    
-    Returns:
-        Dict with 'overall' metrics and optionally 'by_stratum'.
+    Returns Dict with 'overall' and optional 'by_stratum' breakdowns.
     """
     assert len(predictions) == len(golds), \
         f"Mismatched lengths: {len(predictions)} preds vs {len(golds)} golds"
     
     f1s = [f1_score(p, g) for p, g in zip(predictions, golds)]
     rouges = [rouge_l(p, g) for p, g in zip(predictions, golds)]
+    fmts = [format_match(p, g, strata[i] if strata else None) 
+            for i, (p, g) in enumerate(zip(predictions, golds))]
+    nums = [numeric_tolerance_match(p, g) for p, g in zip(predictions, golds)]
     
     results = {
         'overall': {
             'n_samples': len(predictions),
             'f1': sum(f1s) / len(f1s),
             'rouge_l': sum(rouges) / len(rouges),
+            'format_match': sum(fmts) / len(fmts),
+            'numeric_tolerance@0.5': sum(nums) / len(nums),
         }
     }
     
-    # Per-stratum breakdown
     if strata is not None:
         assert len(strata) == len(predictions)
         by_stratum = {}
@@ -112,7 +110,56 @@ def evaluate_predictions(predictions: List[str], golds: List[str],
                 'n_samples': len(indices),
                 'f1': sum(f1s[i] for i in indices) / len(indices),
                 'rouge_l': sum(rouges[i] for i in indices) / len(indices),
+                'format_match': sum(fmts[i] for i in indices) / len(indices),
+                'numeric_tolerance@0.5': sum(nums[i] for i in indices) / len(indices),
             }
         results['by_stratum'] = by_stratum
     
     return results
+
+
+def classify_answer_format(s: str) -> str:
+    """Classify answer string by output format: percentage / numeric / boolean / other."""
+    import re
+    s = (s or '').strip().lower()
+    if s in ('yes', 'no', 'true', 'false'):
+        return 'boolean'
+    if '%' in s:
+        return 'percentage'
+    if re.match(r'^-?[\d,.]+\s*(million|billion|thousand)?$', s.replace(' ', '')):
+        return 'numeric'
+    return 'other'
+
+
+def format_match(prediction: str, gold: str, stratum: str = None) -> float:
+    """1.0 if prediction format matches gold's format (or stratum's expected format)."""
+    pred_fmt = classify_answer_format(prediction)
+    if stratum:
+        # Use the stratum prefix as the expected format (e.g. "percentage_simple" -> "percentage")
+        expected = stratum.split('_')[0]
+        return float(pred_fmt == expected)
+    else:
+        gold_fmt = classify_answer_format(gold)
+        return float(pred_fmt == gold_fmt)
+
+
+def extract_number(s: str):
+    """Extract first signed decimal from a string. Returns None if no number."""
+    import re
+    m = re.search(r'-?\d+\.?\d*', str(s))
+    return float(m.group()) if m else None
+
+
+def numeric_tolerance_match(prediction: str, gold: str, tolerance: float = 0.5) -> float:
+    """1.0 if extracted numbers from prediction and gold are within `tolerance` relative error.
+    
+    Returns 0.0 if either side has no extractable number, or if relative error >= tolerance.
+    Special case: both numbers ~0 -> 1.0.
+    """
+    g = extract_number(gold)
+    p = extract_number(prediction)
+    if g is None or p is None:
+        return 0.0
+    if abs(g) <= 1e-3:
+        return float(abs(p) <= 1e-3)
+    return float(abs(p - g) / abs(g) < tolerance)

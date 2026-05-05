@@ -1,0 +1,62 @@
+{
+  "config": "C3_LoRA_vanilla",
+  "variant": "vanilla",
+  "adapter_dir": "/content/drive/MyDrive/finqa-rag-lora-ablation/checkpoints/c3_vanilla/final",
+  "model": "google-t5/t5-base",
+  "data_path": "data/processed/finqa_500.json",
+  "n_samples": 500,
+  "timestamp": "20260505_104344",
+  "metrics": {
+    "overall": {
+      "n_samples": 500,
+      "f1": 0.037333333333333336,
+      "rouge_l": 0.037333333333333336,
+      "format_match": 0.768,
+      "numeric_tolerance@0.5": 0.112
+    },
+    "by_stratum": {
+      "percentage_simple": {
+        "n_samples": 130,
+        "f1": 0.007692307692307693,
+        "rouge_l": 0.007692307692307693,
+        "format_match": 0.9538461538461539,
+        "numeric_tolerance@0.5": 0.14615384615384616
+      },
+      "numeric_complex": {
+        "n_samples": 60,
+        "f1": 0.0,
+        "rouge_l": 0.0,
+        "format_match": 0.5666666666666667,
+        "numeric_tolerance@0.5": 0.08333333333333333
+      },
+      "percentage_complex": {
+        "n_samples": 130,
+        "f1": 0.01282051282051282,
+        "rouge_l": 0.01282051282051282,
+        "format_match": 0.9461538461538461,
+        "numeric_tolerance@0.5": 0.13846153846153847
+      },
+      "boolean_simple": {
+        "n_samples": 40,
+        "f1": 0.3,
+        "rouge_l": 0.3,
+        "format_match": 0.5,
+        "numeric_tolerance@0.5": 0.0
+      },
+      "boolean_complex": {
+        "n_samples": 10,
+        "f1": 0.3,
+        "rouge_l": 0.3,
+        "format_match": 0.6,
+        "numeric_tolerance@0.5": 0.0
+      },
+      "numeric_simple": {
+        "n_samples": 130,
+        "f1": 0.007692307692307693,
+        "rouge_l": 0.007692307692307693,
+        "format_match": 0.5923076923076923,
+        "numeric_tolerance@0.5": 0.1076923076923077
+      }
+    }
+  }
+}

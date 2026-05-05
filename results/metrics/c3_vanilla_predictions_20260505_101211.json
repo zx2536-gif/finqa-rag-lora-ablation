@@ -1,0 +1,3502 @@
+[
+  {
+    "id": "ABMD/2015/page_93.pdf-1",
+    "stratum": "percentage_simple",
+    "question": "what percentage of the class b preferred stock is currently outstanding?",
+    "gold": "0%",
+    "prediction": "64%"
+  },
+  {
+    "id": "DRE/2016/page_59.pdf-1",
+    "stratum": "percentage_simple",
+    "question": "in 2015 what was the percent of the total second generation capital expenditures by type of expenditure that wassecond generation leasing costs",
+    "gold": "79.5%",
+    "prediction": "64%"
+  },
+  {
+    "id": "FIS/2017/page_14.pdf-4",
+    "stratum": "percentage_simple",
+    "question": "what percentage of total consolidated revenues was gfs segment in 2016?",
+    "gold": "46%",
+    "prediction": "64%"
+  },
+  {
+    "id": "INTC/2013/page_71.pdf-3",
+    "stratum": "percentage_simple",
+    "question": "what percentage of total cash and investments as of dec . 28 2013 was comprised of available-for-sale investments?",
+    "gold": "57%",
+    "prediction": "64%"
+  },
+  {
+    "id": "ADBE/1999/page_33.pdf-4",
+    "stratum": "percentage_simple",
+    "question": "what percentage of cash , cash equivalents , and short-term investments was due to cash generated from operations?",
+    "gold": "148%",
+    "prediction": "64%"
+  },
+  {
+    "id": "CME/2012/page_103.pdf-2",
+    "stratum": "percentage_simple",
+    "question": "what was the percentage change in the redeemable non-controlling in 2012",
+    "gold": "14.9%",
+    "prediction": "64%"
+  },
+  {
+    "id": "ETR/2008/page_154.pdf-3",
+    "stratum": "percentage_simple",
+    "question": "what percent lower is the net present than the total payments value of lease payments?",
+    "gold": "15.67%",
+    "prediction": "66%"
+  },
+  {
+    "id": "MSI/2007/page_42.pdf-1",
+    "stratum": "percentage_simple",
+    "question": "in 2007 what was the percent of the total number of shares purchased after 11/24/07",
+    "gold": "74.3%",
+    "prediction": "64%"
+  },
+  {
+    "id": "CME/2010/page_113.pdf-4",
+    "stratum": "percentage_simple",
+    "question": "what is the performance shares granted as a percent of the total number of granted shares in 2010?",
+    "gold": "0.76%",
+    "prediction": "64%"
+  },
+  {
+    "id": "SLG/2017/page_114.pdf-1",
+    "stratum": "percentage_simple",
+    "question": "in 2017 what was the percent of the total plan contributions we made to the multi-employer plans that was for pension",
+    "gold": "23.1%",
+    "prediction": "64%"
+  },
+  {
+    "id": "HUM/2018/page_129.pdf-2",
+    "stratum": "percentage_simple",
+    "question": "considering the year 2018 , what is the percentage of the cash dividend paid per share concerning the total amount paid per share?",
+    "gold": "26.31%",
+    "prediction": "64%"
+  },
+  {
+    "id": "AMT/2005/page_32.pdf-4",
+    "stratum": "percentage_simple",
+    "question": "during the period 11/17/05 2013 11/30/05 what was the percentage of the treasury stock purchased in the fourth quarter of 2005",
+    "gold": "31%",
+    "prediction": "66%"
+  },
+  {
+    "id": "AES/2017/page_85.pdf-1",
+    "stratum": "percentage_simple",
+    "question": "in 2017 what percentage of foreign currency transaction gains were attributable to mexico?",
+    "gold": "40%",
+    "prediction": "64%"
+  },
+  {
+    "id": "MSI/2018/page_32.pdf-2",
+    "stratum": "percentage_simple",
+    "question": "what was the percentage of the net sales from services and software in 2017",
+    "gold": "29.3%",
+    "prediction": "64%"
+  },
+  {
+    "id": "GS/2013/page_97.pdf-4",
+    "stratum": "percentage_simple",
+    "question": "for 2012 , what was the percentage of the equity related to our investment in the ordinary shares of icbc , which was sold in the first half of 2013?",
+    "gold": "8.4%",
+    "prediction": "64%"
+  },
+  {
+    "id": "DRE/2008/page_29.pdf-1",
+    "stratum": "percentage_simple",
+    "question": "in 2008 what was the percent of the recurring capital expenditures associated with leasing costs",
+    "gold": "37.7%",
+    "prediction": "64%"
+  },
+  {
+    "id": "PNC/2011/page_183.pdf-3",
+    "stratum": "percentage_simple",
+    "question": "in 2011 , what percentage of common stocks were issued from treasury stock from stock option activity?",
+    "gold": "2.1%",
+    "prediction": "64%"
+  },
+  {
+    "id": "GIS/2019/page_104.pdf-2",
+    "stratum": "percentage_simple",
+    "question": "in 2019 what was the percent of the total noncancelable future lease commitments that was due in 2021",
+    "gold": "21.1%",
+    "prediction": "64%"
+  },
+  {
+    "id": "IP/2014/page_71.pdf-1",
+    "stratum": "percentage_simple",
+    "question": "what percentage of contractual obligations for future payments under existing debt and lease commitments and purchase obligations at december 31 , 2014 due in 2015 are purchase obligations?",
+    "gold": "79%",
+    "prediction": "66%"
+  },
+  {
+    "id": "SLB/2009/page_65.pdf-1",
+    "stratum": "percentage_simple",
+    "question": "what was cash and short-term investments as a percentage of total purchase price?",
+    "gold": "31.7%",
+    "prediction": "64%"
+  },
+  {
+    "id": "JPM/2009/page_238.pdf-2",
+    "stratum": "percentage_simple",
+    "question": "for the year ended december 312009 what was the percentage of the income before income tax expense/ ( benefit ) and extraordinary gain from the us",
+    "gold": "39%",
+    "prediction": "66%"
+  },
+  {
+    "id": "HIG/2013/page_124.pdf-1",
+    "stratum": "percentage_simple",
+    "question": "what percent of total amount is held on fixed maturities?",
+    "gold": "96.36%",
+    "prediction": "64%"
+  },
+  {
+    "id": "UPS/2014/page_61.pdf-1",
+    "stratum": "percentage_simple",
+    "question": "what percent of total expected cash outflow to satisfy contractual obligations and commitments as of december 31 , 2014 , is debt principal?",
+    "gold": "45%",
+    "prediction": "64%"
+  },
+  {
+    "id": "UNP/2010/page_24.pdf-1",
+    "stratum": "percentage_simple",
+    "question": "in 2010 what was the percent of the cash provided by operations that was from receivables securitization facility",
+    "gold": "8.9%",
+    "prediction": "64%"
+  },
+  {
+    "id": "AOS/2016/page_24.pdf-1",
+    "stratum": "percentage_simple",
+    "question": "what percentage of total aggregate contractual obligations is due to long term debt?",
+    "gold": "52%",
+    "prediction": "64%"
+  },
+  {
+    "id": "RCL/2009/page_13.pdf-1",
+    "stratum": "percentage_simple",
+    "question": "in 2005 what was the percent of the weighted-average supply of berths marketed globally in the north america",
+    "gold": "66%",
+    "prediction": "64%"
+  },
+  {
+    "id": "AMT/2010/page_118.pdf-1",
+    "stratum": "percentage_simple",
+    "question": "what was the percent of the total future minimum rental payments under non-cancellable that was due in 2015",
+    "gold": "6.2%",
+    "prediction": "66%"
+  },
+  {
+    "id": "SPGI/2017/page_73.pdf-2",
+    "stratum": "percentage_simple",
+    "question": "as part of plan assets what was the percent of the purchases on the total account balance",
+    "gold": "71.8%",
+    "prediction": "64%"
+  },
+  {
+    "id": "ETR/2017/page_379.pdf-4",
+    "stratum": "percentage_simple",
+    "question": "what was the percent of the joint stipulation approve revenue increase based on formula rates",
+    "gold": "81.9%",
+    "prediction": "66%"
+  },
+  {
+    "id": "BLL/2010/page_40.pdf-3",
+    "stratum": "percentage_simple",
+    "question": "what percentage of total cash payments required for long-term debt maturities , rental payments under noncancellable operating leases , purchase obligations and other commitments in effect at december 31 , 2010 are comprised of purchase obligations?",
+    "gold": "62%",
+    "prediction": "64%"
+  },
+  {
+    "id": "AAPL/2003/page_61.pdf-1",
+    "stratum": "percentage_simple",
+    "question": "what percentage of the total restructuring charges during the year ended september 27 , 2003 were severance costs?",
+    "gold": "27.6%",
+    "prediction": "64%"
+  },
+  {
+    "id": "IP/2005/page_32.pdf-2",
+    "stratum": "percentage_simple",
+    "question": "what percentage of capital spending from continuing operations was from the printing papers segment in 2004?",
+    "gold": "50%",
+    "prediction": "64%"
+  },
+  {
+    "id": "TROW/2008/page_23.pdf-2",
+    "stratum": "percentage_simple",
+    "question": "what was the percentage change in net gains ( losses ) realized on fund dispositions between 2007 and 2008?",
+    "gold": "-182%",
+    "prediction": "64%"
+  },
+  {
+    "id": "AES/2017/page_110.pdf-4",
+    "stratum": "percentage_simple",
+    "question": "what percentage of total contractual obligations , commitments and other liabilities as of december 31 , 2017 is composed of debt obligations?",
+    "gold": "44%",
+    "prediction": "64%"
+  },
+  {
+    "id": "UNP/2014/page_56.pdf-4",
+    "stratum": "percentage_simple",
+    "question": "what percentage of total freight revenues was the coal commodity group in 2013?",
+    "gold": "18%",
+    "prediction": "66%"
+  },
+  {
+    "id": "ALLE/2016/page_29.pdf-1",
+    "stratum": "percentage_simple",
+    "question": "considering the year 2016 , what is the average revenue?",
+    "gold": "25%",
+    "prediction": "64%"
+  },
+  {
+    "id": "SNPS/2006/page_68.pdf-3",
+    "stratum": "percentage_simple",
+    "question": "what is the percentage of cash paid among the total purchase price?",
+    "gold": "79.24%",
+    "prediction": "64%"
+  },
+  {
+    "id": "APTV/2015/page_47.pdf-4",
+    "stratum": "percentage_simple",
+    "question": "what is the percentage of powertrain systems sites among all sites?",
+    "gold": "16.67%",
+    "prediction": "64%"
+  },
+  {
+    "id": "PKG/2006/page_65.pdf-4",
+    "stratum": "percentage_simple",
+    "question": "what percent did restricted stock expense increase from 2004 to 2005?",
+    "gold": "39.5%",
+    "prediction": "64%"
+  },
+  {
+    "id": "MKTX/2009/page_79.pdf-1",
+    "stratum": "percentage_simple",
+    "question": "what percentage of the aggregate consideration for the greenline acquisition was paid to the sellers in 2009 based on the 2008 earn-out target?",
+    "gold": "3.3%",
+    "prediction": "64%"
+  },
+  {
+    "id": "GS/2013/page_52.pdf-3",
+    "stratum": "percentage_simple",
+    "question": "what percentage of total net revenues institutional client services segment in 2012 were made up of equities client execution?",
+    "gold": "17%",
+    "prediction": "64%"
+  },
+  {
+    "id": "JPM/2004/page_31.pdf-3",
+    "stratum": "percentage_simple",
+    "question": "in 2004 , what percent of operating earnings were allocated to commercial banking?",
+    "gold": "7.4%",
+    "prediction": "64%"
+  },
+  {
+    "id": "AMT/2006/page_96.pdf-2",
+    "stratum": "percentage_simple",
+    "question": "what percentage of outstanding amounts under the company 2019s long-term financing arrangements is current as of december 31 , 2006?",
+    "gold": "7%",
+    "prediction": "64%"
+  },
+  {
+    "id": "ETR/2011/page_250.pdf-2",
+    "stratum": "percentage_simple",
+    "question": "what percentage of total entergy's employees are part of entergy texas?",
+    "gold": "4.6%",
+    "prediction": "64%"
+  },
+  {
+    "id": "UNP/2009/page_43.pdf-3",
+    "stratum": "percentage_simple",
+    "question": "what percentage of total commercial commitments are sale of receivables?",
+    "gold": "20%",
+    "prediction": "64%"
+  },
+  {
+    "id": "DRE/2016/page_64.pdf-1",
+    "stratum": "percentage_simple",
+    "question": "what was the percent of the total contractual obligations that was associated with long-term debt that was due in 2017",
+    "gold": "5.8%",
+    "prediction": "64%"
+  },
+  {
+    "id": "C/2010/page_229.pdf-3",
+    "stratum": "percentage_simple",
+    "question": "in 2011 what percentage of total subsidiary trusts obligations are due to bank subsidiary?",
+    "gold": "49%",
+    "prediction": "64%"
+  },
+  {
+    "id": "ETR/2017/page_373.pdf-1",
+    "stratum": "percentage_simple",
+    "question": "the change in retail electric price accounts for what percent of revenue increase?",
+    "gold": "66.49%",
+    "prediction": "64%"
+  },
+  {
+    "id": "APD/2016/page_52.pdf-2",
+    "stratum": "percentage_simple",
+    "question": "considering the 2015's capital expenditures on a gaap basis , what is the percentage of the investments in and advances to unconsolidated affiliates in the total value?",
+    "gold": "0.33%",
+    "prediction": "64%"
+  },
+  {
+    "id": "UPS/2014/page_61.pdf-3",
+    "stratum": "percentage_simple",
+    "question": "what portion of the total contractual obligations is due in 2015?",
+    "gold": "13.1%",
+    "prediction": "64%"
+  },
+  {
+    "id": "MS/2017/page_75.pdf-2",
+    "stratum": "percentage_simple",
+    "question": "what percentage of total payments due in 2019-2020 are time deposits?",
+    "gold": "4%",
+    "prediction": "64%"
+  },
+  {
+    "id": "STT/2008/page_139.pdf-2",
+    "stratum": "percentage_simple",
+    "question": "what portion of the total other expenses is related to securities processing in 2007?",
+    "gold": "16.5%",
+    "prediction": "64%"
+  },
+  {
+    "id": "ETR/2004/page_160.pdf-2",
+    "stratum": "percentage_simple",
+    "question": "what is the storm damage cost as a percentage of 2002 net revenue?",
+    "gold": "17.8%",
+    "prediction": "64%"
+  },
+  {
+    "id": "PPG/2005/page_20.pdf-4",
+    "stratum": "percentage_simple",
+    "question": "what was the operating margin for the coatings segment in 2004?",
+    "gold": "15%",
+    "prediction": "64%"
+  },
+  {
+    "id": "AWK/2015/page_115.pdf-2",
+    "stratum": "percentage_simple",
+    "question": "what was the rate of the income tax benefit based on the stock compensation",
+    "gold": "36.4%",
+    "prediction": "64%"
+  },
+  {
+    "id": "APTV/2016/page_44.pdf-1",
+    "stratum": "percentage_simple",
+    "question": "what percentage of major manufacturing sites are in europe middle east& africa?",
+    "gold": "38%",
+    "prediction": "64%"
+  },
+  {
+    "id": "V/2008/page_130.pdf-2",
+    "stratum": "percentage_simple",
+    "question": "what portion of total purchase consideration issued at reorganization date is related to visa inc . common stock?",
+    "gold": "97.2%",
+    "prediction": "66%"
+  },
+  {
+    "id": "ADBE/2003/page_90.pdf-2",
+    "stratum": "percentage_simple",
+    "question": "what portion of the non-cancelable operating leases net of sublease income is due within the next 12 months?",
+    "gold": "28.1%",
+    "prediction": "64%"
+  },
+  {
+    "id": "MSI/2005/page_64.pdf-4",
+    "stratum": "percentage_simple",
+    "question": "in 2007 what was the percent of the total long-term debt obligations",
+    "gold": "30.3%",
+    "prediction": "64%"
+  },
+  {
+    "id": "HII/2011/page_69.pdf-4",
+    "stratum": "percentage_simple",
+    "question": "what was the percentage change of the net cash provided by ( used in ) operating activities from 2010 to 2011",
+    "gold": "47.1%",
+    "prediction": "64%"
+  },
+  {
+    "id": "ZBH/2007/page_54.pdf-2",
+    "stratum": "percentage_simple",
+    "question": "what percentage of total contractual obligations is operating leases?",
+    "gold": "23%",
+    "prediction": "64%"
+  },
+  {
+    "id": "PNC/2012/page_46.pdf-5",
+    "stratum": "percentage_simple",
+    "question": "for the fourth quarter of 2012 what as the percent of the total shares purchased that was bought in december",
+    "gold": "27.7%",
+    "prediction": "64%"
+  },
+  {
+    "id": "AAL/2015/page_183.pdf-2",
+    "stratum": "percentage_simple",
+    "question": "what portion of the total net reorganization items are related to professional fees?",
+    "gold": "7.5%",
+    "prediction": "64%"
+  },
+  {
+    "id": "IP/2007/page_32.pdf-1",
+    "stratum": "percentage_simple",
+    "question": "what was the consumer packaging profit margin in 2006",
+    "gold": "6.4%",
+    "prediction": "64%"
+  },
+  {
+    "id": "AAPL/2007/page_83.pdf-3",
+    "stratum": "percentage_simple",
+    "question": "as of september 29 , 2007 , what percent of the company 2019s total future minimum lease payments under noncancelable operating leases were related to leases for retail space?",
+    "gold": "78.6%",
+    "prediction": "64%"
+  },
+  {
+    "id": "JKHY/2016/page_61.pdf-3",
+    "stratum": "percentage_simple",
+    "question": "what was the percent of the make-up of the acquisition that was allocated to the goodwill in the net assets acquired",
+    "gold": "60.9%",
+    "prediction": "64%"
+  },
+  {
+    "id": "KHC/2018/page_27.pdf-4",
+    "stratum": "percentage_simple",
+    "question": "what percent of owned facilities are in the us?",
+    "gold": "49.38%",
+    "prediction": "64%"
+  },
+  {
+    "id": "MS/2017/page_75.pdf-1",
+    "stratum": "percentage_simple",
+    "question": "what percentage of total payments due in 2018 are time deposits?",
+    "gold": "26%",
+    "prediction": "64%"
+  },
+  {
+    "id": "GS/2013/page_184.pdf-2",
+    "stratum": "percentage_simple",
+    "question": "what percentage of future minimum rental payments are due in 2015?",
+    "gold": "13%",
+    "prediction": "64%"
+  },
+  {
+    "id": "CAG/2008/page_47.pdf-1",
+    "stratum": "percentage_simple",
+    "question": "what percentage of total contractual obligations at the end of fiscal 2008 was due to long-term debt?",
+    "gold": "67%",
+    "prediction": "64%"
+  },
+  {
+    "id": "PPG/2010/page_68.pdf-1",
+    "stratum": "percentage_simple",
+    "question": "interest income is what percent of other income for 2010?\\\\n\\\\n",
+    "gold": "15.9%",
+    "prediction": "64%"
+  },
+  {
+    "id": "CE/2014/page_90.pdf-2",
+    "stratum": "percentage_simple",
+    "question": "how much of the 2013 amortization expense is due to the term c-2 loan facility conversion?",
+    "gold": "20%",
+    "prediction": "66%"
+  },
+  {
+    "id": "AES/2011/page_216.pdf-2",
+    "stratum": "percentage_simple",
+    "question": "the loss on the sale of cartagena is what percent of the aoci impact of interest rate derivatives?",
+    "gold": "94%",
+    "prediction": "64%"
+  },
+  {
+    "id": "ANSS/2008/page_89.pdf-2",
+    "stratum": "percentage_simple",
+    "question": "in 2008 what was the percent of the revenue by geographic from the unite states",
+    "gold": "31.7%",
+    "prediction": "64%"
+  },
+  {
+    "id": "UNP/2008/page_81.pdf-3",
+    "stratum": "percentage_simple",
+    "question": "what percentage of total aggregate debt maturities as of december 31 , 2008 are due after 2013?",
+    "gold": "64%",
+    "prediction": "64%"
+  },
+  {
+    "id": "PKG/2013/page_83.pdf-3",
+    "stratum": "percentage_simple",
+    "question": "at december 31 , 2013 , what was the percent of the environmental-related reserves that was related to asset retirement obligations",
+    "gold": "77.7%",
+    "prediction": "64%"
+  },
+  {
+    "id": "APD/2019/page_100.pdf-1",
+    "stratum": "percentage_simple",
+    "question": "what is the short-term debt as a percent of total debt , in 2019?",
+    "gold": "1.74%",
+    "prediction": "64%"
+  },
+  {
+    "id": "FRT/2004/page_53.pdf-1",
+    "stratum": "percentage_simple",
+    "question": "what was the percentual decrease in the cash and cash equivalents during this period?",
+    "gold": "12.84%",
+    "prediction": "64%"
+  },
+  {
+    "id": "DVN/2015/page_92.pdf-4",
+    "stratum": "percentage_simple",
+    "question": "as of december 31 , 2015 what was the percent of the debt maturities scheduled to mature in 2016",
+    "gold": "7.4%",
+    "prediction": "64%"
+  },
+  {
+    "id": "MS/2013/page_223.pdf-1",
+    "stratum": "percentage_simple",
+    "question": "what was the effect in difference of average borrowing rate due to the use of swaps in 2013?",
+    "gold": "2.2%",
+    "prediction": "64%"
+  },
+  {
+    "id": "UNP/2011/page_80.pdf-4",
+    "stratum": "percentage_simple",
+    "question": "what percent of total minimum operating lease payments are due in 2013?",
+    "gold": "11%",
+    "prediction": "64%"
+  },
+  {
+    "id": "ZBH/2007/page_54.pdf-1",
+    "stratum": "percentage_simple",
+    "question": "what percent of contractual obligations is long term debt?",
+    "gold": "17.63%",
+    "prediction": "64%"
+  },
+  {
+    "id": "GS/2017/page_176.pdf-1",
+    "stratum": "percentage_simple",
+    "question": "what percentage of future minimum rental payments are due after 2022?",
+    "gold": "39%",
+    "prediction": "64%"
+  },
+  {
+    "id": "DRE/2010/page_36.pdf-1",
+    "stratum": "percentage_simple",
+    "question": "in 2009 what was the percent of the total second generation capital expenditures associated with leasing costs",
+    "gold": "51.1%",
+    "prediction": "64%"
+  },
+  {
+    "id": "C/2010/page_55.pdf-2",
+    "stratum": "percentage_simple",
+    "question": "what percent of total revenues net of interest expense was net interest revenue in 2010?",
+    "gold": "60%",
+    "prediction": "64%"
+  },
+  {
+    "id": "TROW/2009/page_23.pdf-4",
+    "stratum": "percentage_simple",
+    "question": "what percentage of the net inflows primarily from institutional investors was due to the transfer from retirement funds to target-date trusts?",
+    "gold": "10%",
+    "prediction": "64%"
+  },
+  {
+    "id": "AMT/2005/page_83.pdf-3",
+    "stratum": "percentage_simple",
+    "question": "in march 2003 what was the percentage of the loss recorded on the company consummated the sale of an office building in schaumburg,",
+    "gold": "0.97%",
+    "prediction": "64%"
+  },
+  {
+    "id": "BLL/2010/page_58.pdf-1",
+    "stratum": "percentage_simple",
+    "question": "what percentage of net assets acquired was goodwill?",
+    "gold": "29%",
+    "prediction": "66%"
+  },
+  {
+    "id": "JPM/2015/page_92.pdf-2",
+    "stratum": "percentage_simple",
+    "question": "in 2015 what was the percentage change in the net interest income excluding cib 2019s markets-based activities from 2014",
+    "gold": "1.9%",
+    "prediction": "64%"
+  },
+  {
+    "id": "MMM/2007/page_90.pdf-1",
+    "stratum": "percentage_simple",
+    "question": "in 2005 what was the percent of the impact of retirement-eligible employees to earnings per share 2014 diluted",
+    "gold": "0.5%",
+    "prediction": "64%"
+  },
+  {
+    "id": "ETR/2011/page_273.pdf-1",
+    "stratum": "percentage_simple",
+    "question": "what was the percent of the change in the net revenue in 2011",
+    "gold": "2.9%",
+    "prediction": "64%"
+  },
+  {
+    "id": "HOLX/2007/page_130.pdf-1",
+    "stratum": "percentage_simple",
+    "question": "what would be the net profit margin if the acquisitions occurred at the beginning of fiscal 2006?",
+    "gold": "5.5%",
+    "prediction": "64%"
+  },
+  {
+    "id": "CDNS/2018/page_82.pdf-1",
+    "stratum": "percentage_simple",
+    "question": "for acquisitions in 2017 what percentage of recorded a total acquired intangible assets was goodwill?",
+    "gold": "118%",
+    "prediction": "64%"
+  },
+  {
+    "id": "UNP/2006/page_55.pdf-1",
+    "stratum": "percentage_simple",
+    "question": "what was the percent of the total stock based compensation in 2006 for employee retention",
+    "gold": "59.1%",
+    "prediction": "64%"
+  },
+  {
+    "id": "MS/2013/page_223.pdf-2",
+    "stratum": "percentage_simple",
+    "question": "what was the effect in difference of average borrowing rate due to the use of swaps in 2012?",
+    "gold": "2.1%",
+    "prediction": "64%"
+  },
+  {
+    "id": "IQV/2016/page_65.pdf-3",
+    "stratum": "percentage_simple",
+    "question": "what was the percentage change in the selling , general and administrative expenses in 2015 from 2014",
+    "gold": "4.4%",
+    "prediction": "64%"
+  },
+  {
+    "id": "AMT/2002/page_104.pdf-3",
+    "stratum": "percentage_simple",
+    "question": "what was the percent of the company aggregate principal payments due in 2006",
+    "gold": "14.9%",
+    "prediction": "64%"
+  },
+  {
+    "id": "EW/2016/page_50.pdf-2",
+    "stratum": "percentage_simple",
+    "question": "what percentage of total contractual cash obligations is operating leases?",
+    "gold": "8%",
+    "prediction": "64%"
+  },
+  {
+    "id": "UAA/2017/page_52.pdf-1",
+    "stratum": "percentage_simple",
+    "question": "what percentage of operating income was the emea segment in 2016?",
+    "gold": "3%",
+    "prediction": "64%"
+  },
+  {
+    "id": "PKG/2013/page_83.pdf-4",
+    "stratum": "percentage_simple",
+    "question": "what percentage of total purchase commitments are due after 2018?",
+    "gold": "6%",
+    "prediction": "64%"
+  },
+  {
+    "id": "STT/2006/page_92.pdf-4",
+    "stratum": "percentage_simple",
+    "question": "what percent did indemnified securities financing increase between 2005 and 2006?",
+    "gold": "35.72%",
+    "prediction": "64%"
+  },
+  {
+    "id": "MSI/2008/page_73.pdf-3",
+    "stratum": "percentage_simple",
+    "question": "what was the efficiently , in a percent , of converting segmented sales to operating earnings for 2006?",
+    "gold": "17.7% of the segmented sales are converted into operating earnings .",
+    "prediction": "64%"
+  },
+  {
+    "id": "PKG/2001/page_78.pdf-3",
+    "stratum": "percentage_simple",
+    "question": "what is the difference between the weighted average expected long-term rate of return on plan assets for 1998 and the weighted average discount rate used in determining the actuarial present value of the benefit obligations in 1998?",
+    "gold": "3%",
+    "prediction": "64%"
+  },
+  {
+    "id": "IP/2006/page_34.pdf-2",
+    "stratum": "percentage_simple",
+    "question": "in 2005 what percentage of specialty businesses sales are from arizona chemical sales?",
+    "gold": "76%",
+    "prediction": "66%"
+  },
+  {
+    "id": "HWM/2015/page_95.pdf-1",
+    "stratum": "percentage_simple",
+    "question": "what is the percentual contribution of the acquisition of firth rixson in the third-party sales in 2014?",
+    "gold": "4%",
+    "prediction": "64%"
+  },
+  {
+    "id": "LLY/2008/page_45.pdf-4",
+    "stratum": "percentage_simple",
+    "question": "what percentage of the total purchase price was comprised of developed product technology ( cialis ) ?",
+    "gold": "72%",
+    "prediction": "64%"
+  },
+  {
+    "id": "PKG/2004/page_21.pdf-3",
+    "stratum": "percentage_simple",
+    "question": "by what percent did net sales increase from 2003 to 2004?",
+    "gold": "8.9%",
+    "prediction": "64%"
+  },
+  {
+    "id": "IP/2009/page_83.pdf-4",
+    "stratum": "percentage_simple",
+    "question": "what was the percentage change in the deffered tax asset balance in 2009 from 2008",
+    "gold": "380.5%",
+    "prediction": "64%"
+  },
+  {
+    "id": "VLO/2015/page_24.pdf-3",
+    "stratum": "percentage_simple",
+    "question": "what was the percentage increase of shares purchased in november to december?",
+    "gold": "190.5%",
+    "prediction": "64%"
+  },
+  {
+    "id": "IP/2005/page_28.pdf-3",
+    "stratum": "percentage_simple",
+    "question": "what was the industrial packaging profit margin in 2003",
+    "gold": "6.3%",
+    "prediction": "64%"
+  },
+  {
+    "id": "AON/2015/page_77.pdf-3",
+    "stratum": "percentage_simple",
+    "question": "in 2015 what was the percentage change in the uncertain tax positions",
+    "gold": "14.1%",
+    "prediction": "64%"
+  },
+  {
+    "id": "UAA/2016/page_81.pdf-1",
+    "stratum": "percentage_simple",
+    "question": "what percentage of total scheduled maturities of long term debt are due in 2019?",
+    "gold": "8%",
+    "prediction": "64%"
+  },
+  {
+    "id": "HOLX/2011/page_122.pdf-4",
+    "stratum": "percentage_simple",
+    "question": "what percentage of the total purchase price was contingent consideration?",
+    "gold": "25.8%",
+    "prediction": "64%"
+  },
+  {
+    "id": "UNP/2015/page_16.pdf-1",
+    "stratum": "percentage_simple",
+    "question": "what percentage of total highway revenue equipment owned is containers?",
+    "gold": "60%",
+    "prediction": "64%"
+  },
+  {
+    "id": "ADI/2012/page_65.pdf-1",
+    "stratum": "percentage_simple",
+    "question": "what is the effective income tax rate in 2011 based on the information about the gains on sales of discontinued operations?",
+    "gold": "35%",
+    "prediction": "64%"
+  },
+  {
+    "id": "ETR/2011/page_492.pdf-4",
+    "stratum": "percentage_simple",
+    "question": "in 2011 what as the percent of the number of securities to be issued upon exercise of outstanding options authorized by the shareholders",
+    "gold": "92.6%",
+    "prediction": "64%"
+  },
+  {
+    "id": "INTC/2018/page_50.pdf-4",
+    "stratum": "percentage_simple",
+    "question": "what percentage of total contractual obligations as of december 29 , 2018 are due to long-term debt obligations?",
+    "gold": "67%",
+    "prediction": "64%"
+  },
+  {
+    "id": "UNP/2018/page_21.pdf-1",
+    "stratum": "percentage_simple",
+    "question": "what percent of share repurchases took place in the fourth quarter?",
+    "gold": "21.7%",
+    "prediction": "64%"
+  },
+  {
+    "id": "ZBH/2004/page_65.pdf-1",
+    "stratum": "percentage_simple",
+    "question": "what was the percentage change in accumulated other comprehensive income for 2004?",
+    "gold": "83%",
+    "prediction": "64%"
+  },
+  {
+    "id": "ADBE/2018/page_54.pdf-1",
+    "stratum": "percentage_simple",
+    "question": "of the short-term investments and fixed income securities at november 30 , 2018 , what percentage are due after three years?",
+    "gold": "8.1%",
+    "prediction": "64%"
+  },
+  {
+    "id": "CAG/2015/page_28.pdf-1",
+    "stratum": "percentage_simple",
+    "question": "what percent of net sales in fiscal 2013 where due to private brands?",
+    "gold": "13%",
+    "prediction": "64%"
+  },
+  {
+    "id": "CAG/2008/page_35.pdf-1",
+    "stratum": "percentage_simple",
+    "question": "what percent of total gross profit in fiscal 2007 was contributed by consumer foods?",
+    "gold": "71%",
+    "prediction": "64%"
+  },
+  {
+    "id": "SLG/2010/page_50.pdf-1",
+    "stratum": "percentage_simple",
+    "question": "what percentage of 2013 obligations was the 2013 capital lease obligation",
+    "gold": "0.16%",
+    "prediction": "64%"
+  },
+  {
+    "id": "FIS/2007/page_52.pdf-1",
+    "stratum": "percentage_simple",
+    "question": "what percentage of total significant contractual obligations and commitments as of december 31 , 2007 are due in 2009?",
+    "gold": "9%",
+    "prediction": "64%"
+  },
+  {
+    "id": "ETR/2011/page_216.pdf-1",
+    "stratum": "percentage_simple",
+    "question": "what portion of the total capabilities is generated from coal stations for entergy arkansas?",
+    "gold": "25.3%",
+    "prediction": "64%"
+  },
+  {
+    "id": "LMT/2006/page_54.pdf-2",
+    "stratum": "percentage_simple",
+    "question": "what was the profit margin in 2004",
+    "gold": "7.7%",
+    "prediction": "64%"
+  },
+  {
+    "id": "ETR/2004/page_185.pdf-2",
+    "stratum": "percentage_simple",
+    "question": "what are the provisions for potential rate refunds as a percentage of net revenue in 2004?",
+    "gold": "1.97%",
+    "prediction": "64%"
+  },
+  {
+    "id": "RSG/2008/page_131.pdf-2",
+    "stratum": "percentage_simple",
+    "question": "as of december 312008 what was the percent of the unrecognized tax benefits related to tax positions allied had taken prior to the merger .",
+    "gold": "95.3%",
+    "prediction": "66%"
+  },
+  {
+    "id": "JPM/2015/page_243.pdf-2",
+    "stratum": "percentage_simple",
+    "question": "what was the percent of the other expenses federal deposit insurance corporation-related ( 201cfdic 201d ) expense as a percent of the legal expense",
+    "gold": "41.3%",
+    "prediction": "64%"
+  },
+  {
+    "id": "PKG/2004/page_21.pdf-2",
+    "stratum": "percentage_simple",
+    "question": "what was the percentage change in income before interest and taxes between 2003 and 2004?",
+    "gold": "45%",
+    "prediction": "64%"
+  },
+  {
+    "id": "HII/2011/page_60.pdf-1",
+    "stratum": "percentage_complex",
+    "question": "what is the percentage change in the weighted average discount rate for pensions from 2010 to 2011?",
+    "gold": "-10.4%",
+    "prediction": "64%"
+  },
+  {
+    "id": "MSI/2007/page_68.pdf-1",
+    "stratum": "percentage_complex",
+    "question": "what was the growth , in a percentage , of the consolidated net sales from 2005 to 2007?",
+    "gold": "15%",
+    "prediction": "64%"
+  },
+  {
+    "id": "ETR/2004/page_159.pdf-3",
+    "stratum": "percentage_complex",
+    "question": "what is the percent change in net revenue from 2003 to 2004?",
+    "gold": "2.08%",
+    "prediction": "64%"
+  },
+  {
+    "id": "UPS/2016/page_34.pdf-1",
+    "stratum": "percentage_complex",
+    "question": "for the five year period ending 12/31/2016 what was the difference in total performance between united parcel service inc . and the standard & poor 2019s 500 index?",
+    "gold": "-8.37%",
+    "prediction": "64%"
+  },
+  {
+    "id": "HIG/2004/page_122.pdf-2",
+    "stratum": "percentage_complex",
+    "question": "what portion of total obligations are due within the next 3 years?",
+    "gold": "22.99%",
+    "prediction": "66%"
+  },
+  {
+    "id": "IP/2018/page_83.pdf-2",
+    "stratum": "percentage_complex",
+    "question": "unrecognized tax benefits change by what percent between 2016 and 2017?",
+    "gold": "92%",
+    "prediction": "64%"
+  },
+  {
+    "id": "GS/2018/page_70.pdf-1",
+    "stratum": "percentage_complex",
+    "question": "what is the growth rate in operating expenses in 2018?",
+    "gold": "12.0%",
+    "prediction": "64%"
+  },
+  {
+    "id": "C/2009/page_195.pdf-2",
+    "stratum": "percentage_complex",
+    "question": "what was the percentage change in the allowance for loan losses from 2007 to 2008?",
+    "gold": "80%",
+    "prediction": "64%"
+  },
+  {
+    "id": "MSI/2005/page_64.pdf-1",
+    "stratum": "percentage_complex",
+    "question": "what was the percentage change in total contractual obligations from 2006 to 2010?",
+    "gold": "-36.9%",
+    "prediction": "64%"
+  },
+  {
+    "id": "EOG/2017/page_102.pdf-2",
+    "stratum": "percentage_complex",
+    "question": "considering the twelve months ended december 31 , 2017 , what was the percentual increase observed in total puds?",
+    "gold": "957%",
+    "prediction": "64%"
+  },
+  {
+    "id": "VRTX/2006/page_121.pdf-2",
+    "stratum": "percentage_complex",
+    "question": "what is the percent change in share issuable between the end of 2006 and the end of 2005?",
+    "gold": "47%",
+    "prediction": "64%"
+  },
+  {
+    "id": "RE/2015/page_110.pdf-3",
+    "stratum": "percentage_complex",
+    "question": "what is the percentage change in the balance of reinsurance receivables and premium receivables from 2014 to 2015?",
+    "gold": "-22.4%",
+    "prediction": "64%"
+  },
+  {
+    "id": "CB/2009/page_81.pdf-1",
+    "stratum": "percentage_complex",
+    "question": "what is the percentage change in gross unpaid losses from 2008 to 2009?",
+    "gold": "1.63%",
+    "prediction": "64%"
+  },
+  {
+    "id": "FRT/2006/page_133.pdf-1",
+    "stratum": "percentage_complex",
+    "question": "what was the percentual increase in the additions during 2004 and 2005?",
+    "gold": "1.33%",
+    "prediction": "64%"
+  },
+  {
+    "id": "ETFC/2015/page_27.pdf-2",
+    "stratum": "percentage_complex",
+    "question": "what was the difference in percentage cumulative total return for e*trade financial corporation and the s&p 500 index for the five years ended 12/15?",
+    "gold": "4.5%",
+    "prediction": "64%"
+  },
+  {
+    "id": "ZBH/2009/page_88.pdf-1",
+    "stratum": "percentage_complex",
+    "question": "what is the percent change in weighted average shares outstanding for basic net earnings per share between 2007 and 2009?",
+    "gold": "-9%",
+    "prediction": "64%"
+  },
+  {
+    "id": "OKE/2012/page_91.pdf-1",
+    "stratum": "percentage_complex",
+    "question": "what was the percentage difference in natural gas marketed ( bcf ) between 2010 and 2011?",
+    "gold": "-8%",
+    "prediction": "64%"
+  },
+  {
+    "id": "VNO/2011/page_177.pdf-1",
+    "stratum": "percentage_complex",
+    "question": "what was the percentage change in the redeemable noncontrolling interests from 2009 to 2010",
+    "gold": "6.1%",
+    "prediction": "64%"
+  },
+  {
+    "id": "BLK/2014/page_33.pdf-2",
+    "stratum": "percentage_complex",
+    "question": "what percent change did the fx impact have on the 2014 multi asset value?",
+    "gold": "-3.4%",
+    "prediction": "64%"
+  },
+  {
+    "id": "PPG/2011/page_28.pdf-4",
+    "stratum": "percentage_complex",
+    "question": "what was the percentage change in cash from operating activities from 2010 to 2011?",
+    "gold": "10%",
+    "prediction": "64%"
+  },
+  {
+    "id": "GS/2012/page_129.pdf-4",
+    "stratum": "percentage_complex",
+    "question": "the firm redeemed approximately $ 1.06 billion of these interests in hedge funds during the year ended december 2012 . what percentage was this of the remaining funds at 12/31/21?",
+    "gold": "48.9%",
+    "prediction": "66%"
+  },
+  {
+    "id": "LMT/2013/page_81.pdf-3",
+    "stratum": "percentage_complex",
+    "question": "what was the percent of the change in the total long-term debt net of unamortized discounts from 2012 to 2013",
+    "gold": "-2.5%",
+    "prediction": "64%"
+  },
+  {
+    "id": "STT/2006/page_92.pdf-2",
+    "stratum": "percentage_complex",
+    "question": "what is the percentage change in the balance of indemnified securities financing from 2005 to 2006?",
+    "gold": "35.7%",
+    "prediction": "64%"
+  },
+  {
+    "id": "AAL/2014/page_92.pdf-4",
+    "stratum": "percentage_complex",
+    "question": "by how much did aircraft and facility financing renegotiations and rejections decrease from 2012 to 2013?",
+    "gold": "-83.6%",
+    "prediction": "64%"
+  },
+  {
+    "id": "BLK/2017/page_87.pdf-3",
+    "stratum": "percentage_complex",
+    "question": "what is the growth rate in revenue related technology and risk management from 2016 to 2017?",
+    "gold": "13.8%",
+    "prediction": "64%"
+  },
+  {
+    "id": "CME/2010/page_109.pdf-3",
+    "stratum": "percentage_complex",
+    "question": "what is the estimated percentual increase observed in the class a common stock during the years 2009 and 2010?",
+    "gold": "0.5%",
+    "prediction": "64%"
+  },
+  {
+    "id": "MRO/2009/page_58.pdf-2",
+    "stratum": "percentage_complex",
+    "question": "by what percentage did the average crack spread for the midwest ( chicago ) decrease from 2007 to 2009?",
+    "gold": "-60.3%",
+    "prediction": "66%"
+  },
+  {
+    "id": "C/2017/page_119.pdf-4",
+    "stratum": "percentage_complex",
+    "question": "what was the percentage increase in the net outflows from 2016 to 2017",
+    "gold": "9.6%",
+    "prediction": "64%"
+  },
+  {
+    "id": "MAS/2010/page_29.pdf-1",
+    "stratum": "percentage_complex",
+    "question": "what was the percentage cumulative total shareholder return on masco common stock for the five year period ended 2010?",
+    "gold": "-48.49%",
+    "prediction": "64%"
+  },
+  {
+    "id": "C/2009/page_248.pdf-4",
+    "stratum": "percentage_complex",
+    "question": "what was the percentage change in carrying amount reported on the consolidated balance sheet from 2008 to 2009?",
+    "gold": "-22%",
+    "prediction": "64%"
+  },
+  {
+    "id": "LMT/2012/page_87.pdf-2",
+    "stratum": "percentage_complex",
+    "question": "what is the percentage change in common stock held by defined contribution plans from 2011 to 2012?",
+    "gold": "-6.7%",
+    "prediction": "64%"
+  },
+  {
+    "id": "ZBH/2018/page_34.pdf-1",
+    "stratum": "percentage_complex",
+    "question": "what is the percent change in cash flows provided by operating activities between 2018 and 2017?",
+    "gold": "-9%",
+    "prediction": "64%"
+  },
+  {
+    "id": "RCL/2010/page_81.pdf-3",
+    "stratum": "percentage_complex",
+    "question": "what percent did purchase issuances and settlements increase from year ended 2009 to year ended 2010?",
+    "gold": "95.75%",
+    "prediction": "64%"
+  },
+  {
+    "id": "CDW/2013/page_36.pdf-2",
+    "stratum": "percentage_complex",
+    "question": "what was the 2012 effective tax rate?",
+    "gold": "36%",
+    "prediction": "64%"
+  },
+  {
+    "id": "AWK/2018/page_178.pdf-1",
+    "stratum": "percentage_complex",
+    "question": "what percentage of the minimum annual future rental commitment under operating leases that have initial or remaining non-cancelable lease terms is due after 2023?",
+    "gold": "56.7%",
+    "prediction": "64%"
+  },
+  {
+    "id": "IP/2009/page_36.pdf-2",
+    "stratum": "percentage_complex",
+    "question": "north american printing papers net sales where what percent of total printing paper sales in 2008?",
+    "gold": "50%",
+    "prediction": "64%"
+  },
+  {
+    "id": "UNP/2017/page_74.pdf-4",
+    "stratum": "percentage_complex",
+    "question": "what percentage of total minimum lease payments are capital leases?",
+    "gold": "29%",
+    "prediction": "64%"
+  },
+  {
+    "id": "HWM/2015/page_95.pdf-2",
+    "stratum": "percentage_complex",
+    "question": "considering the 2013-2014 period , what is the percentual improvement of net productivity and overall higher volumes concerning the atoi?",
+    "gold": "7.7%",
+    "prediction": "64%"
+  },
+  {
+    "id": "NCLH/2016/page_84.pdf-2",
+    "stratum": "percentage_complex",
+    "question": "what is the percentage change in interest expense-net , from 2015 to 2016?",
+    "gold": "24.8%",
+    "prediction": "64%"
+  },
+  {
+    "id": "KMI/2018/page_14.pdf-2",
+    "stratum": "percentage_complex",
+    "question": "what percent of storage facilities are liquid terminals",
+    "gold": "50.98%",
+    "prediction": "66%"
+  },
+  {
+    "id": "SNPS/2006/page_67.pdf-1",
+    "stratum": "percentage_complex",
+    "question": "what percentage of the total purchase price was intangible assets?",
+    "gold": "27%",
+    "prediction": "64%"
+  },
+  {
+    "id": "BDX/2016/page_21.pdf-1",
+    "stratum": "percentage_complex",
+    "question": "what was the percent of the total international facilities square feet of owned by bd",
+    "gold": "76.4%",
+    "prediction": "64%"
+  },
+  {
+    "id": "MAS/2013/page_27.pdf-1",
+    "stratum": "percentage_complex",
+    "question": "what was the percentage cumulative total shareholder return on masco common stock for the five year period ended 2013?",
+    "gold": "129.59%",
+    "prediction": "64%"
+  },
+  {
+    "id": "LMT/2016/page_85.pdf-1",
+    "stratum": "percentage_complex",
+    "question": "what was the percentage change in net sales from 2014 to 2015 for the pro forma financials?",
+    "gold": "-4%",
+    "prediction": "64%"
+  },
+  {
+    "id": "AAL/2015/page_51.pdf-1",
+    "stratum": "percentage_complex",
+    "question": "what was the rate of growth or decrease from 2014 to 2015 on the american airlines group inc .",
+    "gold": "-20%",
+    "prediction": "64%"
+  },
+  {
+    "id": "DISH/2002/page_94.pdf-2",
+    "stratum": "percentage_complex",
+    "question": "what is the expected growth rate in rent expense for operating leases in 2003?",
+    "gold": "8.1%",
+    "prediction": "64%"
+  },
+  {
+    "id": "AAPL/2010/page_42.pdf-2",
+    "stratum": "percentage_complex",
+    "question": "by how much did total other income and expense decrease from 2008 to 2009?",
+    "gold": "47.4%",
+    "prediction": "64%"
+  },
+  {
+    "id": "AON/2011/page_63.pdf-3",
+    "stratum": "percentage_complex",
+    "question": "what was the percent of the increase in the revenue from 2010 to 2011",
+    "gold": "113%",
+    "prediction": "64%"
+  },
+  {
+    "id": "RSG/2008/page_141.pdf-1",
+    "stratum": "percentage_complex",
+    "question": "what was the percent of the estimated future pension benefit payments increase from 2011 to 2012",
+    "gold": "18.5%",
+    "prediction": "64%"
+  },
+  {
+    "id": "C/2008/page_193.pdf-3",
+    "stratum": "percentage_complex",
+    "question": "in 2008 what was the percentage increased in the mezzanine capital facility",
+    "gold": "28.6%",
+    "prediction": "64%"
+  },
+  {
+    "id": "MA/2009/page_120.pdf-1",
+    "stratum": "percentage_complex",
+    "question": "what was the percent of the change in the risk-free rate of return from 2008 to 2009",
+    "gold": "21.9%",
+    "prediction": "64%"
+  },
+  {
+    "id": "ANSS/2014/page_49.pdf-2",
+    "stratum": "percentage_complex",
+    "question": "what was the percentage change in the company 2019s net income from 2012 to 2013 .",
+    "gold": "20.5%",
+    "prediction": "66%"
+  },
+  {
+    "id": "FIS/2016/page_64.pdf-4",
+    "stratum": "percentage_complex",
+    "question": "what is the percentage change in total trade receivables?",
+    "gold": "-3.8%",
+    "prediction": "64%"
+  },
+  {
+    "id": "STT/2009/page_122.pdf-4",
+    "stratum": "percentage_complex",
+    "question": "what is the percent change in asset purchase agreements between 2008 and 2009?",
+    "gold": "-74%",
+    "prediction": "64%"
+  },
+  {
+    "id": "APD/2015/page_100.pdf-2",
+    "stratum": "percentage_complex",
+    "question": "considering the average for the years 2021-2025 , what is the increase observed in the projected benefit payments for the u.s during 2020 and 2021?",
+    "gold": "16.63%",
+    "prediction": "64%"
+  },
+  {
+    "id": "ETR/2017/page_441.pdf-1",
+    "stratum": "percentage_complex",
+    "question": "what percent did receivables from the money pool increase between 2014 and 2017?",
+    "gold": "4605.73%",
+    "prediction": "64%"
+  },
+  {
+    "id": "AMT/2007/page_116.pdf-4",
+    "stratum": "percentage_complex",
+    "question": "what is the percentage change in aggregate rent expense from 2005 to 2006?",
+    "gold": "40.5%",
+    "prediction": "64%"
+  },
+  {
+    "id": "ETR/2004/page_159.pdf-1",
+    "stratum": "percentage_complex",
+    "question": "what is the growth rate in net revenue in 2004 for entergy arkansas inc.?",
+    "gold": "-2.0%",
+    "prediction": "64%"
+  },
+  {
+    "id": "STT/2012/page_42.pdf-1",
+    "stratum": "percentage_complex",
+    "question": "what is the roi of an investment in state street corporation from 2007 to 2009?",
+    "gold": "-45.0%",
+    "prediction": "64%"
+  },
+  {
+    "id": "AAL/2015/page_74.pdf-2",
+    "stratum": "percentage_complex",
+    "question": "what was the percentage change in the net foreign currency losses , net in 2014 compared to 2013",
+    "gold": "103%",
+    "prediction": "64%"
+  },
+  {
+    "id": "EOG/2016/page_80.pdf-1",
+    "stratum": "percentage_complex",
+    "question": "what is the increase observed in the interest net of capitalized interest during 2015 and 2016?",
+    "gold": "13.5%",
+    "prediction": "64%"
+  },
+  {
+    "id": "PNC/2012/page_96.pdf-4",
+    "stratum": "percentage_complex",
+    "question": "by what percentage did the pension pretax expenses decrease from 2012 to 2013?",
+    "gold": "17.97%",
+    "prediction": "64%"
+  },
+  {
+    "id": "MRO/2009/page_137.pdf-3",
+    "stratum": "percentage_complex",
+    "question": "according to the above listed weighted average grant date fair value , by what percentage did the value of unvested restricted stock awards decrease from 2008 to 2009?",
+    "gold": "-33.8%",
+    "prediction": "64%"
+  },
+  {
+    "id": "ANSS/2008/page_85.pdf-3",
+    "stratum": "percentage_complex",
+    "question": "what is the percentage increase in unrecognized tax benefits from jan 2008-dec 2008?",
+    "gold": "56.61%",
+    "prediction": "64%"
+  },
+  {
+    "id": "IPG/2018/page_104.pdf-1",
+    "stratum": "percentage_complex",
+    "question": "what percentage of the total deferred acquisition payments were made in 2019?",
+    "gold": "51.77%",
+    "prediction": "64%"
+  },
+  {
+    "id": "IP/2009/page_38.pdf-2",
+    "stratum": "percentage_complex",
+    "question": "what was the percentage increase in annual sales of printing papers and graphic arts supplies and equipment from 2007 to 2008?",
+    "gold": "11%",
+    "prediction": "64%"
+  },
+  {
+    "id": "MO/2017/page_65.pdf-2",
+    "stratum": "percentage_complex",
+    "question": "what is the percent change in earnings for basic and diluted eps from 2016 to 2017?",
+    "gold": "39.3%",
+    "prediction": "64%"
+  },
+  {
+    "id": "WMT/2018/page_46.pdf-4",
+    "stratum": "percentage_complex",
+    "question": "what is the net income margin for 2018?",
+    "gold": "3.3%",
+    "prediction": "64%"
+  },
+  {
+    "id": "STT/2011/page_94.pdf-3",
+    "stratum": "percentage_complex",
+    "question": "what was the percent change in the value of commercial paper outstanding between 2010 and 2011?",
+    "gold": "18%",
+    "prediction": "64%"
+  },
+  {
+    "id": "IPG/2018/page_100.pdf-3",
+    "stratum": "percentage_complex",
+    "question": "what is the percentage decrease between the amounts expensed for deferred compensation and deferred benefit liability in 2017 and 2018?",
+    "gold": "7.97%",
+    "prediction": "64%"
+  },
+  {
+    "id": "IP/2005/page_27.pdf-2",
+    "stratum": "percentage_complex",
+    "question": "what percentage of printing paper sales is attributable to uncoated papers sales in 2004?",
+    "gold": "65%",
+    "prediction": "64%"
+  },
+  {
+    "id": "RE/2010/page_120.pdf-2",
+    "stratum": "percentage_complex",
+    "question": "what percent of their cumulative-effect adjustment gross was tax?",
+    "gold": "12.7%",
+    "prediction": "64%"
+  },
+  {
+    "id": "SNA/2012/page_82.pdf-2",
+    "stratum": "percentage_complex",
+    "question": "what is the percentage change in the total other accrued liabilities from 2011 to 2012?",
+    "gold": "-3.1%",
+    "prediction": "64%"
+  },
+  {
+    "id": "C/2010/page_272.pdf-1",
+    "stratum": "percentage_complex",
+    "question": "what was the growth rate of the loans held-for-sale that are carried at locom from 2009 to 2010",
+    "gold": "56.25%",
+    "prediction": "64%"
+  },
+  {
+    "id": "DRE/2002/page_13.pdf-1",
+    "stratum": "percentage_complex",
+    "question": "what is the percent change in gain on land sales from 2001 to 2002?",
+    "gold": "-11.9%",
+    "prediction": "64%"
+  },
+  {
+    "id": "APD/2014/page_71.pdf-1",
+    "stratum": "percentage_complex",
+    "question": "what was the decrease observed in the sales during 2013 and 2014?",
+    "gold": "83.74%",
+    "prediction": "64%"
+  },
+  {
+    "id": "JKHY/2016/page_25.pdf-1",
+    "stratum": "percentage_complex",
+    "question": "what was the percentage performance growth in the 5 year cumulative total return of peer group from 2014 to 2016",
+    "gold": "25.9%",
+    "prediction": "64%"
+  },
+  {
+    "id": "LMT/2016/page_52.pdf-3",
+    "stratum": "percentage_complex",
+    "question": "what is the growth rate of net sales from 2014 to 2015?",
+    "gold": "-1.1%",
+    "prediction": "64%"
+  },
+  {
+    "id": "PM/2015/page_32.pdf-2",
+    "stratum": "percentage_complex",
+    "question": "what was the difference in percentage cumulative total shareholder return on pmi's common stock versus the s&p 500 index for the five years ended december 31 , 2015?",
+    "gold": "5.40%",
+    "prediction": "64%"
+  },
+  {
+    "id": "MS/2013/page_240.pdf-3",
+    "stratum": "percentage_complex",
+    "question": "what is the percentage difference in future minimum rental commitments as of december 31 , 2013 between 2015 and 2016?",
+    "gold": "-5%",
+    "prediction": "64%"
+  },
+  {
+    "id": "UNP/2013/page_25.pdf-2",
+    "stratum": "percentage_complex",
+    "question": "what was the percentage change in fuel surcharge revenues from 2012 to 2013?",
+    "gold": "0%",
+    "prediction": "64%"
+  },
+  {
+    "id": "BLK/2012/page_82.pdf-3",
+    "stratum": "percentage_complex",
+    "question": "what is the percentage change in the balance of total investments gaap from 2011 to 2012?",
+    "gold": "7.3%",
+    "prediction": "64%"
+  },
+  {
+    "id": "EW/2016/page_36.pdf-2",
+    "stratum": "percentage_complex",
+    "question": "what was the difference in cumulative percentage returns between edwards lifesciences and the s&p 500 for the five years ended 2016?",
+    "gold": "67%",
+    "prediction": "64%"
+  },
+  {
+    "id": "AMT/2010/page_115.pdf-3",
+    "stratum": "percentage_complex",
+    "question": "what was the percentage change in the weighted average fair value for the espp shares purchased from 2009 to 2010",
+    "gold": "41.8%",
+    "prediction": "64%"
+  },
+  {
+    "id": "CE/2011/page_17.pdf-2",
+    "stratum": "percentage_complex",
+    "question": "what was the percentage growth in the cash dividends from 2009 to 2010",
+    "gold": "26.8%",
+    "prediction": "64%"
+  },
+  {
+    "id": "STT/2013/page_107.pdf-2",
+    "stratum": "percentage_complex",
+    "question": "what portion of the total contractual lease obligations are classified as capital leases?",
+    "gold": "53.2%",
+    "prediction": "64%"
+  },
+  {
+    "id": "MRO/2008/page_146.pdf-4",
+    "stratum": "percentage_complex",
+    "question": "by how much did net rental expense increase from 2006 to 2008?",
+    "gold": "38.3%",
+    "prediction": "64%"
+  },
+  {
+    "id": "AMT/2004/page_46.pdf-3",
+    "stratum": "percentage_complex",
+    "question": "what was the percent of the processing fees and expenses associated with the loan facility pen in may 2004",
+    "gold": "2.3%",
+    "prediction": "64%"
+  },
+  {
+    "id": "CDW/2015/page_53.pdf-1",
+    "stratum": "percentage_complex",
+    "question": "what was the percent of the change in days of sales outstanding from 2014 to 2015",
+    "gold": "14.3%",
+    "prediction": "64%"
+  },
+  {
+    "id": "INTC/2017/page_45.pdf-2",
+    "stratum": "percentage_complex",
+    "question": "what was the percent of the growth of the capital expenditures from 2016 to 2017",
+    "gold": "22.9%",
+    "prediction": "64%"
+  },
+  {
+    "id": "AES/2011/page_269.pdf-1",
+    "stratum": "percentage_complex",
+    "question": "how much of the dpl purchase price was funded by existing credit facilities as opposed to new borrowing?",
+    "gold": "7.2%",
+    "prediction": "64%"
+  },
+  {
+    "id": "BLK/2016/page_75.pdf-3",
+    "stratum": "percentage_complex",
+    "question": "what is the growth rate in operating income from 2015 to 2016?",
+    "gold": "-2.0%",
+    "prediction": "64%"
+  },
+  {
+    "id": "DRE/2008/page_49.pdf-3",
+    "stratum": "percentage_complex",
+    "question": "what are the total real estate investments as a percentage of the total assets acquired?",
+    "gold": "87.2%",
+    "prediction": "64%"
+  },
+  {
+    "id": "PNC/2011/page_208.pdf-1",
+    "stratum": "percentage_complex",
+    "question": "in 2011 what was the percentage change in the commercial mortgage recourse obligations .",
+    "gold": "-14.8%",
+    "prediction": "64%"
+  },
+  {
+    "id": "LMT/2014/page_93.pdf-2",
+    "stratum": "percentage_complex",
+    "question": "what was the percentage change in non-cash stock-based compensation expense from 2013 to 2014?",
+    "gold": "-13%",
+    "prediction": "64%"
+  },
+  {
+    "id": "GS/2014/page_134.pdf-4",
+    "stratum": "percentage_complex",
+    "question": "what was the percentage change in collateral posted between 2013 and 2014?",
+    "gold": "70%",
+    "prediction": "64%"
+  },
+  {
+    "id": "DVN/2011/page_84.pdf-1",
+    "stratum": "percentage_complex",
+    "question": "what was the percentage change in devon 2019s level 3 plan assets from 2009 to 2010",
+    "gold": "13.7%",
+    "prediction": "64%"
+  },
+  {
+    "id": "CE/2017/page_20.pdf-4",
+    "stratum": "percentage_complex",
+    "question": "what is the percentage change in research and development expense from 2015 to 2016?",
+    "gold": "-34.5%",
+    "prediction": "64%"
+  },
+  {
+    "id": "C/2009/page_255.pdf-3",
+    "stratum": "percentage_complex",
+    "question": "what was the percentage decrease the credit card lines from 2008 to 2009",
+    "gold": "-21.6%",
+    "prediction": "64%"
+  },
+  {
+    "id": "FIS/2012/page_30.pdf-3",
+    "stratum": "percentage_complex",
+    "question": "what is the roi of an investment in fidelity national information services from 2007 to 2008?",
+    "gold": "-29.9%",
+    "prediction": "64%"
+  },
+  {
+    "id": "STT/2017/page_63.pdf-2",
+    "stratum": "percentage_complex",
+    "question": "what is the roi of an investment is state street corporation from 2012 to 2015?",
+    "gold": "48%",
+    "prediction": "64%"
+  },
+  {
+    "id": "ABMD/2008/page_87.pdf-1",
+    "stratum": "percentage_complex",
+    "question": "the total rent for leases in the fiscal years ended march 31 , 2008 , 2007 and 2006 is what percent of the entire future minimum lease payments?",
+    "gold": "66%",
+    "prediction": "64%"
+  },
+  {
+    "id": "DRE/2016/page_64.pdf-2",
+    "stratum": "percentage_complex",
+    "question": "what is the long term debt as a percentage of total contractual obligations in 2017?",
+    "gold": "36.4%",
+    "prediction": "64%"
+  },
+  {
+    "id": "GPN/2007/page_39.pdf-4",
+    "stratum": "percentage_complex",
+    "question": "in comparison to overall information technology sector , how much percentage would global payments have earned the investor .",
+    "gold": "global payments would have earned an 80.13% greater return than the overall information technology sector .",
+    "prediction": "64%"
+  },
+  {
+    "id": "DRE/2010/page_41.pdf-3",
+    "stratum": "percentage_complex",
+    "question": "what is the total long-term debt as a percentage of total contractual obligations?",
+    "gold": "80.7%",
+    "prediction": "64%"
+  },
+  {
+    "id": "CME/2010/page_45.pdf-3",
+    "stratum": "percentage_complex",
+    "question": "considering the year 2006 , what is the percentual fluctuation of the return provided by s&p 500 and the one provided by old peer group?",
+    "gold": "39.78%",
+    "prediction": "64%"
+  },
+  {
+    "id": "EW/2016/page_92.pdf-1",
+    "stratum": "percentage_complex",
+    "question": "what was the percent change in matching contributions between 2014 and 2016?",
+    "gold": "35%",
+    "prediction": "64%"
+  },
+  {
+    "id": "IPG/2016/page_46.pdf-1",
+    "stratum": "percentage_complex",
+    "question": "what is the percentage change in interest income from 2015 to 2016?",
+    "gold": "-11.8%",
+    "prediction": "64%"
+  },
+  {
+    "id": "ETR/2007/page_36.pdf-2",
+    "stratum": "percentage_complex",
+    "question": "what is the growth rate of debt to capital ratio from 2006 to 2007?",
+    "gold": "10.1%",
+    "prediction": "64%"
+  },
+  {
+    "id": "DVN/2014/page_112.pdf-3",
+    "stratum": "percentage_complex",
+    "question": "what percentage of total proved undeveloped resources as of dec 31 , 2014 does extensions and discoveries and proved undeveloped resources as of dec 31 , 2013 account for?",
+    "gold": "125.1%",
+    "prediction": "64%"
+  },
+  {
+    "id": "ETR/2015/page_133.pdf-4",
+    "stratum": "percentage_complex",
+    "question": "what is the principal payment in 2020 as a percentage of the total senior secured transition bonds?",
+    "gold": "9.96%",
+    "prediction": "66%"
+  },
+  {
+    "id": "BLK/2010/page_46.pdf-2",
+    "stratum": "percentage_complex",
+    "question": "what is the percent change in non-operating income ( expense ) less net income ( loss ) attributable to nci as adjusted from 2009 to 2010?",
+    "gold": "154%",
+    "prediction": "64%"
+  },
+  {
+    "id": "RCL/2012/page_80.pdf-1",
+    "stratum": "percentage_complex",
+    "question": "what was the percentage decline in the value of the intangible assets from 2011 to 2012",
+    "gold": "-6.4%",
+    "prediction": "64%"
+  },
+  {
+    "id": "ETR/2008/page_266.pdf-1",
+    "stratum": "percentage_complex",
+    "question": "what is the percent change in net revenue between 2007 and 2008?",
+    "gold": "0.7%",
+    "prediction": "66%"
+  },
+  {
+    "id": "MO/2017/page_65.pdf-1",
+    "stratum": "percentage_complex",
+    "question": "what is the percent change in net earnings attributable to altria group inc . from 2016 to 2017?",
+    "gold": "39.3%",
+    "prediction": "64%"
+  },
+  {
+    "id": "LMT/2012/page_45.pdf-3",
+    "stratum": "percentage_complex",
+    "question": "what is the growth rate in net sales for mfc in 2011?",
+    "gold": "7.7%",
+    "prediction": "64%"
+  },
+  {
+    "id": "AON/2010/page_52.pdf-1",
+    "stratum": "percentage_complex",
+    "question": "what is the growth rate of revenue from 2009 to 2010?",
+    "gold": "1.9%",
+    "prediction": "64%"
+  },
+  {
+    "id": "ETR/2008/page_267.pdf-1",
+    "stratum": "percentage_complex",
+    "question": "what is the percent change in net revenue between 2006 and 2007?",
+    "gold": "3.3%",
+    "prediction": "66%"
+  },
+  {
+    "id": "MSI/2009/page_67.pdf-3",
+    "stratum": "percentage_complex",
+    "question": "did consolidated net sales grow from 2007 to 2009 , and what was the growth , in a percentage , from 2007 to 2009?",
+    "gold": "yes , 6%",
+    "prediction": "64%"
+  },
+  {
+    "id": "FIS/2012/page_30.pdf-1",
+    "stratum": "percentage_complex",
+    "question": "what was the percentage cumulative 5-year total shareholder return on common stock fidelity national information services , inc . for the period ending 12/12?",
+    "gold": "57.38%",
+    "prediction": "64%"
+  },
+  {
+    "id": "RCL/2013/page_17.pdf-3",
+    "stratum": "percentage_complex",
+    "question": "by what percentage did the global cruise guests increase from 2011 to 2012 and from 2012 to 2013?",
+    "gold": "1.91% and 3.46% , respectively",
+    "prediction": "64%"
+  },
+  {
+    "id": "UNP/2009/page_31.pdf-1",
+    "stratum": "percentage_complex",
+    "question": "what was the average yearly decline in international traffic in 2008 and in 2009?",
+    "gold": "17.5%",
+    "prediction": "64%"
+  },
+  {
+    "id": "APD/2013/page_44.pdf-2",
+    "stratum": "percentage_complex",
+    "question": "considering the years 2012-2013 , what is the increase observed in the cash contributions to funded plans and benefit payments for unfunded plans?",
+    "gold": "293.71%",
+    "prediction": "64%"
+  },
+  {
+    "id": "PNC/2009/page_68.pdf-2",
+    "stratum": "percentage_complex",
+    "question": "the decrease in pretax pension expenses was what percentage of a decrease?",
+    "gold": "64.9%",
+    "prediction": "64%"
+  },
+  {
+    "id": "STT/2013/page_175.pdf-3",
+    "stratum": "percentage_complex",
+    "question": "what is the percentage change in the balance related to stable value protection from 2012 to 2013?",
+    "gold": "-25.7%",
+    "prediction": "66%"
+  },
+  {
+    "id": "ADBE/2013/page_84.pdf-1",
+    "stratum": "percentage_complex",
+    "question": "what is the percentage change in total gross amount of unrecognized tax benefits from 2012 to 2013?",
+    "gold": "-15.2%",
+    "prediction": "64%"
+  },
+  {
+    "id": "EW/2004/page_83.pdf-1",
+    "stratum": "percentage_complex",
+    "question": "what was the percentage change in total expense for all operating leases between 2002 and 2003?",
+    "gold": "81%",
+    "prediction": "64%"
+  },
+  {
+    "id": "GS/2012/page_50.pdf-1",
+    "stratum": "percentage_complex",
+    "question": "what is the percentage change in total operating expenses in 2012?",
+    "gold": "1.4%",
+    "prediction": "64%"
+  },
+  {
+    "id": "AMT/2004/page_91.pdf-4",
+    "stratum": "percentage_complex",
+    "question": "what is the percentage change in aggregate rent expense from 2003 to 2004?",
+    "gold": "4.2%",
+    "prediction": "64%"
+  },
+  {
+    "id": "AMT/2008/page_105.pdf-4",
+    "stratum": "percentage_complex",
+    "question": "for ati what was the percent of the increase in the shares bought by employees from 2007 to 2008",
+    "gold": "14.1%",
+    "prediction": "64%"
+  },
+  {
+    "id": "ETR/2016/page_24.pdf-4",
+    "stratum": "numeric_simple",
+    "question": "what is the net change in net revenue during 2015?",
+    "gold": "-558",
+    "prediction": "64%"
+  },
+  {
+    "id": "AMT/2015/page_50.pdf-3",
+    "stratum": "numeric_simple",
+    "question": "what is the average number of shares per registered holder as of february 19 , 2016?",
+    "gold": "2666022",
+    "prediction": "64%"
+  },
+  {
+    "id": "ALLE/2017/page_44.pdf-1",
+    "stratum": "numeric_simple",
+    "question": "considering the final year of the investment , what was the highest return for the initial 100$ ?",
+    "gold": "89.19",
+    "prediction": "66%"
+  },
+  {
+    "id": "HUM/2018/page_46.pdf-4",
+    "stratum": "numeric_simple",
+    "question": "what was the ratio of the stock total return performance for hum to s&p 500 at 12/31/2016",
+    "gold": "1.57",
+    "prediction": "64%"
+  },
+  {
+    "id": "AMT/2008/page_96.pdf-4",
+    "stratum": "numeric_simple",
+    "question": "what is the pre-tax aggregate net unrealized loss in 2007?",
+    "gold": "5.2",
+    "prediction": "64%"
+  },
+  {
+    "id": "JKHY/2008/page_30.pdf-3",
+    "stratum": "numeric_simple",
+    "question": "what was change in millions of cash used for software development in fiscal 2008 compared to the prior year?",
+    "gold": "2993",
+    "prediction": "64%"
+  },
+  {
+    "id": "RSG/2010/page_157.pdf-2",
+    "stratum": "numeric_simple",
+    "question": "what was the ratio of the outstanding surety bonds for the investee and the parent for 2010 to 2009",
+    "gold": "1.14",
+    "prediction": "64%"
+  },
+  {
+    "id": "EOG/2016/page_80.pdf-2",
+    "stratum": "numeric_simple",
+    "question": "considering the years 2015-2016 , what is variation observed in the number of stocks that were excluded , in millions?",
+    "gold": "0.8",
+    "prediction": "64%"
+  },
+  {
+    "id": "UNP/2009/page_31.pdf-2",
+    "stratum": "numeric_simple",
+    "question": "what was the change in millions of compensation and benefits from 2007 to 2008?",
+    "gold": "-69",
+    "prediction": "64%"
+  },
+  {
+    "id": "C/2008/page_26.pdf-3",
+    "stratum": "numeric_simple",
+    "question": "on citigroup 2019s consolidated balance sheets based on the balances of 2008 what was the ratio of the total gaap assets to the risk- weighted assets",
+    "gold": "1.81",
+    "prediction": "64%"
+  },
+  {
+    "id": "INTC/2018/page_105.pdf-1",
+    "stratum": "numeric_simple",
+    "question": "what is the net change in the accumulated other comprehensive income during 2017?",
+    "gold": "756",
+    "prediction": "64%"
+  },
+  {
+    "id": "LMT/2017/page_101.pdf-1",
+    "stratum": "numeric_simple",
+    "question": "what is the change in millions of qualified defined benefit pension plans expected payments from 2018 to 2019?",
+    "gold": "30",
+    "prediction": "64%"
+  },
+  {
+    "id": "MMM/2007/page_66.pdf-1",
+    "stratum": "numeric_simple",
+    "question": "in 2007 what was the ratio of the beginning gross unrecognized tax benefits to the ending balance",
+    "gold": "2.1",
+    "prediction": "66%"
+  },
+  {
+    "id": "AAPL/2008/page_76.pdf-2",
+    "stratum": "numeric_simple",
+    "question": "what is the net of increases related to tax positions taken during a prior period and decreases related to tax positions taken during a prior period , in millions?",
+    "gold": "-43",
+    "prediction": "66%"
+  },
+  {
+    "id": "AMT/2012/page_119.pdf-2",
+    "stratum": "numeric_simple",
+    "question": "what was the ratio of the customer-related intangibles to the network location intangibles included in the purchase allocation price",
+    "gold": "2.10",
+    "prediction": "64%"
+  },
+  {
+    "id": "C/2018/page_288.pdf-3",
+    "stratum": "numeric_simple",
+    "question": "what was the change in millions in the carrying amount reported on the consolidate balance sheet from 2017 to 2018?",
+    "gold": "130",
+    "prediction": "64%"
+  },
+  {
+    "id": "MA/2008/page_113.pdf-3",
+    "stratum": "numeric_simple",
+    "question": "what is the variation observed in the expected benefits payment in 2009 and 2010?",
+    "gold": "1584",
+    "prediction": "66%"
+  },
+  {
+    "id": "AAPL/2005/page_75.pdf-1",
+    "stratum": "numeric_simple",
+    "question": "what was the change in non-trade receivables , which are included in the consolidated balance sheets in other current assets , between september 24 , 2005 and september 25 , 2004 , in millions?",
+    "gold": "141",
+    "prediction": "64%"
+  },
+  {
+    "id": "PNC/2012/page_222.pdf-4",
+    "stratum": "numeric_simple",
+    "question": "what was the total weighted-average grant-date fair value of incentive/ performance unit share awards and restricted stock/unit awards granted in 2011 and 2010?",
+    "gold": "117.84",
+    "prediction": "64%"
+  },
+  {
+    "id": "IP/2005/page_32.pdf-4",
+    "stratum": "numeric_simple",
+    "question": "what was the ratio of the increase in the cash used for the working capital from 2004 to 2005",
+    "gold": "6.87",
+    "prediction": "64%"
+  },
+  {
+    "id": "GIS/2018/page_43.pdf-3",
+    "stratum": "numeric_simple",
+    "question": "in 2019 what was the ratio of the anticipated future payments for the post-employment benefit plans and deferred compensation",
+    "gold": "1.1",
+    "prediction": "64%"
+  },
+  {
+    "id": "DISCA/2011/page_35.pdf-3",
+    "stratum": "numeric_simple",
+    "question": "what is the difference in millions of subscribers between discovery channel international subscribers and discovery science international subscribers?",
+    "gold": "147",
+    "prediction": "64%"
+  },
+  {
+    "id": "RSG/2013/page_69.pdf-1",
+    "stratum": "numeric_simple",
+    "question": "in 2013 what was the ratio of the cash provided by operating activities to the amount spent on purchases of property and the equipment",
+    "gold": "1.76",
+    "prediction": "64%"
+  },
+  {
+    "id": "PNC/2017/page_76.pdf-2",
+    "stratum": "numeric_simple",
+    "question": "what was the total of of securities available for sale and trading securities pledged as collateral to secure public and trust deposits , repurchase agreements and securities held to maturity pledged as collateral for these purposes for 2017 in billions?",
+    "gold": "8.1",
+    "prediction": "64%"
+  },
+  {
+    "id": "CDW/2014/page_93.pdf-1",
+    "stratum": "numeric_simple",
+    "question": "for rdus vested daily on a pro rata basis over the three-year period from january 1 , 2012 , what was the average rdus vesting each year through december 31 , 2014?\\\\n\\\\n[13] : as of december 31 , 2014 , 28500 rdus were outstanding .",
+    "gold": "9500",
+    "prediction": "64%"
+  },
+  {
+    "id": "CE/2005/page_57.pdf-1",
+    "stratum": "numeric_simple",
+    "question": "what was the cost of the shares of series a common stock were purchased on the open market in december 2005",
+    "gold": "187050",
+    "prediction": "64%"
+  },
+  {
+    "id": "SLG/2010/page_81.pdf-3",
+    "stratum": "numeric_simple",
+    "question": "for the shares of series c preferred stock priced at $ 23.53 per share , what was the yield in dollars including accrued dividends?",
+    "gold": "1.91",
+    "prediction": "64%"
+  },
+  {
+    "id": "ADBE/2014/page_47.pdf-1",
+    "stratum": "numeric_simple",
+    "question": "from the years 2014-2013 to 2013-2012 , what was the change in percentage points of data center cost?",
+    "gold": "-1",
+    "prediction": "64%"
+  },
+  {
+    "id": "MKTX/2011/page_43.pdf-3",
+    "stratum": "numeric_simple",
+    "question": "what was the total cash dividend paid to holders of common stock as of february 12 , 2012?",
+    "gold": "$ 4.51",
+    "prediction": "64%"
+  },
+  {
+    "id": "ETR/2016/page_396.pdf-2",
+    "stratum": "numeric_simple",
+    "question": "what is the net change in net revenue during 2016 for entergy new orleans , inc?",
+    "gold": "23.3",
+    "prediction": "66%"
+  },
+  {
+    "id": "HII/2011/page_60.pdf-3",
+    "stratum": "numeric_simple",
+    "question": "what was the net change in the 25 basis point decrease and increase in discount rate in 2012 in millions",
+    "gold": "1",
+    "prediction": "64%"
+  },
+  {
+    "id": "GS/2018/page_165.pdf-1",
+    "stratum": "numeric_simple",
+    "question": "what was the change in fair value of retained interests in billions as of december 2018 and december 2017?",
+    "gold": "1.15",
+    "prediction": "64%"
+  },
+  {
+    "id": "MRO/2008/page_99.pdf-1",
+    "stratum": "numeric_simple",
+    "question": "using the above listed average exercise price , what were the value of the put options purchased?",
+    "gold": "$ 1010000.00",
+    "prediction": "64%"
+  },
+  {
+    "id": "ETR/2008/page_382.pdf-1",
+    "stratum": "numeric_simple",
+    "question": "what is the annual expense for entergy texas incurred from the series mortgage bonds due february 2019 , in millions?",
+    "gold": "35.6",
+    "prediction": "64%"
+  },
+  {
+    "id": "TMUS/2016/page_32.pdf-1",
+    "stratum": "numeric_simple",
+    "question": "as of 2016 , what was the average size of switching centers?",
+    "gold": "24561",
+    "prediction": "64%"
+  },
+  {
+    "id": "INTC/2016/page_100.pdf-2",
+    "stratum": "numeric_simple",
+    "question": "what is the net change in accumulated other comprehensive income during 2016?",
+    "gold": "46",
+    "prediction": "64%"
+  },
+  {
+    "id": "BDX/2018/page_26.pdf-2",
+    "stratum": "numeric_simple",
+    "question": "what is the average square footage of leased corporate sites?",
+    "gold": "114099.3",
+    "prediction": "64%"
+  },
+  {
+    "id": "EW/2014/page_68.pdf-2",
+    "stratum": "numeric_simple",
+    "question": "what was the affect of the change in accounting principles on differed income taxes in millions?",
+    "gold": "8.9",
+    "prediction": "66%"
+  },
+  {
+    "id": "MMM/2015/page_50.pdf-2",
+    "stratum": "numeric_simple",
+    "question": "what was the ratio of the floating rate notes included in the long-term debt payments due in 2016 to 2017",
+    "gold": "1.31",
+    "prediction": "64%"
+  },
+  {
+    "id": "IPG/2018/page_78.pdf-3",
+    "stratum": "numeric_simple",
+    "question": "what is the average price at issuance?",
+    "gold": "498.55",
+    "prediction": "64%"
+  },
+  {
+    "id": "AWK/2017/page_136.pdf-4",
+    "stratum": "numeric_simple",
+    "question": "in 2017 what was the ratio of the removal costs to the total regulatory costs",
+    "gold": "5.3",
+    "prediction": "64%"
+  },
+  {
+    "id": "C/2010/page_55.pdf-1",
+    "stratum": "numeric_simple",
+    "question": "what was the ratio of total operating expenses to net interest income in 2010?",
+    "gold": "1.84",
+    "prediction": "64%"
+  },
+  {
+    "id": "FIS/2016/page_49.pdf-2",
+    "stratum": "numeric_simple",
+    "question": "what is the unfavorable foreign currency impact in operating expenses in 2015?",
+    "gold": "212",
+    "prediction": "64%"
+  },
+  {
+    "id": "ETR/2011/page_316.pdf-2",
+    "stratum": "numeric_simple",
+    "question": "what is change in percentage points in net income margin in 2011?",
+    "gold": "27.4",
+    "prediction": "64%"
+  },
+  {
+    "id": "AAPL/2006/page_103.pdf-1",
+    "stratum": "numeric_simple",
+    "question": "what was the total dollar amount of new stock options issues to employees on october 22 , 2003?",
+    "gold": "152432095.68",
+    "prediction": "64%"
+  },
+  {
+    "id": "HII/2011/page_100.pdf-4",
+    "stratum": "numeric_simple",
+    "question": "how is the cash flow statement from financing activities affected by the change in the balance of the long-term debt from 2010 to 2011?",
+    "gold": "1736",
+    "prediction": "66%"
+  },
+  {
+    "id": "MRO/2008/page_42.pdf-2",
+    "stratum": "numeric_simple",
+    "question": "in 2006 , what was the increase in capacity of our garyville refinery by mbpd ?",
+    "gold": "256",
+    "prediction": "64%"
+  },
+  {
+    "id": "JPM/2016/page_87.pdf-2",
+    "stratum": "numeric_simple",
+    "question": "what would a 225bp yield be on the 2016 average interest-earning assets , in millions?",
+    "gold": "47286",
+    "prediction": "64%"
+  },
+  {
+    "id": "IP/2005/page_83.pdf-1",
+    "stratum": "numeric_simple",
+    "question": "in 2006 what was the ratio of the benefit payments to the subsidy receipts",
+    "gold": "6.7",
+    "prediction": "64%"
+  },
+  {
+    "id": "AAPL/2007/page_51.pdf-3",
+    "stratum": "numeric_simple",
+    "question": "what was the change between september 29 , 2007 and september 30 , 2006 , of the company 2019s cash , cash equivalents , and short-term investments were held by foreign subsidiaries and based in u.s . dollar-denominated holdings , in billions?",
+    "gold": "2.4",
+    "prediction": "64%"
+  },
+  {
+    "id": "PNC/2009/page_62.pdf-2",
+    "stratum": "numeric_simple",
+    "question": "what was pnc's total carrying value from 2008-09 from its investment in blackrock , in billions?",
+    "gold": "10",
+    "prediction": "64%"
+  },
+  {
+    "id": "LMT/2013/page_47.pdf-4",
+    "stratum": "numeric_simple",
+    "question": "what were average operating profit from 2011 to 2013 for mst in millions?",
+    "gold": "762",
+    "prediction": "64%"
+  },
+  {
+    "id": "EL/2013/page_137.pdf-1",
+    "stratum": "numeric_simple",
+    "question": "considering the year 2013 , what is the variation between the fair value of the foreign exchange contracts and its high measured value-at-risk?",
+    "gold": "19.9",
+    "prediction": "64%"
+  },
+  {
+    "id": "ETR/2016/page_18.pdf-4",
+    "stratum": "numeric_simple",
+    "question": "what would the net revenue have been in 2015 if there wasn't a stipulated settlement from the business combination in october 2015?",
+    "gold": "1732",
+    "prediction": "64%"
+  },
+  {
+    "id": "HFC/2018/page_43.pdf-4",
+    "stratum": "numeric_simple",
+    "question": "in october 2018 , what was the total cost for repurchasing the 1360987 shares?",
+    "gold": "90287877",
+    "prediction": "64%"
+  },
+  {
+    "id": "AES/2012/page_223.pdf-2",
+    "stratum": "numeric_simple",
+    "question": "what was the net reduction in defined benefit obligations between december 31 , 2012 and 2011 , in millions?",
+    "gold": "85",
+    "prediction": "66%"
+  },
+  {
+    "id": "GS/2015/page_80.pdf-2",
+    "stratum": "numeric_simple",
+    "question": "how is cash flow from operating activities affected by the change in receivables from 2014 to 2015?",
+    "gold": "7341",
+    "prediction": "64%"
+  },
+  {
+    "id": "STZ/2010/page_51.pdf-1",
+    "stratum": "numeric_simple",
+    "question": "what is the current ratio for bwe at the time of the acquisition?",
+    "gold": "2.8",
+    "prediction": "64%"
+  },
+  {
+    "id": "AAPL/2008/page_38.pdf-2",
+    "stratum": "numeric_simple",
+    "question": "what was the change in cumulative total return for the s&p a9500 between 2003 and 2004?",
+    "gold": "14",
+    "prediction": "64%"
+  },
+  {
+    "id": "VLO/2014/page_23.pdf-3",
+    "stratum": "numeric_simple",
+    "question": "what was the value of all the shares purchased in october?",
+    "gold": "147169971",
+    "prediction": "64%"
+  },
+  {
+    "id": "FIS/2006/page_88.pdf-2",
+    "stratum": "numeric_simple",
+    "question": "what is the yearly interest expense associated with the certegy merger , ( in millions ) ?",
+    "gold": "9.5",
+    "prediction": "64%"
+  },
+  {
+    "id": "MRO/2009/page_149.pdf-1",
+    "stratum": "numeric_simple",
+    "question": "in millions , what was the average net change in discounted future cash flows for the three year period?",
+    "gold": "-886",
+    "prediction": "64%"
+  },
+  {
+    "id": "AAPL/2014/page_67.pdf-2",
+    "stratum": "numeric_simple",
+    "question": "what was the change in millions in the computed expected tax from 2013 to 2014?",
+    "gold": "1165",
+    "prediction": "64%"
+  },
+  {
+    "id": "IP/2009/page_72.pdf-3",
+    "stratum": "numeric_simple",
+    "question": "what was the ratio of the common shares whose exercise price exceeded the average market price of the company 2019s common stock for each respective reporting date in 2008 to 2007",
+    "gold": "1.43",
+    "prediction": "64%"
+  },
+  {
+    "id": "UPS/2017/page_58.pdf-2",
+    "stratum": "numeric_simple",
+    "question": "what was the difference in millions of pension and postretirement plan contributions ( ups-sponsored plans ) from 2016 to 2017?",
+    "gold": "5126",
+    "prediction": "64%"
+  },
+  {
+    "id": "LMT/2013/page_89.pdf-4",
+    "stratum": "numeric_simple",
+    "question": "what was the ratio f the cash received from the exercise of stock options in 2013 to 2012",
+    "gold": "1.88",
+    "prediction": "64%"
+  },
+  {
+    "id": "PNC/2012/page_98.pdf-2",
+    "stratum": "numeric_simple",
+    "question": "for 2012 quarterly residential mortgage repurchase claims , what was the change in millions between originations from first and second quarter of 2007?",
+    "gold": "10",
+    "prediction": "64%"
+  },
+  {
+    "id": "ADBE/2003/page_126.pdf-1",
+    "stratum": "numeric_simple",
+    "question": "what is the net cash outflow related to future lease payments in 2004?",
+    "gold": "23595",
+    "prediction": "66%"
+  },
+  {
+    "id": "JPM/2010/page_132.pdf-4",
+    "stratum": "numeric_simple",
+    "question": "in the consumer loan business , what percent of the adjustable rate borrowers weren't making any principal payments?",
+    "gold": "61",
+    "prediction": "64%"
+  },
+  {
+    "id": "UNP/2009/page_26.pdf-3",
+    "stratum": "numeric_simple",
+    "question": "what was the change in total revenue in millions from 2008 to 200?",
+    "gold": "-3827",
+    "prediction": "64%"
+  },
+  {
+    "id": "HUM/2016/page_133.pdf-2",
+    "stratum": "numeric_simple",
+    "question": "considering the year 2014 , what is the amount of issued shares , in millions?",
+    "gold": "154.54",
+    "prediction": "64%"
+  },
+  {
+    "id": "GPN/2008/page_92.pdf-1",
+    "stratum": "numeric_simple",
+    "question": "in 2008 , how much of the compensation will be used on stock purchases if the employees used 20% ( 20 % ) of their compensation?",
+    "gold": "$ 1.14 million",
+    "prediction": "64%"
+  },
+  {
+    "id": "PNC/2012/page_98.pdf-1",
+    "stratum": "numeric_simple",
+    "question": "for 2012 quarterly residential mortgage repurchase claims , what was the change in millions between originations from first and second quarter of 2006?",
+    "gold": "13",
+    "prediction": "64%"
+  },
+  {
+    "id": "UNP/2010/page_75.pdf-2",
+    "stratum": "numeric_simple",
+    "question": "in millions , what is the range for accrued wages and vacation from 2009-2010?",
+    "gold": "18",
+    "prediction": "64%"
+  },
+  {
+    "id": "MRO/2009/page_57.pdf-2",
+    "stratum": "numeric_simple",
+    "question": "what was the difference in the average price of wti crude oil and western canadian select during 2008??",
+    "gold": "$ 20.16",
+    "prediction": "64%"
+  },
+  {
+    "id": "PNC/2016/page_44.pdf-2",
+    "stratum": "numeric_simple",
+    "question": "for the fourth quarter of 2016 , what was the total amount spent to repurchase shares ( in thousands ) ?\\\\n",
+    "gold": "503807",
+    "prediction": "64%"
+  },
+  {
+    "id": "HUM/2005/page_80.pdf-2",
+    "stratum": "numeric_simple",
+    "question": "on december 20 , 2005 what was the ratio of the cash and cash equivalents to the net tangible assets acquired",
+    "gold": "1.73",
+    "prediction": "64%"
+  },
+  {
+    "id": "C/2009/page_194.pdf-1",
+    "stratum": "numeric_simple",
+    "question": "what was the total change in millions of carrying amount of loan receivable?",
+    "gold": "-590",
+    "prediction": "64%"
+  },
+  {
+    "id": "UNP/2010/page_27.pdf-1",
+    "stratum": "numeric_simple",
+    "question": "in 2010 what was the average revenue per car for agriculture products compared to automotive",
+    "gold": "1.58",
+    "prediction": "64%"
+  },
+  {
+    "id": "ABMD/2003/page_22.pdf-3",
+    "stratum": "numeric_simple",
+    "question": "what is the difference in amortized cost between 2002 and 2003?",
+    "gold": "-1577700019",
+    "prediction": "64%"
+  },
+  {
+    "id": "AWK/2018/page_141.pdf-1",
+    "stratum": "numeric_simple",
+    "question": "what was total amounts written off for the three years?",
+    "gold": "93",
+    "prediction": "64%"
+  },
+  {
+    "id": "MRO/2003/page_101.pdf-2",
+    "stratum": "numeric_simple",
+    "question": "what are the average asset retirement obligations as of january 1 2002 and 2003 in millions?",
+    "gold": "327.5",
+    "prediction": "64%"
+  },
+  {
+    "id": "PNC/2012/page_116.pdf-1",
+    "stratum": "numeric_simple",
+    "question": "in 2012 what was the ratio of the decline in the provision for commercial lending credit losses to the consumers provision",
+    "gold": "0.31",
+    "prediction": "64%"
+  },
+  {
+    "id": "FBHS/2017/page_46.pdf-2",
+    "stratum": "numeric_simple",
+    "question": "in 2015 what was the ratio of the defined benefit plan income to defined benefit plan recognition of actuarial losses",
+    "gold": "2.44",
+    "prediction": "64%"
+  },
+  {
+    "id": "HUM/2007/page_18.pdf-2",
+    "stratum": "numeric_simple",
+    "question": "as of december 2007 what was the approximate total of the total commercial medical membership",
+    "gold": "3443292.68",
+    "prediction": "64%"
+  },
+  {
+    "id": "AAPL/2011/page_38.pdf-4",
+    "stratum": "numeric_simple",
+    "question": "inventories were what percent of working capital for 2009?",
+    "gold": "2.3",
+    "prediction": "64%"
+  },
+  {
+    "id": "ETR/2016/page_382.pdf-3",
+    "stratum": "numeric_simple",
+    "question": "the company requested a net increase in revenue for bills rendered during calendar year 2015 . what would the increase have been , in millions , without the amount reflating to the new depreciation rates?",
+    "gold": "19",
+    "prediction": "64%"
+  },
+  {
+    "id": "ETR/2004/page_186.pdf-2",
+    "stratum": "numeric_simple",
+    "question": "what is the net change in net revenue during 2003 for entergy gulf states , inc.?",
+    "gold": "-20.6",
+    "prediction": "66%"
+  },
+  {
+    "id": "GRMN/2008/page_84.pdf-1",
+    "stratum": "numeric_simple",
+    "question": "what is the ratio between the value of vehicles and buildings and improvements?",
+    "gold": "0.1282",
+    "prediction": "64%"
+  },
+  {
+    "id": "LMT/2010/page_37.pdf-1",
+    "stratum": "numeric_simple",
+    "question": "what were average net sales for electronic systems in millions from 2008 to 2010?",
+    "gold": "13566",
+    "prediction": "64%"
+  },
+  {
+    "id": "ALLE/2018/page_121.pdf-1",
+    "stratum": "numeric_simple",
+    "question": "considering the years 2016-2018 , what is the average value of diluted earnings per share issuable under incentive stock plans?",
+    "gold": "0.9",
+    "prediction": "64%"
+  },
+  {
+    "id": "PNC/2011/page_208.pdf-2",
+    "stratum": "numeric_simple",
+    "question": "for commercial mortgage recourse obligations , what was average reserve adjustments net for 2010 and 2011 , in millions?",
+    "gold": "5",
+    "prediction": "64%"
+  },
+  {
+    "id": "KMI/2014/page_18.pdf-2",
+    "stratum": "numeric_simple",
+    "question": "what is the average capacity per jones act qualified tanker in mmbbl?",
+    "gold": ".33",
+    "prediction": "64%"
+  },
+  {
+    "id": "LMT/2015/page_106.pdf-2",
+    "stratum": "numeric_simple",
+    "question": "what is the change in millions of qualified defined benefit pension plans expected to be paid out between 2017 to 2018?",
+    "gold": "80",
+    "prediction": "64%"
+  },
+  {
+    "id": "IP/2009/page_83.pdf-2",
+    "stratum": "numeric_simple",
+    "question": "what was the change in unrecognized tax benefits between 2008 and 2009?",
+    "gold": "127",
+    "prediction": "64%"
+  },
+  {
+    "id": "MRO/2015/page_22.pdf-2",
+    "stratum": "numeric_simple",
+    "question": "how many of the year end 2015 proved undeveloped reserves were converted to proved developed reserves?",
+    "gold": "66.33",
+    "prediction": "64%"
+  },
+  {
+    "id": "ETR/2017/page_342.pdf-4",
+    "stratum": "numeric_simple",
+    "question": "in 2016 what was the ratio of the increase in the net income to the decrease in tax",
+    "gold": "1.3",
+    "prediction": "64%"
+  },
+  {
+    "id": "CE/2010/page_134.pdf-3",
+    "stratum": "numeric_simple",
+    "question": "what is the total number of shares subject to outstanding awards from both 2004 and 2009",
+    "gold": "8453601",
+    "prediction": "64%"
+  },
+  {
+    "id": "LMT/2010/page_37.pdf-2",
+    "stratum": "numeric_simple",
+    "question": "what are the total operating expenses in 2009?",
+    "gold": "11872",
+    "prediction": "64%"
+  },
+  {
+    "id": "AES/2003/page_168.pdf-2",
+    "stratum": "numeric_simple",
+    "question": "what was the average dividend or cash dividends received from consolidated subsidiaries and from affiliates accounted for by the equity method in millions in 2002?",
+    "gold": "17.5",
+    "prediction": "64%"
+  },
+  {
+    "id": "HOLX/2007/page_130.pdf-2",
+    "stratum": "numeric_simple",
+    "question": "based on the eps , how many shares are estimated to be oustanding?",
+    "gold": "52089.1",
+    "prediction": "64%"
+  },
+  {
+    "id": "GPN/2017/page_91.pdf-1",
+    "stratum": "numeric_simple",
+    "question": "what was the change in millions in the total fair value of restricted stock and performance awards vested from 2016 to 2017?",
+    "gold": "13.7",
+    "prediction": "64%"
+  },
+  {
+    "id": "JPM/2016/page_141.pdf-1",
+    "stratum": "numeric_simple",
+    "question": "in 2016 what was the ratio of the aaa/aaa to aa-/aa3 to the a+/a1 to a-/a3",
+    "gold": "1.35",
+    "prediction": "64%"
+  },
+  {
+    "id": "EMR/2018/page_28.pdf-3",
+    "stratum": "numeric_simple",
+    "question": "to maintain the same percentage of sales capital expenditure in 2019 as in 2018 what will be the sales needed in millions?",
+    "gold": "18571.4",
+    "prediction": "64%"
+  },
+  {
+    "id": "LMT/2015/page_106.pdf-1",
+    "stratum": "numeric_simple",
+    "question": "as of december 2015 what was the ratio of the estimated future benefit payments due in 2016 compared to after 2021",
+    "gold": "0.16",
+    "prediction": "64%"
+  },
+  {
+    "id": "ADBE/2014/page_99.pdf-1",
+    "stratum": "numeric_simple",
+    "question": "for rent expense for fiscal 2014 , 2013 and 2012 , what was the largest rent expense in thousands?",
+    "gold": "118976",
+    "prediction": "64%"
+  },
+  {
+    "id": "HIG/2004/page_67.pdf-2",
+    "stratum": "numeric_simple",
+    "question": "what is the net change in the number of outstanding shares from 2003 to 2004 , ( in millions ) ?",
+    "gold": "19.9",
+    "prediction": "64%"
+  },
+  {
+    "id": "FIS/2016/page_49.pdf-4",
+    "stratum": "numeric_simple",
+    "question": "what is the unfavorable foreign currency impact in operating expenses in 2016?",
+    "gold": "90",
+    "prediction": "64%"
+  },
+  {
+    "id": "IQV/2018/page_59.pdf-3",
+    "stratum": "numeric_simple",
+    "question": "if the remaining commitment for private equity fund was to be paid in 2019 , what would be the total commitment for 2019?",
+    "gold": "1065",
+    "prediction": "64%"
+  },
+  {
+    "id": "MRO/2014/page_18.pdf-1",
+    "stratum": "numeric_simple",
+    "question": "what are total african net undeveloped acres in thousands for 12/31/15?",
+    "gold": "3936",
+    "prediction": "64%"
+  },
+  {
+    "id": "ETFC/2013/page_159.pdf-2",
+    "stratum": "numeric_simple",
+    "question": "at december 31 , 2013 what was the ratio of the face values of outstanding trusts 2037 maturities to the 2036",
+    "gold": "2.44",
+    "prediction": "64%"
+  },
+  {
+    "id": "CME/2010/page_109.pdf-2",
+    "stratum": "numeric_simple",
+    "question": "in thousands , what was the average number of shares of class a common stock outstanding?",
+    "gold": "66679",
+    "prediction": "64%"
+  },
+  {
+    "id": "ADBE/2012/page_113.pdf-3",
+    "stratum": "numeric_simple",
+    "question": "during the second quarter of fiscal 2012 , what was the change in billions from the april 2012 plan to the new stock repurchase program granting authority to repurchase common stock through the end of fiscal 2015?",
+    "gold": "0.4",
+    "prediction": "66%"
+  },
+  {
+    "id": "IP/2014/page_71.pdf-3",
+    "stratum": "numeric_simple",
+    "question": "in 2014 what was the ratio of the international paper interest in other entities to debt obligation listed in the financial statements",
+    "gold": "0.98",
+    "prediction": "66%"
+  },
+  {
+    "id": "UNP/2011/page_40.pdf-2",
+    "stratum": "numeric_simple",
+    "question": "assuming a 120 day inventory turn , how of the receivables balance at december 31 , 2010 , was collected in q1 2011 in billions?",
+    "gold": "5.4",
+    "prediction": "64%"
+  },
+  {
+    "id": "AAPL/2011/page_37.pdf-2",
+    "stratum": "numeric_simple",
+    "question": "interest and dividend income was what percent of total other income in 2010?",
+    "gold": "201",
+    "prediction": "64%"
+  },
+  {
+    "id": "BLK/2016/page_75.pdf-2",
+    "stratum": "numeric_simple",
+    "question": "what is the net income in 2016?",
+    "gold": "3280",
+    "prediction": "64%"
+  },
+  {
+    "id": "DVN/2015/page_92.pdf-2",
+    "stratum": "numeric_simple",
+    "question": "in millions , what was the mathematical range of debt maturities for 2018-2020?",
+    "gold": "686",
+    "prediction": "64%"
+  },
+  {
+    "id": "PNC/2007/page_93.pdf-2",
+    "stratum": "numeric_simple",
+    "question": "consumer home equity lines of credit accounted for 80% ( 80 % ) of consumer unfunded credit commitments . what is this amount in 2007 in millions of dollars?",
+    "gold": "8699.4",
+    "prediction": "64%"
+  },
+  {
+    "id": "PPG/2012/page_70.pdf-4",
+    "stratum": "numeric_simple",
+    "question": "what was the change in millions of total stock-based compensation cost from 2010 to 2011?",
+    "gold": "-16",
+    "prediction": "64%"
+  },
+  {
+    "id": "HOLX/2009/page_141.pdf-1",
+    "stratum": "numeric_simple",
+    "question": "what is the net change in the equity investments in non-publicly traded securities from 2008 to 2009?",
+    "gold": "-1693",
+    "prediction": "64%"
+  },
+  {
+    "id": "HUM/2016/page_133.pdf-3",
+    "stratum": "numeric_simple",
+    "question": "what was the number of stockholders of record on january 12 , 2017 , for an aggregate amount of $ 43 million .",
+    "gold": "148",
+    "prediction": "64%"
+  },
+  {
+    "id": "MAA/2017/page_18.pdf-2",
+    "stratum": "numeric_simple",
+    "question": "what is the number of units necessary to stabilize the acklen west end community?",
+    "gold": "288",
+    "prediction": "64%"
+  },
+  {
+    "id": "NWS/2016/page_148.pdf-2",
+    "stratum": "numeric_simple",
+    "question": "as of june 302016 what was the ratio of the u.s . federal net operating loss carry forwards compared to the states",
+    "gold": "1.58",
+    "prediction": "64%"
+  },
+  {
+    "id": "PNC/2013/page_66.pdf-1",
+    "stratum": "numeric_simple",
+    "question": "for 2013 , in millions , what was the total of other intangibles and all other adjustments?",
+    "gold": "591",
+    "prediction": "66%"
+  },
+  {
+    "id": "IP/2015/page_51.pdf-3",
+    "stratum": "numeric_simple",
+    "question": "what was the ratio of discretionary company contributions in 2015 compared to 2014",
+    "gold": "2.12",
+    "prediction": "64%"
+  },
+  {
+    "id": "RSG/2018/page_47.pdf-2",
+    "stratum": "numeric_simple",
+    "question": "what is the ratio of the acquisitions / divestitures net to the fuel recovery fees as part of the expected 2019 revenue to increase",
+    "gold": "4",
+    "prediction": "64%"
+  },
+  {
+    "id": "PKG/2005/page_27.pdf-1",
+    "stratum": "numeric_simple",
+    "question": "what was total interest expense in millions in 2005 and 2004?",
+    "gold": "57.7",
+    "prediction": "66%"
+  },
+  {
+    "id": "AON/2018/page_90.pdf-4",
+    "stratum": "numeric_simple",
+    "question": "considering the years 2016-2018 , what is the average expense for the significant plans in the u.k.?",
+    "gold": "43.66",
+    "prediction": "66%"
+  },
+  {
+    "id": "CAT/2017/page_136.pdf-3",
+    "stratum": "numeric_simple",
+    "question": "what is the net change in warranty liability during 2017?",
+    "gold": "161",
+    "prediction": "64%"
+  },
+  {
+    "id": "HFC/2017/page_103.pdf-4",
+    "stratum": "numeric_complex",
+    "question": "what was the average storage costs from 2015 to 2017 in millions",
+    "gold": "137.8",
+    "prediction": "66%"
+  },
+  {
+    "id": "GPN/2015/page_82.pdf-2",
+    "stratum": "numeric_complex",
+    "question": "what was the total income tax benefit that came from buying back their common stock from 2013 to 2015?",
+    "gold": "$ 19.6 million",
+    "prediction": "64%"
+  },
+  {
+    "id": "JPM/2014/page_198.pdf-2",
+    "stratum": "numeric_complex",
+    "question": "at december 31 , 2014 what was the structured notes fva balance in billions?",
+    "gold": "-0.25",
+    "prediction": "64%"
+  },
+  {
+    "id": "AMT/2012/page_111.pdf-3",
+    "stratum": "numeric_complex",
+    "question": "what was the average company contribution to the retirement plan from 2010 to 2012",
+    "gold": "3.06",
+    "prediction": "66%"
+  },
+  {
+    "id": "PNC/2016/page_155.pdf-1",
+    "stratum": "numeric_complex",
+    "question": "what was the total intrinsic value of incentive/performance unit and restricted share/ restricted share unit awards vested during 2016 , 2015 and 2014 in billions?",
+    "gold": ".4",
+    "prediction": "64%"
+  },
+  {
+    "id": "VLO/2018/page_99.pdf-1",
+    "stratum": "numeric_complex",
+    "question": "how much , in billions , was spent purchasing common stock under the programs from 2016-2018?",
+    "gold": "4.1",
+    "prediction": "66%"
+  },
+  {
+    "id": "RSG/2016/page_69.pdf-1",
+    "stratum": "numeric_complex",
+    "question": "what was the net change in cash in 2016 in millions",
+    "gold": "35.4",
+    "prediction": "64%"
+  },
+  {
+    "id": "HII/2012/page_47.pdf-1",
+    "stratum": "numeric_complex",
+    "question": "what was the net increase in total assets during the 5 year period ?",
+    "gold": "1571000000",
+    "prediction": "64%"
+  },
+  {
+    "id": "BDX/2009/page_80.pdf-4",
+    "stratum": "numeric_complex",
+    "question": "what is the average of total fair value of time-vested restricted stock units vested during 2009 , 2008 and 2007?",
+    "gold": "19867",
+    "prediction": "64%"
+  },
+  {
+    "id": "PNC/2014/page_203.pdf-1",
+    "stratum": "numeric_complex",
+    "question": "what was the approximate average , in millions , for the tax benefit realized from option exercises under all incentive plans for 2014 , 2013 and 2012?",
+    "gold": "26",
+    "prediction": "64%"
+  },
+  {
+    "id": "AON/2013/page_54.pdf-4",
+    "stratum": "numeric_complex",
+    "question": "in 2014 what was the combined total experience loss",
+    "gold": "3633",
+    "prediction": "64%"
+  },
+  {
+    "id": "MRO/2007/page_79.pdf-2",
+    "stratum": "numeric_complex",
+    "question": "in millions , what would 2007 total debt increase to if the company fully draws its available revolver?",
+    "gold": "10215",
+    "prediction": "64%"
+  },
+  {
+    "id": "PNC/2012/page_246.pdf-2",
+    "stratum": "numeric_complex",
+    "question": "in billions , what was the change between 2011 and 2012 in net outstanding standby letters of credit?",
+    "gold": "0.7",
+    "prediction": "64%"
+  },
+  {
+    "id": "SLG/2010/page_81.pdf-4",
+    "stratum": "numeric_complex",
+    "question": "what was the average related party receivables from 2009 to 2010",
+    "gold": "7432.5",
+    "prediction": "64%"
+  },
+  {
+    "id": "WRK/2018/page_86.pdf-1",
+    "stratum": "numeric_complex",
+    "question": "what percent of the overall purchase value of star pizza was in customer relationship intangible assets and goodwill?",
+    "gold": "78.03",
+    "prediction": "64%"
+  },
+  {
+    "id": "KIM/2008/page_126.pdf-3",
+    "stratum": "numeric_complex",
+    "question": "what is the total of the company 2019s future minimum revenues under the terms of all non-cancelable tenant sublease from 2009-2011 , in millions?\\\\n",
+    "gold": "15.5",
+    "prediction": "64%"
+  },
+  {
+    "id": "IPG/2007/page_97.pdf-3",
+    "stratum": "numeric_complex",
+    "question": "what is the average of parent company guarantees from 2006-2007?",
+    "gold": "327.5",
+    "prediction": "64%"
+  },
+  {
+    "id": "AMT/2007/page_111.pdf-3",
+    "stratum": "numeric_complex",
+    "question": "assuming full exercise of the options and warrants assumed , what is the total millions of shares of class a common stock in the spectrasite deal?",
+    "gold": "186.2",
+    "prediction": "64%"
+  },
+  {
+    "id": "TFX/2015/page_42.pdf-1",
+    "stratum": "numeric_complex",
+    "question": "what is the total return of an investment of $ 1000000 in teleflex incorporated in 2010 and sold in 2015?",
+    "gold": "1660000",
+    "prediction": "66%"
+  },
+  {
+    "id": "PNC/2011/page_44.pdf-3",
+    "stratum": "numeric_complex",
+    "question": "in 2011 and 2010 what was the average net interest income in millions",
+    "gold": "8965",
+    "prediction": "64%"
+  },
+  {
+    "id": "SLG/2012/page_87.pdf-2",
+    "stratum": "numeric_complex",
+    "question": "what was the company's share of the value of the 521 fifth avenue acquisition based on the transaction cost?",
+    "gold": "122604300",
+    "prediction": "64%"
+  },
+  {
+    "id": "IP/2006/page_19.pdf-3",
+    "stratum": "numeric_complex",
+    "question": "what was the average industry segment operating profits from 2004 to 2006",
+    "gold": "1799.7",
+    "prediction": "64%"
+  },
+  {
+    "id": "ANSS/2012/page_76.pdf-1",
+    "stratum": "numeric_complex",
+    "question": "what is the average amortization expense related to capitalized and acquired software costs , including the related trademarks , from 2010-2012 , in millions ? \\\\n",
+    "gold": "35.8",
+    "prediction": "64%"
+  },
+  {
+    "id": "SLB/2009/page_57.pdf-1",
+    "stratum": "numeric_complex",
+    "question": "how many shares were repurchased in this period?",
+    "gold": "45000000",
+    "prediction": "64%"
+  },
+  {
+    "id": "JPM/2013/page_104.pdf-5",
+    "stratum": "numeric_complex",
+    "question": "based on the management 2019s discussion and analysis 110 jpmorgan chase & co what was the change in net income from 2011 to 2012 in billions",
+    "gold": "-1081",
+    "prediction": "66%"
+  },
+  {
+    "id": "SLB/2010/page_58.pdf-2",
+    "stratum": "numeric_complex",
+    "question": "what was the average beginning and ending balance of shares in millions outstanding during 2009?",
+    "gold": "1194.5",
+    "prediction": "66%"
+  },
+  {
+    "id": "PNC/2014/page_94.pdf-1",
+    "stratum": "numeric_complex",
+    "question": "as of dec 31 , 2014 , how big is the total loan portfolio , in billions?",
+    "gold": "204",
+    "prediction": "64%"
+  },
+  {
+    "id": "ECL/2015/page_70.pdf-3",
+    "stratum": "numeric_complex",
+    "question": "what is the net change in the balance of allowance for doubtful accounts during 2015?",
+    "gold": "-2",
+    "prediction": "64%"
+  },
+  {
+    "id": "EMN/2018/page_90.pdf-1",
+    "stratum": "numeric_complex",
+    "question": "what was the sum of the approximate compensation expense recognized in millions",
+    "gold": "7",
+    "prediction": "64%"
+  },
+  {
+    "id": "INTC/2016/page_43.pdf-1",
+    "stratum": "numeric_complex",
+    "question": "what is the growth rate in ccg operating income in 2016?",
+    "gold": "30.4",
+    "prediction": "64%"
+  },
+  {
+    "id": "GPN/2009/page_85.pdf-1",
+    "stratum": "numeric_complex",
+    "question": "what is the total value of non-vested shares as of may 31 , 2009 , ( in millions ) ?",
+    "gold": "32.0",
+    "prediction": "64%"
+  },
+  {
+    "id": "RSG/2010/page_132.pdf-2",
+    "stratum": "numeric_complex",
+    "question": "in 2009 what was the gross adjustment to the unrecognized tax benefits balance based on the federal and state settlements in millions",
+    "gold": "368",
+    "prediction": "64%"
+  },
+  {
+    "id": "AMT/2003/page_85.pdf-2",
+    "stratum": "numeric_complex",
+    "question": "what will be the balance of aggregate principal payments of long-term debt as of december 31 , 2005 , assuming that no new debt is issued?",
+    "gold": "3168159",
+    "prediction": "64%"
+  },
+  {
+    "id": "PNC/2012/page_96.pdf-1",
+    "stratum": "numeric_complex",
+    "question": "what is average estimated pretax pension expense for 2013 and 2012?",
+    "gold": "81",
+    "prediction": "64%"
+  },
+  {
+    "id": "CAT/2018/page_38.pdf-1",
+    "stratum": "numeric_complex",
+    "question": "what would profit per share be in 2019 with the same growth rate as 2018?\\\\n\\\\n",
+    "gold": "84.17",
+    "prediction": "64%"
+  },
+  {
+    "id": "STT/2001/page_41.pdf-1",
+    "stratum": "numeric_complex",
+    "question": "what was the value , in billions of dollars , of operating expenses in 2000?",
+    "gold": "2.69",
+    "prediction": "64%"
+  },
+  {
+    "id": "C/2009/page_38.pdf-1",
+    "stratum": "numeric_complex",
+    "question": "what was the revenues , net of interest expense in billions in 2008 reflecting the overall difficult market conditions .",
+    "gold": "19.6",
+    "prediction": "64%"
+  },
+  {
+    "id": "HIG/2004/page_125.pdf-2",
+    "stratum": "numeric_complex",
+    "question": "in 2004 what was the net change in cash",
+    "gold": "710",
+    "prediction": "64%"
+  },
+  {
+    "id": "HIG/2014/page_126.pdf-1",
+    "stratum": "numeric_complex",
+    "question": "what was the average statutory surplus for the company 2019s insurance companies for u.s . life insurance subsidiaries including domestic captive insurance subsidiaries from 2012 to 2013",
+    "gold": "6898",
+    "prediction": "64%"
+  },
+  {
+    "id": "HUM/2007/page_96.pdf-2",
+    "stratum": "numeric_complex",
+    "question": "considering the years 2005-2007 , what is the average fair value of shares vested , in millions?",
+    "gold": "2.1",
+    "prediction": "64%"
+  },
+  {
+    "id": "CME/2017/page_83.pdf-3",
+    "stratum": "numeric_complex",
+    "question": "what was the average principal in the ief programs at december 31 , 2017 and 2016 , in billions?",
+    "gold": "3.95",
+    "prediction": "64%"
+  },
+  {
+    "id": "MAA/2017/page_18.pdf-3",
+    "stratum": "numeric_complex",
+    "question": "during the year ended december 31 , 2017 , what was the ratio of the units disposed to the units acquired",
+    "gold": "2.94",
+    "prediction": "64%"
+  },
+  {
+    "id": "HWM/2015/page_89.pdf-2",
+    "stratum": "numeric_complex",
+    "question": "what was the decrease in the number of dollars obtained with the sale of primary aluminum during 2013 and 2014?",
+    "gold": "183.6",
+    "prediction": "64%"
+  },
+  {
+    "id": "IPG/2017/page_49.pdf-1",
+    "stratum": "numeric_complex",
+    "question": "what was the average interest income from 2016 and 2017 , in millions?",
+    "gold": "19.75",
+    "prediction": "66%"
+  },
+  {
+    "id": "RCL/2011/page_16.pdf-3",
+    "stratum": "numeric_complex",
+    "question": "what is the annual average of berths per ship , from 2012-2016 , that are expected to be placed in service in the north american cruise market?",
+    "gold": "85",
+    "prediction": "66%"
+  },
+  {
+    "id": "GPN/2016/page_29.pdf-2",
+    "stratum": "numeric_complex",
+    "question": "if $ 100000 are invested in s&p500 in may 2011 , what will be the total value of the investment in may 2012?",
+    "gold": "99590",
+    "prediction": "64%"
+  },
+  {
+    "id": "IP/2009/page_72.pdf-4",
+    "stratum": "numeric_complex",
+    "question": "what was the sum of the earnings ( loss ) from continuing operations",
+    "gold": "609",
+    "prediction": "64%"
+  },
+  {
+    "id": "LMT/2013/page_47.pdf-3",
+    "stratum": "numeric_complex",
+    "question": "what was the ratio of the net increase sales leading to the net increase in the operating profit in 2012 to the net decrease in the sales",
+    "gold": "4.08",
+    "prediction": "64%"
+  },
+  {
+    "id": "ANSS/2012/page_92.pdf-1",
+    "stratum": "numeric_complex",
+    "question": "what was the average shares granted as part of the long-term incentive plan , in the first quarter of 2012 , 2011 and 2010\\\\n",
+    "gold": "91000",
+    "prediction": "64%"
+  },
+  {
+    "id": "MO/2016/page_10.pdf-4",
+    "stratum": "numeric_complex",
+    "question": "what is the total units of shipment volume for smokeless products in 2015 , in millions?",
+    "gold": "813.63",
+    "prediction": "64%"
+  },
+  {
+    "id": "APTV/2013/page_48.pdf-1",
+    "stratum": "numeric_complex",
+    "question": "what is the increase in the dividend in total for the year of 2014?",
+    "gold": "$ 0.32",
+    "prediction": "64%"
+  },
+  {
+    "id": "CE/2009/page_121.pdf-4",
+    "stratum": "numeric_complex",
+    "question": "what was the net change number of units in 2009 in thousands",
+    "gold": "227",
+    "prediction": "64%"
+  },
+  {
+    "id": "IP/2005/page_29.pdf-4",
+    "stratum": "numeric_complex",
+    "question": "what was the average shorewood net sales from 2003 to 2005 in millions",
+    "gold": "681",
+    "prediction": "66%"
+  },
+  {
+    "id": "LMT/2015/page_52.pdf-4",
+    "stratum": "numeric_complex",
+    "question": "what was the average aeronautics 2019 operating profit from 2013 to 2015",
+    "gold": "1647.3",
+    "prediction": "64%"
+  },
+  {
+    "id": "ETR/2008/page_130.pdf-1",
+    "stratum": "numeric_complex",
+    "question": "what was the sum of the notes entergy issued to nypa with eight and seven annual installment payments",
+    "gold": "916",
+    "prediction": "64%"
+  },
+  {
+    "id": "IPG/2018/page_26.pdf-1",
+    "stratum": "numeric_complex",
+    "question": "how much more was spent on purchased shares in october than in november?",
+    "gold": "47501.7",
+    "prediction": "64%"
+  },
+  {
+    "id": "LMT/2016/page_105.pdf-1",
+    "stratum": "numeric_complex",
+    "question": "what is the average price of repurchased shares during 2015?",
+    "gold": "203.9",
+    "prediction": "64%"
+  },
+  {
+    "id": "EMR/2018/page_55.pdf-4",
+    "stratum": "numeric_complex",
+    "question": "with no additional approvals if the rate of issuance under the restricted stock plan for non-management directors continues how many years of stock to issue remain?",
+    "gold": "11.2",
+    "prediction": "64%"
+  },
+  {
+    "id": "GS/2012/page_177.pdf-1",
+    "stratum": "numeric_complex",
+    "question": "in billions as of december 2012 and december 2011 , what was the average amount of commitments to invest in funds managed by the firm , which will be funded at market value on the date of investment?",
+    "gold": "7.295",
+    "prediction": "64%"
+  },
+  {
+    "id": "MRO/2018/page_93.pdf-3",
+    "stratum": "numeric_complex",
+    "question": "what was total stock-based performance unit awards expense in 2018 , 2017 , and 2016 , in millions?",
+    "gold": "27",
+    "prediction": "64%"
+  },
+  {
+    "id": "AES/2001/page_43.pdf-1",
+    "stratum": "boolean_simple",
+    "question": "was the caribbean segment revenue increase greater than the south american growth ?",
+    "gold": "yes",
+    "prediction": "66%"
+  },
+  {
+    "id": "UNP/2012/page_30.pdf-2",
+    "stratum": "boolean_simple",
+    "question": "did contract services expense increase more in 2012 than in 2011?",
+    "gold": "no",
+    "prediction": "64%"
+  },
+  {
+    "id": "PNC/2018/page_81.pdf-1",
+    "stratum": "boolean_simple",
+    "question": "at december 31 , 2018 , were securities available for sale greater than total senior and subordinated debt?",
+    "gold": "yes",
+    "prediction": "64%"
+  },
+  {
+    "id": "ORLY/2018/page_30.pdf-2",
+    "stratum": "boolean_simple",
+    "question": "did the five year return on o 2019reilly automotive inc . outperform the s&p 500 retail index?",
+    "gold": "yes",
+    "prediction": "64%"
+  },
+  {
+    "id": "AES/2012/page_223.pdf-1",
+    "stratum": "boolean_simple",
+    "question": "was the impact of a decrease of 1% ( 1 % ) in the discount rate greater than the effect of a decrease of 1% ( 1 % ) in the long-term rate of return on plan assets?",
+    "gold": "no",
+    "prediction": "64%"
+  },
+  {
+    "id": "PPG/2018/page_54.pdf-2",
+    "stratum": "boolean_simple",
+    "question": "were 2017 advertising costs greater than r&d expenses?",
+    "gold": "no",
+    "prediction": "64%"
+  },
+  {
+    "id": "ORLY/2017/page_30.pdf-2",
+    "stratum": "boolean_simple",
+    "question": "was the o 2019reilly automotive inc five year return less than the s&p 500 retail index?",
+    "gold": "no",
+    "prediction": "66%"
+  },
+  {
+    "id": "FITB/2013/page_163.pdf-1",
+    "stratum": "boolean_simple",
+    "question": "during 2013 , were the fair value adjustments greater for loans transferred to held for sale greater than the adjustments for loans already classified as held for sale?",
+    "gold": "yes",
+    "prediction": "64%"
+  },
+  {
+    "id": "MRO/2009/page_137.pdf-1",
+    "stratum": "boolean_simple",
+    "question": "did the vesting date fair value of restricted stock awards which vested increase between 2008 and 2009?",
+    "gold": "no",
+    "prediction": "64%"
+  },
+  {
+    "id": "PPG/2016/page_42.pdf-1",
+    "stratum": "boolean_simple",
+    "question": "are r&d expenses greater than advertising costs in 2016?\\\\n",
+    "gold": "yes",
+    "prediction": "64%"
+  },
+  {
+    "id": "STZ/2010/page_51.pdf-3",
+    "stratum": "boolean_simple",
+    "question": "did the bwe acquisition cost more than the svedka acquisition?",
+    "gold": "yes",
+    "prediction": "64%"
+  },
+  {
+    "id": "PNC/2018/page_81.pdf-2",
+    "stratum": "boolean_simple",
+    "question": "were total deposits at december 31 , 2018 greater than total senior and subordinated debt?",
+    "gold": "yes",
+    "prediction": "64%"
+  },
+  {
+    "id": "JPM/2003/page_100.pdf-3",
+    "stratum": "boolean_simple",
+    "question": "do residential mortgage products have a longer past due period than other consumer products ? .",
+    "gold": "yes",
+    "prediction": "64%"
+  },
+  {
+    "id": "JPM/2018/page_149.pdf-6",
+    "stratum": "boolean_simple",
+    "question": "did the fv of derivative receivables increase from 2017 to 2018?",
+    "gold": "no",
+    "prediction": "64%"
+  },
+  {
+    "id": "GS/2016/page_79.pdf-4",
+    "stratum": "boolean_simple",
+    "question": "of the total aus net inflows/ ( outflows ) for 2014 were fixed income asset inflows in connection with our acquisition of deutsche asset & wealth management 2019s stable value business greater than the liquidity products inflows in connection with our acquisition of rbs asset management 2019s money market funds?",
+    "gold": "yes",
+    "prediction": "66%"
+  },
+  {
+    "id": "UNP/2012/page_30.pdf-1",
+    "stratum": "boolean_simple",
+    "question": "was 2010 interest expense greater than the nonrecurring expenses of the one-time payment to csx in the first quarter of 2010?",
+    "gold": "yes",
+    "prediction": "64%"
+  },
+  {
+    "id": "PNC/2015/page_198.pdf-1",
+    "stratum": "boolean_simple",
+    "question": "was the derivatives designated as hedging instruments under gaap greater than the derivatives not designated as hedging instruments under gaap for 2015?",
+    "gold": "no",
+    "prediction": "64%"
+  },
+  {
+    "id": "VNO/2011/page_187.pdf-2",
+    "stratum": "boolean_simple",
+    "question": "did future base rental revenue under non-cancelable operating leases , excluding rents for leases with an original term of less than one year and rents resulting from the exercise of renewal options , decrease from 2012 to 2013?",
+    "gold": "yes",
+    "prediction": "64%"
+  },
+  {
+    "id": "PNC/2013/page_66.pdf-2",
+    "stratum": "boolean_simple",
+    "question": "for 2013 , was the basel i tier 1 common capital $ 28484 without phased-in regulatory capital adjustments greater than estimated basel iii transitional tier 1 common capital with 2014 phase-ins?",
+    "gold": "no",
+    "prediction": "66%"
+  },
+  {
+    "id": "JPM/2018/page_73.pdf-5",
+    "stratum": "boolean_simple",
+    "question": "did jpmorgan chase outperform the kbw bank index?",
+    "gold": "yes",
+    "prediction": "64%"
+  },
+  {
+    "id": "PNC/2011/page_183.pdf-2",
+    "stratum": "boolean_simple",
+    "question": "were there more isos granted in the year than restricted stock units?",
+    "gold": "no",
+    "prediction": "64%"
+  },
+  {
+    "id": "DISCA/2018/page_39.pdf-2",
+    "stratum": "boolean_simple",
+    "question": "did the b series stock's 5 year performance beat the s&p 500?",
+    "gold": "no",
+    "prediction": "64%"
+  },
+  {
+    "id": "PNC/2014/page_84.pdf-1",
+    "stratum": "boolean_simple",
+    "question": "for pension expense , does a .5% ( .5 % ) decrease in expected long-term return on assets have a greater impact than a .5% ( .5 % ) increase in compensation rate?",
+    "gold": "yes",
+    "prediction": "64%"
+  },
+  {
+    "id": "PNC/2007/page_83.pdf-2",
+    "stratum": "boolean_simple",
+    "question": "was diluted-as reported net income per share greater than diluted-pro forma net income per share?",
+    "gold": "yes",
+    "prediction": "64%"
+  },
+  {
+    "id": "VNO/2011/page_85.pdf-2",
+    "stratum": "boolean_simple",
+    "question": "was the quarterly high sales prices of the common shares and dividends paid per share for the first quarter of the year ended december 31 , 2011 higher than the fourth quarter of that period?",
+    "gold": "yes",
+    "prediction": "64%"
+  },
+  {
+    "id": "PNC/2016/page_73.pdf-2",
+    "stratum": "boolean_simple",
+    "question": "was the interest only product balance for the 2017 draw period greater than the 2018 draw period?\\\\n\\\\n",
+    "gold": "yes",
+    "prediction": "64%"
+  },
+  {
+    "id": "MRO/2015/page_43.pdf-2",
+    "stratum": "boolean_simple",
+    "question": "was 2016 spending greater for international e&p than for oil sands mining?",
+    "gold": "yes",
+    "prediction": "64%"
+  },
+  {
+    "id": "GS/2012/page_95.pdf-4",
+    "stratum": "boolean_simple",
+    "question": "was the estimated sensitivity to a one basis point increase in credit spreads ( counterparty and our own ) on derivatives greater than the estimated sensitivity to a one basis point increase in our own credit spreads on unsecured borrowings for which the fair value option was elected as of december 2012?",
+    "gold": "no",
+    "prediction": "64%"
+  },
+  {
+    "id": "PKG/2006/page_65.pdf-1",
+    "stratum": "boolean_simple",
+    "question": "for 2006 , was stock options expense greater than restricted stock expense?",
+    "gold": "yes",
+    "prediction": "64%"
+  },
+  {
+    "id": "BLL/2006/page_108.pdf-1",
+    "stratum": "boolean_simple",
+    "question": "in the equity plans for 2006 , are there more shares issued than remaining in the plan?",
+    "gold": "yes",
+    "prediction": "64%"
+  },
+  {
+    "id": "VNO/2007/page_192.pdf-1",
+    "stratum": "boolean_simple",
+    "question": "for the year ending december 31 , 2008 , were principal payments greater than 2009?",
+    "gold": "yes",
+    "prediction": "64%"
+  },
+  {
+    "id": "JPM/2017/page_69.pdf-2",
+    "stratum": "boolean_simple",
+    "question": "did jpmorgan chase outperform the s&p 500 index?\\\\n",
+    "gold": "yes",
+    "prediction": "64%"
+  },
+  {
+    "id": "ECL/2017/page_85.pdf-4",
+    "stratum": "boolean_simple",
+    "question": "is the long term debt maturing in 2021 greater than 2022?",
+    "gold": "yes",
+    "prediction": "64%"
+  },
+  {
+    "id": "PNC/2013/page_85.pdf-1",
+    "stratum": "boolean_simple",
+    "question": "for 2014 , is the pension expense impact of a .5% ( .5 % ) decrease in expected long-term return on assets larger than a .5% ( .5 % ) increase in compensation rate?",
+    "gold": "yes",
+    "prediction": "64%"
+  },
+  {
+    "id": "AAPL/2018/page_23.pdf-3",
+    "stratum": "boolean_simple",
+    "question": "did apple outperform ( earn a greater return ) than the s&p information technology index in september 2018?",
+    "gold": "yes",
+    "prediction": "66%"
+  },
+  {
+    "id": "JPM/2015/page_77.pdf-4",
+    "stratum": "boolean_simple",
+    "question": "did jpmorgan chase outperform the s&p financial index?",
+    "gold": "yes",
+    "prediction": "64%"
+  },
+  {
+    "id": "PNC/2011/page_44.pdf-2",
+    "stratum": "boolean_simple",
+    "question": "for 2010 was the noncash expense in connection with the redemption of tarp preferred stock less than total net interest income?",
+    "gold": "no",
+    "prediction": "64%"
+  },
+  {
+    "id": "CME/2010/page_45.pdf-2",
+    "stratum": "boolean_simple",
+    "question": "did the cme group outperform the new peer group?",
+    "gold": "yes",
+    "prediction": "64%"
+  },
+  {
+    "id": "DISCA/2018/page_39.pdf-4",
+    "stratum": "boolean_simple",
+    "question": "did the k series 5 year total return outperform the s&p 500?",
+    "gold": "no",
+    "prediction": "64%"
+  },
+  {
+    "id": "PNC/2008/page_62.pdf-2",
+    "stratum": "boolean_simple",
+    "question": "is pretax pension expense in 2009 larger when compared with a pretax benefit in 2008?",
+    "gold": "yes",
+    "prediction": "64%"
+  },
+  {
+    "id": "MRO/2007/page_79.pdf-1",
+    "stratum": "boolean_complex",
+    "question": "did the company increase it's quarterly dividend rate from 2007 to 2008?",
+    "gold": "yes",
+    "prediction": "64%"
+  },
+  {
+    "id": "AWK/2018/page_162.pdf-2",
+    "stratum": "boolean_complex",
+    "question": "was actual return on assets greater than purchases issuances and settlements?",
+    "gold": "yes",
+    "prediction": "64%"
+  },
+  {
+    "id": "UNP/2012/page_55.pdf-1",
+    "stratum": "boolean_complex",
+    "question": "did freight revenue in the agricultural group increase at a faster pace in 2012 than in the automotive business?",
+    "gold": "no",
+    "prediction": "66%"
+  },
+  {
+    "id": "CDW/2015/page_34.pdf-2",
+    "stratum": "boolean_complex",
+    "question": "did 2015 adjusted ebitda increase more than 2015 actual ebitda?",
+    "gold": "no",
+    "prediction": "64%"
+  },
+  {
+    "id": "MRO/2009/page_149.pdf-2",
+    "stratum": "boolean_complex",
+    "question": "were total revisions of estimates greater than accretion of discounts?",
+    "gold": "yes",
+    "prediction": "64%"
+  },
+  {
+    "id": "ETR/2016/page_24.pdf-1",
+    "stratum": "boolean_complex",
+    "question": "was the tax benefit from the the stipulated settlement in the business combination granting customer credits greater than the change in revenue between years?",
+    "gold": "no",
+    "prediction": "64%"
+  },
+  {
+    "id": "UNP/2011/page_80.pdf-1",
+    "stratum": "boolean_complex",
+    "question": "did the annual interest savings on the redemption of the 6.5% ( 6.5 % ) notes exceed the cost of the early extinguishment?",
+    "gold": "no",
+    "prediction": "64%"
+  },
+  {
+    "id": "UNP/2011/page_80.pdf-2",
+    "stratum": "boolean_complex",
+    "question": "did the annual interest savings on the redemption of the 6.65% ( 6.65 % ) notes exceed the cost of the early extinguishment?",
+    "gold": "yes",
+    "prediction": "64%"
+  },
+  {
+    "id": "JPM/2012/page_110.pdf-1",
+    "stratum": "boolean_complex",
+    "question": "is the three year average credit risk greater than the market risk",
+    "gold": "yes",
+    "prediction": "64%"
+  },
+  {
+    "id": "ANET/2017/page_157.pdf-2",
+    "stratum": "boolean_complex",
+    "question": "as of december 31 , 2017 , are future lease commitments greater than purchase commitments for contract manufacturers and suppliers?",
+    "gold": "yes",
+    "prediction": "66%"
+  }
+]

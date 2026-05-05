@@ -1,0 +1,48 @@
+{
+  "config": "C3_LoRA_vanilla",
+  "variant": "vanilla",
+  "adapter_dir": "/content/drive/MyDrive/finqa-rag-lora-ablation/checkpoints/c3_vanilla/final",
+  "model": "google/flan-t5-base",
+  "data_path": "data/processed/finqa_500.json",
+  "n_samples": 500,
+  "timestamp": "20260505_101211",
+  "metrics": {
+    "overall": {
+      "n_samples": 500,
+      "f1": 0.006,
+      "rouge_l": 0.006
+    },
+    "by_stratum": {
+      "percentage_complex": {
+        "n_samples": 130,
+        "f1": 0.007692307692307693,
+        "rouge_l": 0.007692307692307693
+      },
+      "percentage_simple": {
+        "n_samples": 130,
+        "f1": 0.015384615384615385,
+        "rouge_l": 0.015384615384615385
+      },
+      "boolean_complex": {
+        "n_samples": 10,
+        "f1": 0.0,
+        "rouge_l": 0.0
+      },
+      "numeric_simple": {
+        "n_samples": 130,
+        "f1": 0.0,
+        "rouge_l": 0.0
+      },
+      "numeric_complex": {
+        "n_samples": 60,
+        "f1": 0.0,
+        "rouge_l": 0.0
+      },
+      "boolean_simple": {
+        "n_samples": 40,
+        "f1": 0.0,
+        "rouge_l": 0.0
+      }
+    }
+  }
+}

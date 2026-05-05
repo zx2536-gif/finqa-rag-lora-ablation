@@ -2,8 +2,11 @@
 LoRA / QLoRA fine-tuning for Flan-T5-Base on FinQA.
 
 Supports two variants:
-- vanilla: fp16 LoRA (no quantization)
+- vanilla: bf16 LoRA (no quantization, A100-friendly)
 - qlora:   4-bit quantized base model + LoRA (memory-efficient)
+
+Hyperparameters tuned to avoid mode collapse: higher LR (3e-4), more
+epochs (5), larger LoRA rank (16), full attention coverage (q,k,v,o).
 """
 
 import json
@@ -27,10 +30,7 @@ def load_data(train_path: str, dev_path: str):
         train_data = json.load(f)
     with open(dev_path) as f:
         dev_data = json.load(f)
-    
-    train_ds = Dataset.from_list(train_data)
-    dev_ds = Dataset.from_list(dev_data)
-    return train_ds, dev_ds
+    return Dataset.from_list(train_data), Dataset.from_list(dev_data)
 
 
 def tokenize_dataset(dataset, tokenizer, max_input_length=512, max_target_length=64):
@@ -50,23 +50,33 @@ def tokenize_dataset(dataset, tokenizer, max_input_length=512, max_target_length
         )
         model_inputs['labels'] = labels['input_ids']
         return model_inputs
-    
     return dataset.map(_tokenize, batched=True, remove_columns=['id', 'input', 'target'])
 
 
-def build_model(variant: str, model_name: str = 'google/flan-t5-base'):
-    """Build base model + LoRA wrapper for the given variant."""
+def build_model(variant: str,
+                model_name: str = 'google-t5/t5-base',
+                lora_r: int = 16,
+                lora_alpha: int = 32,
+                lora_dropout: float = 0.1,
+                target_modules=None):
+    """Build base model + LoRA wrapper.
+    
+    Default target_modules covers the full attention block (q, k, v, o)
+    rather than just q/v -- this gives LoRA enough capacity to learn 
+    real reasoning, not just output bias.
+    """
+    if target_modules is None:
+        target_modules = ['q', 'k', 'v', 'o']
+    
     if variant == 'vanilla':
-        # Standard fp16 LoRA
         model = T5ForConditionalGeneration.from_pretrained(
-            model_name, torch_dtype=torch.float16
+            model_name, torch_dtype=torch.bfloat16
         )
     elif variant == 'qlora':
-        # 4-bit quantized base model
         bnb_config = BitsAndBytesConfig(
             load_in_4bit=True,
             bnb_4bit_quant_type='nf4',
-            bnb_4bit_compute_dtype=torch.float16,
+            bnb_4bit_compute_dtype=torch.bfloat16,
             bnb_4bit_use_double_quant=True,
         )
         model = T5ForConditionalGeneration.from_pretrained(
@@ -78,21 +88,22 @@ def build_model(variant: str, model_name: str = 'google/flan-t5-base'):
     else:
         raise ValueError(f"Unknown variant: {variant}")
     
-    # Apply LoRA on attention q, v
     lora_config = LoraConfig(
         task_type=TaskType.SEQ_2_SEQ_LM,
-        r=8,
-        lora_alpha=16,
-        lora_dropout=0.1,
-        target_modules=['q', 'v'],
+        r=lora_r,
+        lora_alpha=lora_alpha,
+        lora_dropout=lora_dropout,
+        target_modules=target_modules,
         bias='none',
     )
     model = get_peft_model(model, lora_config)
     
-    # Show trainable params
     trainable = sum(p.numel() for p in model.parameters() if p.requires_grad)
     total = sum(p.numel() for p in model.parameters())
-    print(f"  Trainable params: {trainable:,} / {total:,} ({trainable/total*100:.2f}%)")
+    print(f"  LoRA config: r={lora_r}, alpha={lora_alpha}, "
+          f"target_modules={target_modules}")
+    print(f"  Trainable params: {trainable:,} / {total:,} "
+          f"({trainable/total*100:.2f}%)")
     
     return model
 
@@ -101,23 +112,27 @@ def train_lora(variant: str,
                train_path: str = 'data/processed/training/train.json',
                dev_path: str = 'data/processed/training/dev.json',
                output_dir: str = None,
-               model_name: str = 'google/flan-t5-base',
-               epochs: int = 3,
+               model_name: str = 'google-t5/t5-base',
+               epochs: int = 5,
                batch_size: int = 16,
-               learning_rate: float = 1e-4,
+               learning_rate: float = 3e-4,
+               warmup_ratio: float = 0.1,
+               lora_r: int = 16,
+               lora_alpha: int = 32,
                n_train_samples: int = None):
-    """Train a LoRA adapter end-to-end."""
+    """Train a LoRA adapter end-to-end.
     
+    Default hyperparameters are tuned for FinQA + Flan-T5-Base based on 
+    initial mode-collapse experiment (LR=1e-4 was insufficient).
+    """
     if output_dir is None:
         output_dir = f'/content/drive/MyDrive/finqa-rag-lora-ablation/checkpoints/c3_{variant}'
     
     print(f"=== Training C3 {variant.upper()} LoRA ===")
     print(f"Output dir: {output_dir}")
     
-    # Tokenizer
     tokenizer = T5Tokenizer.from_pretrained(model_name)
     
-    # Data
     print(f"\nLoading data...")
     train_ds, dev_ds = load_data(train_path, dev_path)
     if n_train_samples:
@@ -129,15 +144,12 @@ def train_lora(variant: str,
     train_tokenized = tokenize_dataset(train_ds, tokenizer)
     dev_tokenized = tokenize_dataset(dev_ds, tokenizer)
     
-    # Model
     print(f"\nBuilding {variant} model...")
-    model = build_model(variant, model_name)
+    model = build_model(variant, model_name, lora_r=lora_r, lora_alpha=lora_alpha)
     
-    # Data collator (handles dynamic padding)
     collator = DataCollatorForSeq2Seq(tokenizer, model=model, padding='longest')
     
-    # Training arguments
-    fp16 = (variant == 'vanilla')  # vanilla uses fp16; qlora uses 4-bit + fp16 compute
+    use_bf16 = (variant == 'vanilla')
     
     args = Seq2SeqTrainingArguments(
         output_dir=output_dir,
@@ -145,16 +157,18 @@ def train_lora(variant: str,
         per_device_train_batch_size=batch_size,
         per_device_eval_batch_size=batch_size,
         learning_rate=learning_rate,
-        logging_steps=50,
+        warmup_ratio=warmup_ratio,
+        lr_scheduler_type='cosine',
+        logging_steps=20,
         eval_strategy='epoch',
         save_strategy='epoch',
         save_total_limit=1,
         load_best_model_at_end=True,
         metric_for_best_model='eval_loss',
         greater_is_better=False,
-        fp16=fp16,
-        report_to='none',  # disable wandb for now
-        predict_with_generate=False,  # eval with loss only (faster)
+        bf16=use_bf16,
+        report_to='none',
+        predict_with_generate=False,
     )
     
     trainer = Seq2SeqTrainer(
@@ -165,15 +179,14 @@ def train_lora(variant: str,
         data_collator=collator,
     )
     
-    # Train
     print(f"\n=== Starting training ===")
-    print(f"Epochs: {epochs}, Batch size: {batch_size}, LR: {learning_rate}")
+    print(f"Epochs: {epochs}, Batch size: {batch_size}, LR: {learning_rate}, "
+          f"Warmup: {warmup_ratio}, Scheduler: cosine")
     print(f"Steps per epoch: ~{len(train_tokenized) // batch_size}")
     print(f"Total steps:     ~{len(train_tokenized) // batch_size * epochs}")
     
     trainer.train()
     
-    # Save final adapter
     final_dir = os.path.join(output_dir, 'final')
     model.save_pretrained(final_dir)
     tokenizer.save_pretrained(final_dir)
