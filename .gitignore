@@ -232,3 +232,6 @@ wandb/
 
 # Jupyter cache
 .ipynb_checkpoints/
+
+# Gradio cache
+.gradio/
